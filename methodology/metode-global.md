@@ -26,7 +26,7 @@ phase   axis    phase   axis    phase   axis    phase   axis
 | 7 | **EXP** | phase (corner SUB+PRA+FEN) | Experience: implementation |
 | 8 | **FEN** | axial mediator (D3+) | Phenomenal bridge from experience back to analysis |
 
-The four phases (ANA, SIN, AMO, EXP) are root categories — corners of the Cartesian skeleton. The four mediators (TEO, NOU, PRA, FEN) are cardinal axis-poles the trajectory passes through. The Globalística book calls this the **Volta d'Aplicació** (Application Loop) — one of three basic *voltes* in the Meta-Globàlium.
+The four phases (ANA, SIN, AMO, EXP) are root categories — corners of the Cartesian skeleton. The four mediators (TEO, NOU, PRA, FEN) are cardinal axis-poles the trajectory passes through. The Globalística book calls this the **Application Cycle** *(Volta d'Aplicació)* — one of three basic cycles (*voltes*) in the Meta-Globàlium.
 
 ## The four phases
 

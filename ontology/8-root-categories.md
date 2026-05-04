@@ -68,8 +68,8 @@ The 8 axis poles generate, by combination and projection, the rest of the Meta-G
 
 Eight categories sit on the Neutral sphere as **mediators between cardinal axis poles** — the joints of the two main *voltes* (cyclical trajectories) of the Mètode Global. They are documented in detail in [`8-central-categories.md`](8-central-categories.md):
 
-- **Volta d'Aplicació** — ANA, SIN, AMO, EXP (the four phases of the Mètode Global)
-- **Volta de Revelació** — STT, STM, SGE, SGT (the four addressors: sense, feeling, sign, meaning)
+- **Application Cycle** *(Volta d'Aplicació)* — ANA, SIN, AMO, EXP (the four phases of the Mètode Global)
+- **Revelation Cycle** *(Volta de Revelació)* — STT, STM, SGE, SGT (the four addressors: sense, feeling, sign, meaning)
 
 ## See also
 

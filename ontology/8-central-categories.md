@@ -6,12 +6,12 @@ They form **two groups of four**, each describing a circular trajectory (*volta*
 
 | Group | Trajectory | Categories | Role |
 |-------|-----------|------------|------|
-| **Volta d'Aplicació** *(Application loop)* | vertical meridian (x = 0) connecting TEO/PRA × FEN/NOU | ANA · SIN · AMO · EXP | the four phases of the **Mètode Global** — analysis, synthesis, love, experience |
-| **Volta de Revelació** *(Revelation loop)* | lateral meridian (z = 0) connecting SUB/OBJ × TEO/PRA | STT · STM · SGT · SGE | the four ***adreçadors*** (addressors) — sense, feeling, meaning, sign |
+| **Application Cycle** *(Volta d'Aplicació)* | vertical meridian (x = 0) connecting TEO/PRA × FEN/NOU | ANA · SIN · AMO · EXP | the four phases of the **Mètode Global** — analysis, synthesis, love, experience |
+| **Revelation Cycle** *(Volta de Revelació)* | lateral meridian (z = 0) connecting SUB/OBJ × TEO/PRA | STT · STM · SGT · SGE | the four ***adreçadors*** (addressors) — sense, feeling, meaning, sign |
 
-Each volta visits 4 cardinal axis poles + 4 secondary mediators, forming an 8-point cycle. See [`../methodology/metode-global.md`](../methodology/metode-global.md) for the full account of the Mètode Global cycle.
+Each cycle visits 4 cardinal axis poles + 4 secondary mediators, forming an 8-point loop. See [`../methodology/metode-global.md`](../methodology/metode-global.md) for the full account of the Mètode Global cycle.
 
-## Volta d'Aplicació — the Mètode Global
+## Application Cycle *(Volta d'Aplicació)* — the Mètode Global
 
 **Trajectory** *(8-point cycle)*: ANA → TEO → SIN → NOU → AMO → PRA → EXP → FEN → (ANA)
 
@@ -50,11 +50,11 @@ Good. The full internal freedom of all transcendent concrete reality. Universal 
 
 Situation. Direct observation. Work. Strength and Challenge of each concrete event.
 
-## Volta de Revelació — the four addressors
+## Revelation Cycle *(Volta de Revelació)* — the four addressors
 
 **Trajectory**: STM → STT → SGT → SGE (then back to STM via the cardinal poles SUB-TEO-OBJ-PRA).
 
-The four *adreçadors* (addressors) are the orientations through which subjective experience and objective reality address each other. This volta is canonical for *orientation, alignment, conflict resolution, finding direction and meaning* — questions like "What do I feel?", "What do I want?", "What do I commit to?", "What conditions do I need?".
+The four *adreçadors* (addressors) are the orientations through which subjective experience and objective reality address each other. This cycle is canonical for *orientation, alignment, conflict resolution, finding direction and meaning* — questions like "What do I feel?", "What do I want?", "What do I commit to?", "What conditions do I need?".
 
 | Addressor | Position | Coords (x, y) | Stage |
 |-----------|----------|---------------|-------|
@@ -93,14 +93,14 @@ Things. This. Concrete external or internal signs and warnings.
 
 Within each volta, the 4 categories form 2 dialectical pairs (opposite corners of the 2D square they trace):
 
-### Volta d'Aplicació pairs
+### Application Cycle pairs
 
 | | dialectical opposite | shared axis | difference |
 |---|---|---|---|
 | **ANA** *(Analysis)* | ↔ **AMO** *(Love)* | y/z diagonal | OBJ-distinction vs SUB-care; theoretical vs practical |
 | **SIN** *(Synthesis)* | ↔ **EXP** *(Experience)* | y/z diagonal | OBJ-articulation vs SUB-living; theoretical vs practical |
 
-### Volta de Revelació pairs
+### Revelation Cycle pairs
 
 | | dialectical opposite | shared axis | difference |
 |---|---|---|---|
