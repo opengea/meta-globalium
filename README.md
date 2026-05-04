@@ -32,10 +32,11 @@ The intuition is not new. From Llull's combinatorial wheels (13th century) to Xi
 meta-globalium/
 ├── ontology/          The model itself
 │   ├── 4-axes.md          OBJ/SUB · TEO/PRA · FEN/NOU · PLA/MON
-│   ├── 8-root-categories.md   The 8 axis poles + 8 secondary mediators
-│   ├── 12-disciplines.md      Academic discipline categories
-│   ├── 80-categories.md       Full canonical listing (Plasmàtica/Neutral/Mundana)
-│   ├── fractal-N1-N2.md       Universal principles + thematized expressions
+│   ├── 8-root-categories.md     The 8 axis poles (Tier 1)
+│   ├── 8-central-categories.md  The 8 secondary mediators (Tier 2)
+│   ├── 12-disciplines.md        Academic disciplines (Tier 3)
+│   ├── 80-categories.md         Full canonical listing
+│   ├── fractal-N1-N2.md         Universal principles + thematized expressions
 │   └── data/
 │       ├── categories.json     Full export with multilingual labels and 4D coordinates
 │       └── metastructures.json 33 thematized metamodels

@@ -64,49 +64,12 @@ The 8 axis poles generate, by combination and projection, the rest of the Meta-G
 - **80 canonical categories** total — see [`80-categories.md`](80-categories.md).
 - **Fractal expansion** to thousands of derived metacategories — see [`fractal-N1-N2.md`](fractal-N1-N2.md).
 
-## The 8 secondary mediator categories *(Neutral, gen 1.5)*
+## The 8 central (secondary mediator) categories *(Neutral, gen 1.5)*
 
-Eight categories sit on the Neutral sphere as **mediators between cardinal axis poles**. They are the trajectory points of the two main *voltes* (cyclical paths) of the Mètode Global:
+Eight categories sit on the Neutral sphere as **mediators between cardinal axis poles** — the joints of the two main *voltes* (cyclical trajectories) of the Mètode Global. They are documented in detail in [`8-central-categories.md`](8-central-categories.md):
 
-### Volta d'Aplicació *(Application loop)* — vertical meridian connecting TEO/PRA × FEN/NOU
-
-### **ANA** — Analysis *(CA: Anàlisi)* · coords (x,y,z) = (0, 60, 77)
-
-Discernment. Mental abstraction. Qualities and accidents. Nuance.
-
-### **SIN** — Synthesis *(CA: Síntesi)* · coords (x,y,z) = (0, 60, -77)
-
-Wisdom. Abstract unitary grasp of transcendent reality.
-
-### **AMO** — Love *(CA: Amor)* · coords (x,y,z) = (0, -60, -77)
-
-Good. The full internal freedom of all transcendent concrete reality. Universal practical communion. Concretion of transcendence.
-
-### **EXP** — Experience *(CA: Experiència)* · coords (x,y,z) = (0, -60, 77)
-
-Situation. Direct observation. Work. Strength and Challenge of each concrete event.
-
-Trajectory: ANA → TEO → SIN → NOU → AMO → PRA → EXP → FEN → (ANA). See [`../methodology/metode-global.md`](../methodology/metode-global.md).
-
-### Volta de Revelació *(Revelation loop)* — lateral meridian connecting SUB/OBJ × TEO/PRA via the four addressors
-
-The four *adreçadors* (addressors): feeling, sense, meaning, sign. Trajectory: STM → STT → SGT → SGE.
-
-### **STM** — Feeling *(CA: Sentiment)* · coords (x,y,z) = (-80, -60, 0)
-
-Soul. Drive and vital force. The permanent emotion of living.
-
-### **STT** — Sense *(CA: Sentit)* · coords (x,y,z) = (-80, 60, 0)
-
-Intelligence. Guess. Game.
-
-### **SGT** — Meaning *(CA: Significat)* · coords (x,y,z) = (80, 60, 0)
-
-Definition. The accepted definition of objects. The scholarly world of memory.
-
-### **SGE** — Sign *(CA: Signe)* · coords (x,y,z) = (80, -60, 0)
-
-Things. This. Concrete external or internal signs and warnings.
+- **Volta d'Aplicació** — ANA, SIN, AMO, EXP (the four phases of the Mètode Global)
+- **Volta de Revelació** — STT, STM, SGE, SGT (the four addressors: sense, feeling, sign, meaning)
 
 ## See also
 
