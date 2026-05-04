@@ -1018,7 +1018,7 @@ References
 
 - Bai, Y., Kadavath, S., Kundu, S., Askell, A., Kernion, J., et al. (2022). *Constitutional AI: Harmlessness from AI Feedback*. Anthropic. arXiv:2212.08073. [arxiv.org/abs/2212.08073](https://arxiv.org/abs/2212.08073)
 - Berenguer, J. (2023). *Saviesa Artificial* [Artificial Wisdom]. Notebook of Globalística. Opengea SCCL, Barcelona. [arkadium.ai/documents/saviesa-artificial/](https://arkadium.ai/documents/saviesa-artificial/)
-- Berenguer, J. (2024). *Globàlium petit manual* [Globàlium small manual]. December 2024 edition. Opengea SCCL, Barcelona. [arkadium.ai/documents/globalium-petit-manual/ca/](https://arkadium.ai/documents/globalium-petit-manual/ca/)
+- Berenguer, J. (2024). *Globàlium petit manual* [Globàlium small manual]. December 2024 edition. Opengea SCCL, Barcelona. [arkadium.ai/documents/globalium-petit-manual/en/](https://arkadium.ai/documents/globalium-petit-manual/en/)
 - Berenguer, J. (in preparation). *Globalística — Estudi i aplicació de models globals de la realitat* [Globalística — Study and application of global models of reality]. Opengea SCCL.
 - Berenguer, J. (2026). *Globàlium Manifest 2026*. Opengea SCCL.
 - DeepSeek-AI (2025). *DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning*. arXiv:2501.12948. [arxiv.org/abs/2501.12948](https://arxiv.org/abs/2501.12948)
