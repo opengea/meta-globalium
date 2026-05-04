@@ -1,6 +1,6 @@
 {
   "model": "Meta-Globàlium",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "CC BY-SA 4.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
   "source_repository": "https://github.com/opengea/meta-globalium",
@@ -47,8 +47,12 @@
     "Neutral": 26,
     "Plasmàtica": 27
   },
-  "generated_at": "2026-05-04T09:08:20Z",
-  "note_polar_vertices": "Some entries with single-letter labels (k/p/e/r) at radius 233 are polar construction vertices used by the 3D projection; they are scaffolding for the geometry, not canonical conceptual categories. Filter on \"label NOT LIKE '%[1-4]'\" or \"type=Mundana AND ABS(coord)=233\" to exclude them.",
+  "generated_at": "2026-05-04T10:06:29Z",
+  "note_polar_vertices": "Some entries with single-letter labels (k/p/e/r) at radius 233 are polar construction vertices used by the 3D projection; they are scaffolding for the geometry, not canonical conceptual categories.",
+  "changelog": {
+    "1.0.1": "20 Catalan names corrected: replaced philosophical-position labels (-isme suffix) with canonical category names. Affected: ANA, SIN, AMO (unchanged), EXP, STT, STM, SGE, SGT, CIE, ART, MTF, MTP, MIS, PSI, TEC, ETI, MIT, EST, IDE, LOG.",
+    "1.0.0": "Initial export."
+  },
   "categories": [
     {
       "id": 86,
@@ -741,7 +745,7 @@
     {
       "id": 11,
       "label": "ANA",
-      "name_ca": "Excepticisme",
+      "name_ca": "Anàlisi",
       "name_en": "Analysis",
       "description_ca": "**Discerniment, separació per entendre**: l'operació mental que descompon allò complex en parts diferenciables. ## Posició al model - **Tipus**: centre d'eix (neutral del Mètode Global) - **Coordenades**: pla `TEO × FEN` — teoria orientada al fenomen - **Antípoda dialèctica**: SIN (síntesi del noümen) - **Evolució interna**: probabilitat (PRB) → precisió (PCS) ## Significat ANA és la fase d'**obertura** del Mètode: parteix d'un fenomen sencer i el desplega en parts, qualitats, accidents i matisos. Pensar, qüestionar, dubtar, diferenciar, comparar, mesurar. Sense ANA no hi ha precisió possible; sense límit, ANA dissecciona indefinidament i perd el tot. ## Afins *discerniment · abstracció · descomposició · judici crític · qüestionament · diferenciació · comparació · mesura · matís · qualitat* ## Polaritat - **Positiva** — claredat, precisió (PCS), rigor, capacitat crítica, distinció fina - **Negativa** — dissecció estèril, fragmentació excessiva, paràlisi per anàlisi, pèrdua del sentit del tot ## Operació al Mètode (ANA→SIN→AMO→EXP) ANA **obre** el cicle: rep el fenomen brut i el converteix en parts manejables. La seva sortida alimenta SIN, que en busca les relacions essencials. Al pipeline RAG d'Arkadium correspon a la fase 1 (captació + retrieval). ## Disciplines derivades - **LOG** (ANA ↔ SGT) — regles formals, deducció, càlcul - **EST** (ANA ↔ STT) — avaluació formal subjectiva, creativitat, gust ## Manifestacions Mètode científic experimental, anàlisi crítica, taxonomia, descomposició funcional, debugging, diagnòstic mèdic, crítica literària. ## Referències - Berenguer J., *Globàlium petit manual* (2024) - Berenguer J., *Globàlium AI trainer* — fase 1 del Mètode, PRB→PCS - Arkadium Framework — fase 1 (captació + retrieval sobre 80 categories) --- *Notes prèvies:* Discerniment. Abstracció mental. Qualitats i accidents. Matís.",
       "description_en": "Discernment. Mental abstraction. Qualities and accidents. Nuance.",
@@ -757,7 +761,7 @@
     {
       "id": 9,
       "label": "EXP",
-      "name_ca": "Empirisme",
+      "name_ca": "Experiència",
       "name_en": "Experience",
       "description_ca": "**Experimentació, fer coses, aprenentatge**: la pràctica directa que produeix efectes aparents al món fenomènic. ## Posició al model - **Tipus**: centre d'eix (neutral del Mètode Global) - **Coordenades**: pla `PRA × FEN` — pràctica orientada al fenomen - **Antípoda dialèctica**: AMO (pràctica orientada al noümen) - **Evolució interna**: turbulència (TRB) → polit (POL) ## Significat EXP és la fase del Mètode on les idees es tradueixen en accions concretes i n'observem els efectes mesurables. És el laboratori del coneixement: experimentació, treball, joc, aprenentatge per assaig i error. Cada esdeveniment concret porta la seva pròpia força i el seu repte. ## Afins *situació · observació directa · feina · acció · pràctica · experiment · prova · joc · vivència · assaig · implementació* ## Polaritat - **Positiva** — perseverança, mètode, calibratge, polit (POL), domini de l'ofici - **Negativa** — turbulència (TRB), activisme cec, agitació estèril, pèrdua de sentit per excés d'acció ## Operació al Mètode (ANA→SIN→AMO→EXP) EXP **tanca i reobre** el cicle: després d'analitzar, sintetitzar i triar amb amor el camí, EXP implementa. Els efectes observats reactiven una nova ronda d'ANA — el cicle és espiral, no tancat. ## Disciplines derivades - **TEC** (EXP ↔ SGE) — procediments, mètode, eficàcia - **PSI** (EXP ↔ STM) — emocions resultants de l'experiència ## Manifestacions Laboratoris científics, oficis manuals, esports, arts performatives, jocs, prototipatge, agricultura, enginyeria, pràctica clínica. ## Referències - Berenguer J., *Globàlium petit manual* (2024) - Berenguer J., *Globàlium AI trainer* — fase 4 del Mètode, TRB→POL - Arkadium Framework — fase 4 (implementació + visualització + feedback) --- *Notes prèvies:* Situació. Observació directa. Feina. Força i Repte de cada esdeveniment concret.",
       "description_en": "Situation. Direct observation. Work. Strength and Challenge of each concrete event.",
@@ -773,7 +777,7 @@
     {
       "id": 13,
       "label": "SGE",
-      "name_ca": "Determinisme",
+      "name_ca": "Signe",
       "name_en": "Sign",
       "description_ca": "Senyals objectius de la realitat pràctica, és a dir, aquells indicadors o fets que són presents a la realitat sense estar influïts per interpretacions. Els signes són els fets, objectes o esdeveniments que es manifesten de manera tangible i observable. Coses. Això. Avisos, senyals concrets externs o interns.",
       "description_en": "Things. This. Concrete external or internal signs and warnings.",
@@ -789,7 +793,7 @@
     {
       "id": 16,
       "label": "SGT",
-      "name_ca": "Cognitivisme",
+      "name_ca": "Significat",
       "name_en": "Meaning",
       "description_ca": "Definició acceptada dels objectes o que donem als signes. Raons. Acords. Interpretació comuna. Sentit comú. Termes, codis.La veritat de les coses. El món abstracte, culte, erudit, de la memòria. El món de la raó. Explicacions. Recerca de la veritat. Adequació constructiva. Definició. Veritat / error o falsedat. Sentit . Raó. Raciocini. Superestructura. Geometria. 2 Dret. Comprensió. Esquema. Diagrama. Taula. Sistema de coordenades. Espai geomètric. Dimensions. Organigrama. Constel·lació de conceptes (Adorno). Construcció mental. Simetria. Teoria de conjunts homogenis (Cantor). Sistema. Programa. Ideologia. Teologia. Semàntica. No contradicció en els termes. Identitat abstracta. Coherència. Consistència. Compatibilitat. Allò que és complet. Allò que es pot dir. Imperatiu. Comandament. Mandat. Norma. Preceptiva. Dogmàtica. Moral. Ordre. Codi. Reglament. Estatut. Taxonomia. Classificació. Classes socials. Classes d’equivalència. Univocitat. Sinònim. Interpretació, exègesi, hermenèutica al peu de la lletra. Deontologia. Paradigma. Denotació. Significació. Accepció. Raó. Geometria. Definició. Comprensió. Figura. Esquema. Sinonímia. Nom comú. Concepte. Universal. Raó. Erudició. Sentit objectiu. Proposició coherent. No contradicció en els termes. Terminologia. Nomenclatura. Thesaurus. Memòries informàtiques. Autolimitació. Prudència. Seny. Vernunft (Kant). Connotació. Denotatum. Designatum. Constructe. Sistema. Darsana (hind.). Sympèctica (Francesc Pujols). Compossibilitat (Leibniz). Completud. Decibilitat. Ciència deòntica o normativa. Llei. Jerarquia.",
       "description_en": "Definition. The accepted definition of objects. The scholarly world of memory.",
@@ -805,7 +809,7 @@
     {
       "id": 12,
       "label": "SIN",
-      "name_ca": "Trascendentalisme",
+      "name_ca": "Síntesi",
       "name_en": "Synthesis",
       "description_ca": "**Saviesa, harmonització, conclusió**: l'operació mental que lliga el que ANA havia separat, captant allò essencial que ho relliga tot. ## Posició al model - **Tipus**: centre d'eix (neutral del Mètode Global) - **Coordenades**: pla `TEO × NOU` — teoria orientada al noümen - **Antípoda dialèctica**: EXP (experiència del fenomen) - **Evolució interna**: sublimitat (SBL) → harmonia (HAR) ## Significat SIN és la fase de **tancament conceptual** del Mètode: a partir de les parts diferenciades per ANA, busca les relacions essencials, els patrons unitaris, les lleis comprehensives. Sintetitzar no és resumir: és captar allò que ho lliga tot, l'estructura comuna que sosté la diversitat dels accidents. Sense ANA prèvia, SIN esdevé generalitat buida; sense SIN posterior, ANA esdevé fragmentació estèril. ## Afins *saviesa · harmonització · assimilació · conclusió · captació unitària · llei · patró · estructura · principi · comprensió · totalització* ## Polaritat - **Positiva** — harmonia (HAR), saviesa integradora, llei comprehensiva, visió de conjunt, claredat conceptual essencial - **Negativa** — sublimitat (SBL) sense aterratge, generalització precipitada, holisme buit, sistemes tancats que no admeten anomalia ## Operació al Mètode (ANA→SIN→AMO→EXP) SIN és la fase de **mapping de relacions**: rep parts d'ANA i en tradueix la xarxa de connexions. La seva sortida nodreix AMO (pla d'acció informat per la comprensió). Al pipeline RAG d'Arkadium correspon a la fase 2 (anàlisi + validació de coherència globalística). ## Disciplines derivades - **IDE** (SIN ↔ SGT) — idees, principis, models, ideologies (objectiu) - **MIT** (SIN ↔ STT) — mites, valors, arquetips vius (subjectiu) ## Manifestacions Filosofia, teories generals, dret comprehensiu, taxonomies unificadores, cosmovisions, paradigmes científics, dogmàtica, manuals canònics, models holístics. ## Referències - Berenguer J., *Globàlium petit manual* (2024) — \"Allò essencial que ho lliga tot. Saviesa. Conclusió.\" - Berenguer J., *Globàlium AI trainer* — fase 2 del Mètode, SBL→HAR - Arkadium Framework — fase 2 (validació de coherència globalística sobre 80 categories) --- *Notes prèvies:* Saviesa. Captació abstracta unitària de la realitat transcendent.",
       "description_en": "Wisdom. Abstract unitary grasp of transcendent reality.",
@@ -821,7 +825,7 @@
     {
       "id": 14,
       "label": "STM",
-      "name_ca": "Sentimentalisme",
+      "name_ca": "Sentiment",
       "name_en": "Feeling",
       "description_ca": "Ànim. Empenta i força vital. L’emoció permanent de viure. El doll d'aigua de l'ou com balla.",
       "description_en": "Soul. Drive and vital force. The permanent emotion of living.",
@@ -837,7 +841,7 @@
     {
       "id": 15,
       "label": "STT",
-      "name_ca": "Sofisme",
+      "name_ca": "Sentit",
       "name_en": "Sense",
       "description_ca": "SENTIT. Ment vivencial. Endevinar a través del que es diu o es fa, allò que no és ni dit ni fet. Encert. Recerca de la gràcia (Si non é vero é ben trovato). Inadequació creativa. La nostra intel·ligència. Intel·ligibilitat. Joc mental lliure sense necessitat de lògica. Creativitat. Imaginació. Fantasia. Ficció. (EST). Ego inflat. Imatge del meu jo ideal o dels ideals que animen la meva vida. Opinió Ens allibera del principi d'identitat, o de no contradicció. Gràcia. Humor. Estratègia. (AST) Interpretació. Principi de participació (Lévy- Bruhl). Ideolecte (idioma singular, personal i intransferible) Veracitat / Mentida. Contradicció de tota convenció i de tot signe. Les giragonses i saltirons de l'ou com balla. STT->TEO : Desxifrar TEO->STT : copçar el sentit Principi de contradicció: A ≠ A",
       "description_en": "Intelligence. Guess. Game.",
@@ -853,7 +857,7 @@
     {
       "id": 18,
       "label": "ART",
-      "name_ca": "Ascetisme",
+      "name_ca": "Art",
       "name_en": "Art",
       "description_ca": "Tractament amb rigor estètic de la realitat canviat (psíquica, interior i vivencial). Expressió creativa. Ensonyació. Creació. Poesia. Tacte. “Ull clínic”. Alteració. Somni. No només les belles arts, també en són: l’educació, la medicina, la política, la demòtica, la cura d’ànimes, la judicatura, el periodisme, etc. Màscara. Encert sense llei. Matemàtica inconscient. Ascètica. L’art ens reconcilia amb l’existència perquè ens ajuda a entendre, expressar i donar sentit a la nostra realitat, en tota la seva complexitat. Actua com un mirall de la condició humana, però també com un mitjà per transcendir-la, ja sigui creant bellesa, trobant harmonia o establint connexions profundes amb altres persones i amb el món que ens envolta. Aquesta reconciliació és, en última instància, una forma de trobar pau i sentit en l’acte mateix de viure. L’art existeix perquè la realitat no és suficient. – Fernando Pessoa La funció de l’art és fer visible allò invisible. – Paul Klee L’art comença allà on acaba la tècnica. – Anthony Blunt L'art és la mentida que ens permet comprendre la veritat. – Pablo Picasso L'art és l'expressió més intensa de l'individu que experimenta la vida. – Oscar Wilde L’art no és el que veus, sinó el que fas veure als altres. – Edgar Degas L'art és un esforç per crear, al costat del món real, un món més humà. – André Maurois L’art és la manera com els éssers humans es reconcilien amb l’existència. – Rainer Maria Rilke La creativitat és l’ànima de l’art i l’art és l’expressió de la creativitat. – John Dewey La bellesa de l’art està en els ulls de qui el mira. – Oscar Wilde L’art no té cap altre propòsit que ser contemplat. (s'allunya de la utilitat) – Johann Wolfgang von Goethe",
       "description_en": "Aesthetic rigorous treatment of changing reality (psychic, interior, and experiential). Creative expression. Reverie. Creation. Poetry. Touch. Precision. Clinical eye. Alteration. Dream. Not just the fine arts, but also: education, medicine, politics, demotics, soul care, judiciary, journalism, etc. Mask. Precision without law. Unconscious mathematics. Asceticism.",
@@ -869,7 +873,7 @@
     {
       "id": 17,
       "label": "CIE",
-      "name_ca": "Positivisme",
+      "name_ca": "Ciència",
       "name_en": "Science",
       "description_ca": "Coneixement i tractament de la realitat física formalment i experimentalment rigorosos. Coneixement (SGT) i previsió (ANA) exactes (EXC) de l’ordre (MTF) de les coses. Tractament objectiu (OBJ) de la realitat canviant (FEN). Coneixement. Reconeixement. Expert. Il·lustració. Identificació. Verificació/falsació. Comprovació. Ciència experimental (EXP). Mida. Mesura. Mètrica. Compàs. Ritme. Magnitud. (LOG). Constants (OBJ) i variables (FEN). Màquina lògica (TEC LOG) de conformar la realitat. Computadora. Vigília. Accident (FEN). Regularitat (OBJ). Constància de la derivada. Llei física (FUN). Prospectiva. Previsió. Criteris de demarcació i d’avaluació (ANA). Demostració. Prova física. (OBJ) Argumentació (SGT). Fórmula física escrita en matemàtica (LOG). Física teòrica. Ciència unificada. Construcció (OBJ). Interdisciplinarietat. Cisma. Secta. Dissecció. Tecnologia (TEC). Obediència coactiva (OBL). Efectes produïts per les causes profundes (MTF).",
       "description_en": "Knowledge and treatment of physical reality formally and experimentally rigorous. Exact knowledge and prediction of the order of things. Objective treatment of changing reality (phenomena). Knowledge. Recognition. Expert. Enlightenment. Identification. Verification/falsification. Testing. Experimental science. Size. Measure. Metrics. Compass. Rhythm. Constants and variables. Magnitude. Logical machine conforming to reality. Computer. Vigil. Accident. Regularity. Physical law. Foresight. Prediction. Demonstration. Physical proof. Argumentation. Physical formula written in mathematics. Constancy of the derivative. Theoretical physics. Unified science. Construction. Criteria for demarcation and evaluation. Interdisciplinarity. Schism. Sect. Dissection. Technology. Coercive obedience.",
@@ -885,7 +889,7 @@
     {
       "id": 23,
       "label": "EST",
-      "name_ca": "Relativisme",
+      "name_ca": "Estètica",
       "name_en": "Aesthetics",
       "description_ca": "Figuració. Fantasia. Il·lusió. Imaginació. Expressió formal lliure dels afectes subjectius. Jocs de conjunts d’imatges subjectives .Simulacre. Prejudici.Miratge. Fal·làcia. Imitació. Fabulació. Confabulació. Configuració. Intriga. Associació. Còpula. Ficció. Sofisma. Equívoc. Equivocació. Dissonància. Comèdia. Metàfora. Al·lucinació. Somnis. Mentida. Engany. Jocs mentals. Acudits. Endevinalles. Tonteries. Bestieses. Bajanades.",
       "description_en": "Figuration. Fantasy. Illusion. Imagination. Free formal expression of subjective affections. Games of sets of subjective images. Simulacrum. Prejudice. Mirage. Fallacy. Imitation. Fable. Confabulation. Configuration. Intrigue. Association. Copulation. Fiction. Sophism. Equivocation. Mistake. Dissonance. Comedy. Metaphor. Hallucination. Dreams. Lie. Deception. Mental games. Jokes. Riddles. Nonsense. Foolishness. Trivialities.",
@@ -901,7 +905,7 @@
     {
       "id": 25,
       "label": "ETI",
-      "name_ca": "Formalisme",
+      "name_ca": "Ètica",
       "name_en": "Ethics",
       "description_ca": "Bé comú. Transcendència que interpel·la l’actitud vital. Amor objectiu. Drets i deures. Necessitat. Justícia. Dret natural.",
       "description_en": "Common good. Transcendence that challenges the vital attitude. Objective love. Rights and duties. Need. Justice. Natural law.",
@@ -917,7 +921,7 @@
     {
       "id": 26,
       "label": "IDE",
-      "name_ca": "Idealisme",
+      "name_ca": "Idèica",
       "name_en": "Idea",
       "description_ca": "Saviesa estructurada en idees. Categorització per comprendre i orientar la realitat. Valors (SIN) universals. Escala de valors. Jerarquia de valors. Idea. Noció. Concepte. Semàntica.(SGT). Pensament. Tema. Nom. Terme. Vocabularis. Diccionaris. Nomenclàtors. Terminologies. Tesauri. Homonímia. Sinonímia. Univocitat. Afins. Accepcions. Etimologia. Metalogia (Gregory Bateson). estudi de les relacions i els patrons. General. Gènere (MTF). Grup. Dogma (NOU). Tesi / hipòtesi (suposició) (TEO). Conjectura. Opinió - doxa (comuna). Representació. Predicat. Predicable (Porfiri). Postulat. Categoria. Importància. Rellevància. Futurible. Possibilitat. Qüestió. Finalitat. Motiu. Objectiu. Perspectiva. Criteri. Idealisme. Fonamentalisme. Principi de raó suficient. Nom comú. Universal. Estàndard. Inducció: Parteix de lo especific per extreure conclusió general.",
       "description_en": "Structured wisdom in ideas. Categorization to understand and guide reality. Values. Concept. Being. Idea. Notion. Thought. General. Genre. Group. Dogma. Thesis / hypothesis (assumption). Conjecture. Opinion - doxa. Theme. Name. Term. Representation. Predicate. Predicable (Porphyry). Postulate. Category. Importance. Relevance. Condition. Futurible. Possibility. Question. Purpose. Reason. Objective. Perspective. Criterion. Idealism. Fundamentalism. Principle of sufficient reason. Common name. Universal. Standard. Scale of values. Hierarchy of values. Vocabularies. Dictionaries. Nomenclatures. Thesauri. Homonymy. Synonymy. Uniqueness. Related. Meanings. Etymology. Semantics.",
@@ -933,7 +937,7 @@
     {
       "id": 21,
       "label": "LOG",
-      "name_ca": "Racionalisme",
+      "name_ca": "Lògica",
       "name_en": "Logic",
       "description_ca": "Regles de la raó. Deducció. Matemàtica. Expressió formal no contradictòria. Fórmula. Càlcul. Quantitat. Algoritme. Inducció. Deducció. Derivació. Inferència. Equivalència. Igualtat. Isomorfisme. Parla o llenguatge ideal. Deducció: Parteix de lo general IDE per treure conclusió específica i necessària.",
       "description_en": "Rules of reason. Deduction. Mathematics. Non-contradictory formal expression. Mathematics. Formula. Calculation. Quantity. Algorithm. Induction. Deduction. Derivation. Inference. Equivalence. Equality. Isomorphism. Ideal speech or language.",
@@ -949,7 +953,7 @@
     {
       "id": 27,
       "label": "MIS",
-      "name_ca": "Misticisme",
+      "name_ca": "Mística",
       "name_en": "Mysticism",
       "description_ca": "L’imperiència espiritual de la realitat transcendent. Amor subjectiu. Èxtasi. Misteri. Contemplació. Impuls dionisíac. Misteris iniciàtics. Indicibilitat.Inefabilitat. Sacralitat. Mistagògies. Parapsicologia. Fetilleria. Bruixeria. Nit de l’esperit. Unió transformant. Desposori i matrimoniespiritual. Possessió divina o diabòlica.",
       "description_en": "Spiritual experience of transcendent reality. Subjective love. Ecstasy. Mystery. Contemplation. Dionysian impulse. Initiatory mysteries. Unspeakability. Ineffability. Sacredness. Mystagogies. Parapsychology. Witchcraft. Witchery. Night of the spirit. Transforming union. Spiritual betrothal and marriage. Divine or diabolical possession.",
@@ -965,7 +969,7 @@
     {
       "id": 28,
       "label": "MIT",
-      "name_ca": "Misticisme",
+      "name_ca": "Mítica",
       "name_en": "Mythic",
       "description_ca": "Expressió o deliri espiritual lliure. Relat transcendent. Veu de l’ànima del ’univers. Deliri. Heroïcitat. Epopeia. Litúrgia. Jerarquia. Celebració. Festa.Carnaval. Profecia. “La festa dels boigs”. Do de llengües. L’imaginari. Cultes. Ritus.",
       "description_en": "Expression or free spiritual delirium. Transcendent narrative. Voice of the soul of the universe. Delirium. Heroism. Epic. Liturgy. Hierarchy. Celebration. Party. Carnival. Prophecy. The feast of fools. Gift of tongues. The imaginary. Cults. Rites.",
@@ -981,7 +985,7 @@
     {
       "id": 20,
       "label": "MTF",
-      "name_ca": "Estructuralisme",
+      "name_ca": "Metafísica",
       "name_en": "Metaphysics",
       "description_ca": "Causa profunda i essència de cada cosa. Allò que creiem que són els éssers. El plus que el tot afegeix a la suma de les parts. Essència Fe en la realitat de les coses. Creure que les coses són. Ontologia. Gestalt. El ser dels ens. Realitat particular, singular. Substància individual. “El quid de les coses”. Espècie. Individu. Totalització d’un complex. Cosa en si. Realisme. Equilibri cibernètic. Massa en repòs. Emergències. Principi de causalitat. Metafísica crítica o metafísica trascendental (Kant). Més que intentar conèixer l’essència última de la realitat (NOU) de forma especulativa (com feia la metafísica tradicional), Kant proposa una metafísica objectiva que investiga les estructures mentals i els principis que permeten la comprensió de la realitat.",
       "description_en": "Deep cause and essence of everything. What we believe beings are. The plus that the whole adds to the sum of the parts. Essence. Faith in the reality of things. Believing that things are. Ontology. The being of beings. Particular, singular reality. Individual substance. The quid of things. Species. Individual. Totalization of a complex. Thing in itself. Realism. Cybernetic balance. Resting mass. Emergencies. Principle of causality.",
@@ -997,7 +1001,7 @@
     {
       "id": 19,
       "label": "MTP",
-      "name_ca": "Metapsíquisme",
+      "name_ca": "Metapsíquica",
       "name_en": "Metapsychics",
       "description_ca": "METAPSÍQUICA. Consciència (subconscient, superconscient, transconscient). Esperit. Ànima. Animisme. El misteriós món de l’Esperit i dels esperits”. “Fecundació entre esperits” Meditació. Dhyana (Raja-Ioga). Il·luminació. Nom propi. Llibertat d’esperit. Holicitat (Ken Wilber). Immortalitat. La meva (nostra) ànima. Ànimes bessones. El meu (nostre) esperit. Concòrdia (ECU). La meva (nostra) consciència. Esperança (MIT). Carisma (GEN). Vocació (GEN). Crida. Resposta. Compromís (MON). Desposoris espirituals. Lliurament. Vot. Ofrena. Negació del jo. Possessió divina, angèlica o diabòlica. Espiritisme. Mèdium. Vivències litúrgiques. “Fenòmens” i estats místics, èxtasi (MIS). Pregària. Oració. Cos místic. Sacralitat. Santedat. Principi d'holicitat. Cada part és un tot independent que forma part d'un tot més gran. La transcendència és degut a que el tot és més que la suma de les seves parts, donant lloc a l'emergència de noves propietats.",
       "description_en": "The mysterious world of the Spirit and spirits. Fecundation between spirits. Spirit. Soul. Animism. Consciousness. Subconscious. Superconscious. Transconscious. Ecstasy. Meditation. Dhyana (Raja-Yoga). Enlightenment. Proper name. Freedom of spirit. Holistic (Ken Wilber). Immortality. My (our) soul. Twin souls. My (our) spirit. Concord. My (our) conscience. Hope. Charisma. Vocation. Call. Response. Commitment. Spiritual betrothal. Surrender. Vow. Offering. Self-denial. Divine, angelic, or diabolical possession. Spiritualism. Medium. Liturgical experiences. Mystical phenomena and states. Prayer. Oration. Mystical body. Sacredness. Holiness.",
@@ -1013,7 +1017,7 @@
     {
       "id": 24,
       "label": "PSI",
-      "name_ca": "Existencialisme",
+      "name_ca": "Psíquica",
       "name_en": "Psychic",
       "description_ca": "L’experiència íntima de la realitat quotidiana. “Jocs de conjunt de vivències interiors”. Sensibilitat. Vivències. Intuïcions. Afectes. Sensacions. Volicions. Percepcions. Imatges, Pensaments. Sentiments. Decisions. Accions. Records. Educació. Introspecció. Joc. Temprança / disbauxa. Drames reals, novel·lescs, cinematogràfics. “Si us plau”. Interioritat. Intimitat.",
       "description_en": "The intimate experience of everyday reality. Games of sets of inner experiences. Sensitivity. Experiences. Intuitions. Affections. Sensations. Volitions. Perceptions. Images. Thoughts. Feelings. Decisions. Actions. Memories. Education. Introspection. Play. Temperance / debauchery. Real, novelistic, cinematic dramas. Please. Interiority. Intimacy.",
@@ -1029,7 +1033,7 @@
     {
       "id": 22,
       "label": "TEC",
-      "name_ca": "Pragmatisme",
+      "name_ca": "Tècnica",
       "name_en": "Technique",
       "description_ca": "Procediment. Eina. Condicions d’ús de les eines. Habilitat professional. Eficiència. “Lleis de conjunts d’utilitat física”. Física. Regla. Mètode.Màquina. Eina. Experiment. Repetició. Protocol. Pragmatisme. “Realisme”. Trucs. Estratagemes. Artesania. Ofici. Indústria. Disciplines. Informàtica. Electrònica.",
       "description_en": "Procedure. Tool. Conditions of use of tools. Professional skill. Efficiency. Laws of sets of physical utility. Physics. Rule. Method. Machine. Tool. Experiment. Repetition. Protocol. Pragmatism. Realism. Tricks. Stratagems. Craftsmanship. Trade. Industry. Disciplines. Computing. Electronics.",

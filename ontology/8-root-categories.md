@@ -70,11 +70,11 @@ Eight categories sit on the Neutral sphere as **mediators between cardinal axis 
 
 ### Volta d'Aplicació *(Application loop)* — vertical meridian connecting TEO/PRA × FEN/NOU
 
-### **ANA** — Analysis *(CA: Excepticisme)* · coords (x,y,z) = (0, 60, 77)
+### **ANA** — Analysis *(CA: Anàlisi)* · coords (x,y,z) = (0, 60, 77)
 
 Discernment. Mental abstraction. Qualities and accidents. Nuance.
 
-### **SIN** — Synthesis *(CA: Trascendentalisme)* · coords (x,y,z) = (0, 60, -77)
+### **SIN** — Synthesis *(CA: Síntesi)* · coords (x,y,z) = (0, 60, -77)
 
 Wisdom. Abstract unitary grasp of transcendent reality.
 
@@ -82,7 +82,7 @@ Wisdom. Abstract unitary grasp of transcendent reality.
 
 Good. The full internal freedom of all transcendent concrete reality. Universal practical communion. Concretion of transcendence.
 
-### **EXP** — Experience *(CA: Empirisme)* · coords (x,y,z) = (0, -60, 77)
+### **EXP** — Experience *(CA: Experiència)* · coords (x,y,z) = (0, -60, 77)
 
 Situation. Direct observation. Work. Strength and Challenge of each concrete event.
 
@@ -92,19 +92,19 @@ Trajectory: ANA → TEO → SIN → NOU → AMO → PRA → EXP → FEN → (ANA
 
 The four *adreçadors* (addressors): feeling, sense, meaning, sign. Trajectory: STM → STT → SGT → SGE.
 
-### **STM** — Feeling *(CA: Sentimentalisme)* · coords (x,y,z) = (-80, -60, 0)
+### **STM** — Feeling *(CA: Sentiment)* · coords (x,y,z) = (-80, -60, 0)
 
 Soul. Drive and vital force. The permanent emotion of living.
 
-### **STT** — Sense *(CA: Sofisme)* · coords (x,y,z) = (-80, 60, 0)
+### **STT** — Sense *(CA: Sentit)* · coords (x,y,z) = (-80, 60, 0)
 
 Intelligence. Guess. Game.
 
-### **SGT** — Meaning *(CA: Cognitivisme)* · coords (x,y,z) = (80, 60, 0)
+### **SGT** — Meaning *(CA: Significat)* · coords (x,y,z) = (80, 60, 0)
 
 Definition. The accepted definition of objects. The scholarly world of memory.
 
-### **SGE** — Sign *(CA: Determinisme)* · coords (x,y,z) = (80, -60, 0)
+### **SGE** — Sign *(CA: Signe)* · coords (x,y,z) = (80, -60, 0)
 
 Things. This. Concrete external or internal signs and warnings.
 
