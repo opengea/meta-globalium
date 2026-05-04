@@ -8,7 +8,7 @@ Thank you for considering contributing to the Meta-Globàlium. This is an explic
 
 The model claims universality but is currently grounded in Catalan + English. Translations of canonical labels and methodology documents are explicitly welcome:
 
-- **Priority languages**: Spanish, French, German, Italian, Portuguese, Mandarin, Arabic, Japanese, Hindi
+- **Priority languages**: Spanish, French, German, Italian, Portuguese, Chinese, Arabic, Japanese, Hindi
 - **What to translate**: README, manifest, key methodology documents (`metode-global.md`, `be-criterion.md`), category labels in `ontology/data/categories.json` (the `name_*` fields)
 - **How**: open an issue with the `translation` template, fork, translate, submit PR
 
