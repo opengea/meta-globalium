@@ -119,7 +119,7 @@ All contributions are reviewed against the **N2 protocol checklist**: holistic c
 
 - **Code** (parsers, scripts, exporters, where included): [Apache License 2.0](LICENSE-CODE)
 
-The [Globàlium · petit manual](https://arkadium.ai/documents/globalium-petit-manual/en/) (Berenguer 2024) is licensed CC BY-NC-ND 4.0 and is **not** included in this repository — it is referenced as an external pedagogical source.
+The [Globàlium · petit manual](https://arkadium.ai/documents/globalium-petit-manual/ca/) (Berenguer 2024) is licensed CC BY-NC-ND 4.0 and is **not** included in this repository — it is referenced as an external pedagogical source.
 
 ---
 
@@ -140,7 +140,7 @@ The model is **revisable, open to dialogue with other traditions**, and its valu
 
 - **Arkadium** — the neuro-symbolic AI agent anchored to the Meta-Globàlium: [arkadium.ai](https://arkadium.ai)
 - **Opengea SCCL** — the cooperative behind the project: [opengea.org](https://www.opengea.org)
-- **Globàlium pedagogical workshops** — [arkadium.ai/documents/globalium-petit-manual/en/](https://arkadium.ai/documents/globalium-petit-manual/en/)
+- **Globàlium pedagogical workshops** — [arkadium.ai/documents/globalium-petit-manual/ca/](https://arkadium.ai/documents/globalium-petit-manual/ca/)
 
 ---
 

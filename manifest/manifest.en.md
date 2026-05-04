@@ -107,6 +107,6 @@ The Meta-Globàlium and its AI integration protocol are open artefacts. Contribu
 - **Technical** (code, specification, translations): *pull requests* to the [GitHub repository](https://github.com/opengea/meta-globalium).
 - **Academic and institutional**: through [Opengea](https://www.opengea.org).
 
-**Background**: this manifesto continues a line of thought documented in the notebook *[Saviesa Artificial](https://arkadium.ai/documents/saviesa-artificial/)* (Berenguer 2023) and the pedagogical handbook *[Globàlium · petit manual](https://arkadium.ai/documents/globalium-petit-manual/en/)* (Berenguer 2024).
+**Background**: this manifesto continues a line of thought documented in the notebook *[Saviesa Artificial](https://arkadium.ai/documents/saviesa-artificial/)* (Berenguer 2023) and the pedagogical handbook *[Globàlium · petit manual](https://arkadium.ai/documents/globalium-petit-manual/ca/)* (Berenguer 2024, Catalan only).
 
 For a full academic exposition with mathematical formalisation, bibliography, and comparative analysis, read the [academic paper](/papers/arkadium/en/).
