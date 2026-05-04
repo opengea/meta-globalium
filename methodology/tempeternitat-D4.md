@@ -8,6 +8,9 @@ license: CC BY-SA 4.0
 
 # Eix temporal radial — exploració
 
+> **Provenance**: this content is part of the **Meta-Globàlium proper** — the new structural layer (Berenguer / Opengea, 2023–2026) added on top of the inherited Globàlium ontology. It is the original contribution of this work.
+
+
 > **Hipòtesi**: el Meta-Globàlium té una **dimensió temporal radial** complement de la dimensió espacial PLA-MON. Aquesta exploració desenvolupa la hipòtesi sense aplicar-la encara al model.
 
 ## §1. Origen de la hipòtesi

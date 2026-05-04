@@ -8,6 +8,9 @@ license: CC BY-SA 4.0
 
 # Solve-Coagula com a 7è element axiomàtic — exploració
 
+> **Provenance**: this content is part of the **Meta-Globàlium proper** — the new structural layer (Berenguer / Opengea, 2023–2026) added on top of the inherited Globàlium ontology. It is the original contribution of this work.
+
+
 > **Hipòtesi**: la macro-dialèctica alquímica **Solve-Coagula** mereix l'estatut d'**element estructural canònic** dels 14 actuals, esdevenint el 15è (o re-emmarcant els existents). Aquesta exploració desenvolupa la proposta sense aplicar-la encara al Manifest.
 
 ## §1. Context — què és Solve-Coagula?

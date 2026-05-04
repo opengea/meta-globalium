@@ -8,6 +8,9 @@ prereq: docs/protocol-N2-frame-mapping.md
 
 # Protocol N2 — Checklist de creació i revisió de frames
 
+> **Provenance**: this content is part of the **Meta-Globàlium proper** — the new structural layer (Berenguer / Opengea, 2023–2026) added on top of the inherited Globàlium ontology. It is the original contribution of this work.
+
+
 > **Aprenentatge consolidat del frame Matemàtiques (parent=21, 2026-05-03)**
 
 Aquest document estén el Protocol N2 base amb 20 regles operacionals + 2 principis rectors.

@@ -1,5 +1,8 @@
 # The four reflective axes
 
+> **Provenance**: this content describes the **Globàlium ontology** — inherited from the canonical model articulated by Lluís Maria Xirinacs (1997, *A global model of reality*) and the pedagogical exposition by Jordi Berenguer (*Globàlium · petit manual*, 2024). It is documentation of an existing model, not original work of this repository.
+
+
 The Meta-Globàlium organizes reality along **four reflective dialectical axes**. They are *reflective* because they apply to themselves: each axis can be characterized using the others. They are *dialectical* because each is a polarity, not a category — a tension that no full account can collapse.
 
 The four axes appear, with different formulations, across major philosophical traditions: German idealism, hermeneutics, European phenomenology, Buddhist mādhyamika, Confucian relational thought. The Meta-Globàlium does not claim to invent them — it claims to **order them geometrically and make them operative**.

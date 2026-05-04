@@ -1,5 +1,8 @@
 # The 80 canonical categories
 
+> **Provenance**: this content describes the **Globàlium ontology** — inherited from the canonical model articulated by Lluís Maria Xirinacs (1997, *A global model of reality*) and the pedagogical exposition by Jordi Berenguer (*Globàlium · petit manual*, 2024). It is documentation of an existing model, not original work of this repository.
+
+
 The 80 categories are the **canonical instantiation** of the Meta-Globàlium — the consolidated ontological vocabulary the model proposes for human reality.
 
 They emerge from the 8 root categories (see [`8-root-categories.md`](8-root-categories.md)) by application of the **fourth radial axis** (PLA / Neutral / MON), generating layered expressions for each cardinal direction.

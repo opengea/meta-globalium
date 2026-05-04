@@ -1,5 +1,8 @@
 # Fractal architecture — N1 universal principles + N2 thematized expressions
 
+> **Provenance**: this content is part of the **Meta-Globàlium proper** — the new structural layer (Berenguer / Opengea, 2023–2026) added on top of the inherited Globàlium ontology. It is the original contribution of this work.
+
+
 The Meta-Globàlium is **fractal**: the same structural primitives (the four reflective axes) project onto every domain as **thematized expressions**. The model is therefore not just an ontology of 80 categories but **a model of models** — a generator of frames.
 
 ## Two levels

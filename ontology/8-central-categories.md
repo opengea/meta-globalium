@@ -1,5 +1,8 @@
 # The 8 central categories (secondary mediators)
 
+> **Provenance**: this content describes the **Globàlium ontology** — inherited from the canonical model articulated by Lluís Maria Xirinacs (1997, *A global model of reality*) and the pedagogical exposition by Jordi Berenguer (*Globàlium · petit manual*, 2024). It is documentation of an existing model, not original work of this repository.
+
+
 Eight categories sit on the Neutral mediator sphere at generation 1.5 — between the **8 axis poles** (gen 1.0) and the **12 disciplines** (gen 1.75). They are the **central categories** of the Meta-Globàlium: the operational primitives through which the Mètode Global moves, and the joints around which the rest of the structure articulates.
 
 They form **two groups of four**, each describing a circular trajectory (*volta*) across the hypersphere:

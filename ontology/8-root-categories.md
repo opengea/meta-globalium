@@ -1,5 +1,8 @@
 # The 8 root categories (axis poles)
 
+> **Provenance**: this content describes the **Globàlium ontology** — inherited from the canonical model articulated by Lluís Maria Xirinacs (1997, *A global model of reality*) and the pedagogical exposition by Jordi Berenguer (*Globàlium · petit manual*, 2024). It is documentation of an existing model, not original work of this repository.
+
+
 The 8 root categories are the **poles of the four reflective axes** — the cardinal points of the Meta-Globàlium. They are the foundation on which everything else is built.
 
 | Axis | Negative pole | Positive pole | Kind |

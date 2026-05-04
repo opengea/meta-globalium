@@ -1,5 +1,8 @@
 # Structural verifier — specification
 
+> **Provenance**: this content is part of the **Meta-Globàlium proper** — the new structural layer (Berenguer / Opengea, 2023–2026) added on top of the inherited Globàlium ontology. It is the original contribution of this work.
+
+
 This document specifies the **structural verifier** — the runtime check that determines whether an answer A respects the dimensions activated by a question Q, given the Meta-Globàlium ontology.
 
 For the conceptual basis, see [`be-criterion.md`](be-criterion.md).

@@ -26,27 +26,39 @@ The intuition is not new. From Llull's combinatorial wheels (13th century) to Xi
 
 ---
 
+## Two layers: inherited Globàlium + Meta-Globàlium
+
+The repository documents **two layers**, distinguished by provenance:
+
+- **Inherited Globàlium ontology** — the canonical model articulated by Xirinacs (1997, doctoral thesis) and exposed pedagogically by Berenguer (*Globàlium · petit manual*, 2024). The 4 axes, 8 axis poles, 8 central mediators, 12 disciplines, 80 canonical categories, and 6 maximal cycles — these are documentation of an existing tradition.
+- **Meta-Globàlium proper** — the new structural layer (Berenguer / Opengea, 2023–2026) added on top: the 6 axiomatic principles + 8 mathematical operations + 4 disciplinary dialectics, the fractal N1/N2 architecture, the *tempeternitat* D4 framing, the Solve-Coagula meta-operation, the structural verifier 𝓗(r), the N2 frame protocol, and the Good-as-harmony criterion.
+
+Each document carries a **Provenance** marker at the top indicating which layer it belongs to.
+
 ## What's in this repository
 
 ```
 meta-globalium/
-├── ontology/          The model itself
-│   ├── 4-axes.md          OBJ/SUB · TEO/PRA · FEN/NOU · PLA/MON
-│   ├── 8-root-categories.md     The 8 axis poles (Tier 1)
-│   ├── 8-central-categories.md  The 8 secondary mediators (Tier 2)
-│   ├── 12-disciplines.md        Academic disciplines (Tier 3)
-│   ├── 80-categories.md         Full canonical listing
-│   ├── fractal-N1-N2.md         Universal principles + thematized expressions
+├── ontology/          The model — what is it
+│   ├── 4-axes.md                  [Globàlium] OBJ/SUB · TEO/PRA · FEN/NOU · PLA/MON
+│   ├── 8-root-categories.md       [Globàlium] The 8 axis poles (Tier 1)
+│   ├── 8-central-categories.md    [Globàlium] The 8 secondary mediators (Tier 2)
+│   ├── 12-disciplines.md          [Globàlium] Academic disciplines (Tier 3)
+│   ├── 80-categories.md           [Globàlium] Full canonical listing
+│   ├── six-cycles.md              [Globàlium] The 6 maximal cycles (voltes)
+│   ├── principles-and-operations.md  [Meta-Globàlium] 6 principles + 8 operations + 4 disciplinary dialectics
+│   ├── fractal-N1-N2.md           [Meta-Globàlium] Universal principles + thematized expressions
 │   └── data/
-│       ├── categories.json     Full export with multilingual labels and 4D coordinates
-│       └── metastructures.json 33 thematized metamodels
-├── methodology/       How to think with the model
-│   ├── metode-global.md       ANA → SIN → AMO → EXP cycle
-│   ├── be-criterion.md        The Good as harmony / non-collapse
-│   ├── protocol-N2.md         Frame creation/revision protocol
-│   ├── solve-coagula.md       Iterative meta-operation
-│   ├── tempeternitat-D4.md    Radial axis (time + eternity)
-│   └── verifier-spec.md       Specification of the structural verifier
+│       ├── categories.json        Full export with multilingual labels and 4D coordinates
+│       └── metastructures.json    33 thematized metamodels
+├── methodology/       How to think and operate with the model
+│   ├── metode-global.md           [Globàlium] ANA → SIN → AMO → EXP method
+│   ├── be-criterion.md            [Meta-Globàlium] The Good as harmony / non-collapse
+│   ├── verifier-spec.md           [Meta-Globàlium] Specification of the structural verifier
+│   ├── protocol-N2.md             [Meta-Globàlium] N2 frame creation/revision protocol
+│   ├── solve-coagula.md           [Meta-Globàlium] Solve-Coagula meta-operation
+│   ├── tempeternitat-D4.md        [Meta-Globàlium] Radial axis (time + eternity)
+│   └── canonical-mappings.md      Cross-system mappings (Aristotle, logic gates, etc.)
 ├── manifest/          Markdown copies of the public manifesto (CA + EN)
 ├── paper/             Markdown copies of the academic paper (CA + EN)
 ├── lineage/           Conceptual genealogy

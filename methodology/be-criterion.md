@@ -1,5 +1,8 @@
 # The Good as harmony — a structural verifier
 
+> **Provenance**: this content is part of the **Meta-Globàlium proper** — the new structural layer (Berenguer / Opengea, 2023–2026) added on top of the inherited Globàlium ontology. It is the original contribution of this work.
+
+
 > **The Good is the geometric property of not collapsing any dimension.**
 
 Most attempts to give AI a "good" answer rely on **lists of rules** (constitutional AI, value lists, RLHF preferences). These are textual, axiological, and culturally non-neutral. They work only as far as the rules anticipate the situation; they fail in adversarial cases, edge cases, and cross-cultural ones.

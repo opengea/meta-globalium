@@ -1,5 +1,8 @@
 # The 12 discipline categories
 
+> **Provenance**: this content describes the **Globàlium ontology** — inherited from the canonical model articulated by Lluís Maria Xirinacs (1997, *A global model of reality*) and the pedagogical exposition by Jordi Berenguer (*Globàlium · petit manual*, 2024). It is documentation of an existing model, not original work of this repository.
+
+
 Twelve categories of the Neutral sphere (generation 1.75) correspond to the **academic disciplines** as articulated by the Meta-Globàlium. They occupy positions on the Neutral mediator sphere, providing a structural map of how human knowledge organizes itself disciplinarily.
 
 These are not arbitrary labels imposed on contemporary academic departments — they emerge from the dialectical tensions between the four reflective axes (see [`4-axes.md`](4-axes.md)) and the 8 root poles (see [`8-root-categories.md`](8-root-categories.md)).
