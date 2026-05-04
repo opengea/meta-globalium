@@ -1043,14 +1043,14 @@ This manifest is a citable academic document. Three standard formats are offered
 Berenguer Rodrigo, J. (2026). Arkadium: a neuro-symbolic agent anchored
 to the Meta-Globàlium for structural verification of human judgment
 in artificial intelligence systems (Manifest v1.4). Opengea SCCL.
-https://arkadium.ai/papers/arkadium/
+https://doi.org/10.5281/zenodo.20024451
 
 ### Chicago (author-date)
 
 Berenguer Rodrigo, Jordi. 2026. "Arkadium: a neuro-symbolic agent
 anchored to the Meta-Globàlium for structural verification of human
 judgment in artificial intelligence systems." Manifest, version 1.4.
-Barcelona: Opengea SCCL. https://arkadium.ai/papers/arkadium/.
+Barcelona: Opengea SCCL. https://doi.org/10.5281/zenodo.20024451.
 
 ### BibTeX
 
@@ -1062,6 +1062,7 @@ of human judgment in artificial intelligence systems},
 year = {2026},
 version = {1.4},
 howpublished = {Manifest. Opengea SCCL, Barcelona},
-url = {https://arkadium.ai/papers/arkadium/},
+doi = {10.5281/zenodo.20024451},
+url = {https://doi.org/10.5281/zenodo.20024451},
 note = {Available in Catalan with English abstract}
 }
