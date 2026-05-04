@@ -104,7 +104,9 @@ La implementació ja ha començat. El [Metamodeler](/metamodel/) visualitza les 
 
 El Meta-Globàlium i el seu protocol d'integració amb IA són artefactes oberts. Les contribucions s'articulen per canals específics:
 
-- **Tècniques** (codi, especificació, traduccions): *pull requests* al [repositori GitHub](https://github.com/opengea/arkadium).
+- **Tècniques** (codi, especificació, traduccions): *pull requests* al [repositori GitHub](https://github.com/opengea/meta-globalium).
 - **Acadèmiques i institucionals**: a través d'[Opengea](https://www.opengea.org).
+
+**Antecedents**: aquest manifest s'inscriu en una línia documentada al quadern *[Saviesa Artificial](https://arkadium.ai/documents/saviesa-artificial/)* (Berenguer 2023) i al manual pedagògic *[Globàlium · petit manual](https://arkadium.ai/documents/globalium-petit-manual/ca/)* (Berenguer 2024).
 
 Per a una exposició acadèmica completa amb formalització matemàtica, bibliografia i anàlisi comparativa, llegiu el [paper acadèmic](/papers/arkadium/ca/).

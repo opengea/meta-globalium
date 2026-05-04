@@ -1073,8 +1073,8 @@ Referències
 
 - Agustí-Cullell, J. &amp; Schorlemmer, M. (2021). *A Humanist Perspective on Artificial Intelligence*. COMPRENDRE — Revista Catalana de Filosofia, Vol. 23/1, p. 99–125.
 - Bai, Y., Kadavath, S., Kundu, S., Askell, A., Kernion, J., et al. (2022). *Constitutional AI: Harmlessness from AI Feedback*. Anthropic. arXiv:2212.08073. [arxiv.org/abs/2212.08073](https://arxiv.org/abs/2212.08073)
-- Berenguer, J. (2023). *Saviesa Artificial*. Quadern de Globalística. Opengea SCCL, Barcelona. [opengea.org](https://www.opengea.org)
-- Berenguer, J. (2024). *Globàlium petit manual*. Edició de desembre de 2024. Opengea SCCL, Barcelona.
+- Berenguer, J. (2023). *Saviesa Artificial*. Quadern de Globalística. Opengea SCCL, Barcelona. [arkadium.ai/documents/saviesa-artificial/](https://arkadium.ai/documents/saviesa-artificial/)
+- Berenguer, J. (2024). *Globàlium petit manual*. Edició de desembre de 2024. Opengea SCCL, Barcelona. [arkadium.ai/documents/globalium-petit-manual/ca/](https://arkadium.ai/documents/globalium-petit-manual/ca/)
 - Berenguer, J. (en preparació). *Globalística — Estudi i aplicació de models globals de la realitat*. Opengea SCCL.
 - Berenguer, J. (2026). *Una IA més humana és possible · Manifest divulgatiu d'Arkadium*. Opengea SCCL. [https://arkadium.ai/manifest/](https://arkadium.ai/manifest/)
 - DeepSeek-AI (2025). *DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning*. arXiv:2501.12948. [arxiv.org/abs/2501.12948](https://arxiv.org/abs/2501.12948)
