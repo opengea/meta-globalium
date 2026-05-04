@@ -1,0 +1,396 @@
+{
+  "model": "Meta-Globàlium structural layer",
+  "version": "1.0.0",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "source_repository": "https://github.com/opengea/meta-globalium",
+  "description": "The Meta-Globàlium proper: the structural layer added by Berenguer/Opengea (2023-2026) on top of the inherited Globàlium ontology. Contains the 6 axiomatic principles, 8 mathematical operations, 4 disciplinary dialectics, and the 6 maximal cycles (voltes). Cross-references categories.json for the inherited Globàlium category vocabulary.",
+  "depends_on": "categories.json",
+  "documentation": {
+    "principles": "../principles-and-operations.md",
+    "operations": "../principles-and-operations.md",
+    "dialectics": "../principles-and-operations.md",
+    "cycles": "../six-cycles.md"
+  },
+  "generated_at": "2026-05-04T13:00:00Z",
+  "axiomatic_principles": [
+    {
+      "id": 1,
+      "name_en": "Regenerativity",
+      "name_ca": "Regenerativitat",
+      "geometry": "radial PLA-MON",
+      "essential_operations": ["vertical_cycle_over_8_cardinals"],
+      "anchor_categories": ["PLA", "MON"],
+      "classical_poles": {
+        "negative_en": "potentiality",
+        "positive_en": "authenticity",
+        "negative_ca": "potencialitat",
+        "positive_ca": "autenticitat"
+      },
+      "kind": "vertical_animator",
+      "note": "Animates the whole structure along the radial PLA-MON axis (tempeternitat). Allows the model to reproduce itself across time and atemporality."
+    },
+    {
+      "id": 2,
+      "name_en": "Interdependence",
+      "name_ca": "Interdependència",
+      "geometry": "cardinal OBJ-SUB",
+      "essential_operations": ["distinction", "correspondence"],
+      "anchor_categories": ["OBJ", "SUB"],
+      "classical_poles": {
+        "negative_en": "identity",
+        "positive_en": "alterity",
+        "negative_ca": "identitat",
+        "positive_ca": "alteritat"
+      },
+      "kind": "dialectical"
+    },
+    {
+      "id": 3,
+      "name_en": "Plurisingularity",
+      "name_ca": "Plurisingularitat",
+      "geometry": "cardinal NOU-FEN",
+      "essential_operations": ["identity", "polarity"],
+      "anchor_categories": ["NOU", "FEN"],
+      "classical_poles": {
+        "negative_en": "singularity",
+        "positive_en": "plurality",
+        "negative_ca": "unicitat",
+        "positive_ca": "multiplicitat"
+      },
+      "kind": "dialectical"
+    },
+    {
+      "id": 4,
+      "name_en": "Totality",
+      "name_ca": "Totalitat",
+      "geometry": "cardinal TEO-PRA",
+      "essential_operations": ["macro_dialectic_4_unifying_vs_4_dividing"],
+      "anchor_categories": ["TEO", "PRA"],
+      "classical_poles": {
+        "negative_en": "homogeneity",
+        "positive_en": "heterogeneity",
+        "negative_ca": "globalitat",
+        "positive_ca": "localitat"
+      },
+      "kind": "meta_principle",
+      "note": "Operates as a meta-principle organizing the two operation families (unifying vs dividing) at macro level."
+    },
+    {
+      "id": 5,
+      "name_en": "Mutability",
+      "name_ca": "Mutabilitat",
+      "geometry": "diagonal MTF-ART",
+      "essential_operations": ["similarity", "divergence"],
+      "anchor_categories": ["MTF", "ART"],
+      "classical_poles": {
+        "negative_en": "universality",
+        "positive_en": "relativity",
+        "negative_ca": "estabilitat",
+        "positive_ca": "variabilitat"
+      },
+      "kind": "dialectical"
+    },
+    {
+      "id": 6,
+      "name_en": "Integrity",
+      "name_ca": "Integritat",
+      "geometry": "diagonal MTP-CIE",
+      "essential_operations": ["convergence", "difference"],
+      "anchor_categories": ["MTP", "CIE"],
+      "classical_poles": {
+        "negative_en": "wholeness",
+        "positive_en": "fractality",
+        "negative_ca": "holicitat",
+        "positive_ca": "parcialitat"
+      },
+      "kind": "dialectical"
+    }
+  ],
+  "operations": [
+    {
+      "name_en": "Identity",
+      "name_ca": "Igualtat",
+      "family": "unifying",
+      "anchor_category": "NOU",
+      "geometry": "cardinal D3-",
+      "complement": "Polarity",
+      "axis": "D3"
+    },
+    {
+      "name_en": "Polarity",
+      "name_ca": "Polaritat",
+      "family": "dividing",
+      "anchor_category": "FEN",
+      "geometry": "cardinal D3+",
+      "complement": "Identity",
+      "axis": "D3"
+    },
+    {
+      "name_en": "Correspondence",
+      "name_ca": "Correspondència",
+      "family": "unifying",
+      "anchor_category": "SUB",
+      "geometry": "cardinal D1+",
+      "complement": "Distinction",
+      "axis": "D1"
+    },
+    {
+      "name_en": "Distinction",
+      "name_ca": "Distinció",
+      "family": "dividing",
+      "anchor_category": "OBJ",
+      "geometry": "cardinal D1-",
+      "complement": "Correspondence",
+      "axis": "D1"
+    },
+    {
+      "name_en": "Similarity",
+      "name_ca": "Similitud",
+      "family": "unifying",
+      "anchor_category": "MTF",
+      "geometry": "face diagonal",
+      "complement": "Divergence",
+      "axis": "diagonal_MTF_ART"
+    },
+    {
+      "name_en": "Divergence",
+      "name_ca": "Divergència",
+      "family": "dividing",
+      "anchor_category": "ART",
+      "geometry": "face diagonal",
+      "complement": "Similarity",
+      "axis": "diagonal_MTF_ART"
+    },
+    {
+      "name_en": "Convergence",
+      "name_ca": "Convergència",
+      "family": "unifying",
+      "anchor_category": "MTP",
+      "geometry": "face diagonal",
+      "complement": "Difference",
+      "axis": "diagonal_MTP_CIE"
+    },
+    {
+      "name_en": "Difference",
+      "name_ca": "Diferència",
+      "family": "dividing",
+      "anchor_category": "CIE",
+      "geometry": "face diagonal",
+      "complement": "Convergence",
+      "axis": "diagonal_MTP_CIE"
+    }
+  ],
+  "operation_families": {
+    "unifying": ["Identity", "Correspondence", "Similarity", "Convergence"],
+    "dividing": ["Polarity", "Distinction", "Divergence", "Difference"]
+  },
+  "disciplinary_dialectics": [
+    {
+      "id": "LOG_MIS",
+      "poles": ["LOG", "MIS"],
+      "tension_en": "formality ↔ ineffability",
+      "tension_ca": "formalitat ↔ inefabilitat",
+      "classical_reference": "Wittgenstein, Tractatus Logico-Philosophicus — what can be said vs what must be kept silent",
+      "geometry": "body diagonal of Neutral cube",
+      "verifier_use": "Detect responses that are all formal/logical with no acknowledgment of ineffable / mystical residue"
+    },
+    {
+      "id": "TEC_MIT",
+      "poles": ["TEC", "MIT"],
+      "tension_en": "replicability ↔ orientability",
+      "tension_ca": "replicabilitat ↔ orientabilitat",
+      "classical_reference": "Technology vs human orientation; Heideggerian critique of technology",
+      "geometry": "body diagonal of Neutral cube",
+      "verifier_use": "Detect responses that are all technical replicability without human orientation, or vice versa"
+    },
+    {
+      "id": "EST_ETI",
+      "poles": ["EST", "ETI"],
+      "tension_en": "informality ↔ reciprocity",
+      "tension_ca": "informalitat ↔ reciprocitat",
+      "classical_reference": "Greek classical tradition: Kalós (the beautiful) ↔ agathós (the good)",
+      "geometry": "body diagonal of Neutral cube",
+      "verifier_use": "Detect aesthetic-only or ethical-only collapse"
+    },
+    {
+      "id": "PSI_IDE",
+      "poles": ["PSI", "IDE"],
+      "tension_en": "interactivity ↔ regulability",
+      "tension_ca": "interactivitat ↔ regulabilitat",
+      "classical_reference": "Hume (psychic empiricism) ↔ Plato (ideational rationalism)",
+      "geometry": "body diagonal of Neutral cube",
+      "verifier_use": "Detect collapse to pure psychic interactivity or pure ideational regulation"
+    }
+  ],
+  "cycles": [
+    {
+      "id": 1,
+      "name_en": "Method Cycle",
+      "name_en_alternate": "Application Cycle",
+      "name_ca_canonical": "Volta de Mètode",
+      "name_ca_alternate": "Volta d'Aplicació",
+      "topology": "vertical: NOU/FEN × TEO/PRA",
+      "purpose_en": "think and do well",
+      "purpose_ca": "pensar i fer bé",
+      "kind": "basic",
+      "stations": ["PRA", "EXP", "FEN", "ANA", "TEO", "SIN", "NOU", "AMO", "PRA"],
+      "method_operations": ["ANA", "SIN", "AMO", "EXP"],
+      "stages_petit_manual": [
+        "KNOW THYSELF (FEN→TEO)",
+        "ACCEPT THYSELF (TEO→NOU)",
+        "SURPASS THYSELF (NOU→PRA)",
+        "LIBERATE THYSELF (PRA→FEN)"
+      ],
+      "suitable_for": "analysis, reasoning, problem-solving, planning",
+      "canonical_questions": [
+        "How to analyze X?",
+        "What should be done?",
+        "What is the best method for Y?"
+      ]
+    },
+    {
+      "id": 2,
+      "name_en": "Knowledge Cycle",
+      "name_ca_canonical": "Volta de Coneixement",
+      "topology": "horizontal: SUB/OBJ × MTP/CIE",
+      "purpose_en": "acquire knowledge / self-knowledge",
+      "purpose_ca": "adquirir coneixement / autoconeixement",
+      "kind": "basic",
+      "stations": ["SUB", "MTP", "NOU", "MTF", "OBJ", "CIE", "FEN", "ART", "SUB"],
+      "modes": [
+        {"category": "MTP", "mode_en": "spiritual", "mode_ca": "espiritual"},
+        {"category": "MTF", "mode_en": "philosophical", "mode_ca": "filosòfic"},
+        {"category": "CIE", "mode_en": "scientific", "mode_ca": "científic"},
+        {"category": "ART", "mode_en": "artistic", "mode_ca": "artístic"}
+      ],
+      "stages_en": ["LET GO", "MELT", "INSPIRE", "WORK"],
+      "stages_ca": ["DEIXAR ANAR", "FONDRE", "INSPIRAR", "OBRAR"],
+      "suitable_for": "epistemic questions",
+      "canonical_questions": [
+        "How do I come to know X?",
+        "From which mode (scientific / artistic / philosophical / spiritual) should I approach this?"
+      ]
+    },
+    {
+      "id": 3,
+      "name_en": "Relation Cycle",
+      "name_ca_canonical": "Volta de Relació",
+      "topology": "transversal: NOU/FEN × PLA/MON",
+      "purpose_en": "situate oneself / find meaning",
+      "purpose_ca": "orientar-se / trobar sentit",
+      "kind": "radial",
+      "stations": ["PLA", "CNF", "NOU", "CMN", "MON", "EXC", "FEN", "ATZ", "PLA"],
+      "modes": [
+        {"category": "CNF", "mode_en": "null relation: withdrawal", "mode_ca": "relació nul·la: confinament"},
+        {"category": "CMN", "mode_en": "total relation: universal connection", "mode_ca": "relació total: comunió"},
+        {"category": "EXC", "mode_en": "precise relation: careful distinction", "mode_ca": "relació precisa: exactitud"},
+        {"category": "ATZ", "mode_en": "confused relation: exposure to contingency", "mode_ca": "relació confusa: atzar"}
+      ],
+      "suitable_for": "existential, relational, situational questions",
+      "canonical_questions": [
+        "What is my relation to X?",
+        "How do I situate myself in this situation?"
+      ]
+    },
+    {
+      "id": 4,
+      "name_en": "Revelation Cycle",
+      "name_ca_canonical": "Volta de Revelació",
+      "topology": "lateral: addressors STM-STT-SGT-SGE",
+      "purpose_en": "resolve conflicts / find personal direction",
+      "purpose_ca": "resoldre conflictes / trobar direcció personal",
+      "kind": "basic",
+      "stations": ["SUB", "STM", "PRA", "SGE", "OBJ", "SGT", "TEO", "STT", "SUB"],
+      "method_operations": ["STM", "STT", "SGT", "SGE"],
+      "addressors": [
+        {"category": "STM", "name_en": "feeling", "name_ca": "sentiment"},
+        {"category": "STT", "name_en": "sense", "name_ca": "sentit"},
+        {"category": "SGT", "name_en": "meaning", "name_ca": "significat"},
+        {"category": "SGE", "name_en": "sign", "name_ca": "signe"}
+      ],
+      "stages_en": ["DESIRES", "ASPIRATIONS", "COMMITMENTS", "CONDITIONS"],
+      "stages_ca": ["DESITJOS", "ASPIRACIONS", "COMPROMISOS", "CONDICIONS"],
+      "suitable_for": "orientation, alignment, conflict resolution",
+      "canonical_questions": [
+        "What do I feel?",
+        "What do I want?",
+        "What do I commit to?",
+        "What conditions do I need?"
+      ]
+    },
+    {
+      "id": 5,
+      "name_en": "Universal Cycle",
+      "name_ca_canonical": "Volta Universal",
+      "topology": "TEO/PRA × PLA/MON",
+      "purpose_en": "synthesize / cosmovision",
+      "purpose_ca": "sintetitzar / cosmovisió",
+      "kind": "radial",
+      "stations": ["PLA", "CAS", "PRA", "COS", "MON", "COV", "TEO", "CAV", "PLA"],
+      "modes": [
+        {"category": "CAS", "mode_en": "chaotic", "mode_ca": "caòtic"},
+        {"category": "COS", "mode_en": "cosmic", "mode_ca": "còsmic"},
+        {"category": "COV", "mode_en": "cosmovisional", "mode_ca": "cosmovisional"},
+        {"category": "CAV", "mode_en": "chaovisional", "mode_ca": "caovisional"}
+      ],
+      "suitable_for": "total perspective questions, paradigm-level synthesis",
+      "canonical_questions": [
+        "What is the world like as a whole?",
+        "What worldview underlies my approach?"
+      ]
+    },
+    {
+      "id": 6,
+      "name_en": "Consistency Cycle",
+      "name_ca_canonical": "Volta de Consistència",
+      "topology": "lateral: SUB/OBJ × PLA/MON",
+      "purpose_en": "quality / bond / persistence",
+      "purpose_ca": "qualitat / vincle / consistència-personalitat",
+      "kind": "radial",
+      "stations": ["PLA", "FEL", "SUB", "INT", "MON", "AFI", "OBJ", "BOS", "PLA"],
+      "modes": [
+        {"category": "FEL", "mode_en": "happy", "mode_ca": "feliç"},
+        {"category": "INT", "mode_en": "intentional", "mode_ca": "intencional"},
+        {"category": "AFI", "mode_en": "bonded", "mode_ca": "afí"},
+        {"category": "BOS", "mode_en": "fused", "mode_ca": "fos"}
+      ],
+      "suitable_for": "questions of identity, persistence, integrity",
+      "canonical_questions": [
+        "What kind of person/system am I being?",
+        "What persists across change?"
+      ]
+    }
+  ],
+  "verifier_integration": {
+    "function_name": "𝓗(r)",
+    "description": "Dispersed completeness function — evaluates response coverage against the 10 structural elements (6 principles + 4 disciplinary dialectics) of the active cycle.",
+    "specification": "../../methodology/verifier-spec.md",
+    "good_criterion": "../../methodology/be-criterion.md",
+    "evaluation_targets": [
+      "coverage of axis poles touched by the question",
+      "non-collapse of relevant polarities",
+      "coverage of the 6 principles' operational poles",
+      "no concentration on one side of any of the 4 disciplinary dialectics",
+      "completeness over the 8 stations of the selected cycle"
+    ],
+    "cycle_selection_heuristic": {
+      "method_question": "Method Cycle",
+      "epistemic_question": "Knowledge Cycle",
+      "existential_question": "Relation Cycle",
+      "orientational_question": "Revelation Cycle",
+      "cosmological_question": "Universal Cycle",
+      "identity_question": "Consistency Cycle"
+    }
+  },
+  "structural_count": {
+    "principles": 6,
+    "operations": 8,
+    "disciplinary_dialectics": 4,
+    "cycles": 6,
+    "total_meta_globalium_elements": "10 (6 principles + 4 disciplinary dialectics) anchored to 8 operations and animated by 6 cycles"
+  },
+  "changelog": {
+    "1.0.0": "Initial machine-readable export of the Meta-Globàlium structural layer."
+  }
+}

@@ -1,129 +1,127 @@
 ---
-title: Exploració — Eix temporal radial com a complement del PLA-MON espacial
+title: Exploration — Radial temporal axis as complement to spatial PLA-MON
 date: 2026-05-02
-status: hipòtesi exploratòria — no aplicada al model
-context: derivada de la mineria de descripcions (`docs/canonical-mappings.md §5`). A NOU emergeix una escala temporal de 6 nivells que suggereix un eix temporal independent o superposat a l'eix radial PLA-MON
+status: exploratory hypothesis — not yet applied to the model
 license: CC BY-SA 4.0
 ---
 
-# Eix temporal radial — exploració
+# Tempeternitat — radial temporal axis (exploration)
 
-> **Provenance**: this content is part of the **Meta-Globàlium proper** — the new structural layer (Berenguer / Opengea, 2023–2026) added on top of the inherited Globàlium ontology. It is the original contribution of this work.
+> **Provenance**: this content is part of the **Meta-Globàlium proper** — the new structural layer (Berenguer / Opengea, 2023–2026) added on top of the inherited Globàlium ontology.
 
+> **Hypothesis**: the Meta-Globàlium has a **radial temporal dimension** that complements the spatial PLA-MON dimension. This document develops the hypothesis without yet applying it to the canonical model.
 
-> **Hipòtesi**: el Meta-Globàlium té una **dimensió temporal radial** complement de la dimensió espacial PLA-MON. Aquesta exploració desenvolupa la hipòtesi sense aplicar-la encara al model.
+## 1. Origin of the hypothesis
 
-## §1. Origen de la hipòtesi
-
-A la descripció de NOU emergeix aquesta escala (no documentada al Manifest):
+In the description of NOU, a temporal scale of 6 levels emerges (not yet documented in the Manifest):
 
 ```
-Escala de temps entre l'atemporalitat (PLA) i l'eternitat (NOU):
-0. Atemporalitat
-1. Presència ('ser' constant)
-2. Simultaneïtat (tots alhora)
-3. Present etern (presència contínua)
-4. Eternitat cíclica i sense límits (successió infinita)
-5. Connexió amb el temps novament
+Time scale between atemporality (PLA) and eternity (NOU):
+  0. Atemporality
+  1. Presence ('being' constant)
+  2. Simultaneity (everything at once)
+  3. Eternal present (continuous presence)
+  4. Cyclical and unbounded eternity (infinite succession)
+  5. Re-connection with linear time
 ```
 
-Els ancoratges PLA i NOU suggereixen que **l'eix radial té dues lectures separables**:
-- **Espacial** *(canonical, manifestada al Manifest 2026)*: PLA centre → MON superfície = profunditat ontològica de potencialitat ↔ autenticitat
-- **Temporal** *(emergent a la descripció de NOU)*: PLA atemporal → FEN historicitat = profunditat temporal
+The PLA and NOU anchorings suggest the **radial axis admits two separable readings**:
 
-## §2. Tres possibles configuracions
+- **Spatial** *(canonical, manifest in the 2026 Manifest)*: PLA centre → MON surface = ontological depth from potentiality to authenticity.
+- **Temporal** *(emergent in the description of NOU)*: PLA atemporal → FEN historicity = temporal depth.
 
-### §2.1 Configuració A — Una sola línia, dues lectures
+## 2. Three possible configurations
 
-L'eix radial PLA-MON té una sola direcció física, i les dues lectures (espacial i temporal) són **interpretacions complementàries** d'una mateixa estructura:
+### 2.1 Configuration A — One line, two readings
 
-| Pol | Lectura espacial | Lectura temporal |
-|-----|------------------|------------------|
-| PLA (centre) | potencialitat | atemporalitat |
-| MON (superfície) | autenticitat | historicitat manifesta |
+The radial axis PLA-MON has a single physical direction; the spatial and temporal readings are **complementary interpretations** of the same structure.
 
-**Avantatge**: simplicitat estructural — manté els 10 elements del Manifest sense afegir nous eixos.
-**Inconvenient**: les dues lectures poden col·lapsar i perdre matís.
+| Pole | Spatial reading | Temporal reading |
+|------|-----------------|------------------|
+| PLA (centre) | potentiality | atemporality |
+| MON (surface) | authenticity | manifest historicity |
 
-### §2.2 Configuració B — Dos eixos radials independents
+**Pro**: structural simplicity — keeps the 10 Manifest elements without adding new axes.
+**Con**: the two readings can collapse into each other and lose nuance.
 
-PLA-MON és l'eix espacial, i hi ha un **eix temporal independent** que connecta atemporalitat-eternitat per un altre vector. Possibles ancoratges:
+### 2.2 Configuration B — Two independent radial axes
 
-| Eix temporal possible | Pol negatiu | Pol positiu |
-|----------------------|-------------|-------------|
-| NOU-FEN actualizat | NOU (atemporal universal) | FEN (temporalitat lineal historicitat) |
-| Vector ortogonal nou | (no existeix encara al cub) | (no existeix) |
+PLA-MON is the spatial axis; a **separate temporal axis** connects atemporality to eternity through a different vector.
 
-**Avantatge**: ric — permet posicionar conceptes en dues coordenades radials independents.
-**Inconvenient**: trenca la cardinalitat de 4 dimensions (D1-D4) del Manifest 2026.
+**Pro**: rich — concepts can be positioned in two independent radial coordinates.
+**Con**: breaks the 4-dimensional cardinality (D1-D4) of the 2026 Manifest.
 
-### §2.3 Configuració C — Eix temporal projectat sobre NOU-FEN
+### 2.3 Configuration C — Temporal axis projected onto NOU-FEN
 
-L'**eix p (NOU-FEN)** és en realitat un eix temporal disfressat de "ontològic":
-- NOU = atemporal/sintètic (el "tot ja"; presència fixa de l'ordre implícit Bohm)
-- FEN = temporal/analític (manifestació seqüencial; instantànies del flux del temps)
+The **D3 axis (NOU-FEN)** is, in fact, a temporal axis disguised as ontological:
 
-**Avantatge**: aprofita estructura ja existent. La descripció de FEN ja inclou *"Instantània en el flux del temps. Propietat emergent que és deguda a la percepció limitada de l'observador"* — temporal explícit.
+- NOU = atemporal/synthetic (the "all-at-once"; the fixed presence of Bohm's implicate order)
+- FEN = temporal/analytic (sequential manifestation; snapshots of time's flow)
 
-**Inconvenient**: es perd la lectura ontològica clàssica de noümen-fenomen kantiana (que no és primàriament temporal).
+**Pro**: leverages already-existing structure. The description of FEN already contains *"snapshot in the flow of time. Emergent property due to the limited perception of the observer"* — explicitly temporal.
 
-## §3. Anàlisi conceptual
+**Con**: loses the classical Kantian noumenon-phenomenon ontological reading (which is not primarily temporal).
 
-### §3.1 Lectura segons David Bohm (suggerida a NOU)
+## 3. Conceptual analysis
 
-A la descripció de NOU s'invoca el **holomoviment** de Bohm:
-- **Ordre implícit**: connexions no-locals plegades dins una realitat profunda — atemporal/simultani/universal
-- **Ordre explícit**: desplegament fenomenal en l'espai-temps lineal — temporal/seqüencial
+### 3.1 Reading according to David Bohm
 
-Aquesta dicotomia bohmiana s'alinea amb **l'eix p (NOU-FEN)** més que amb l'eix radial. Suggereix la **Configuració C**.
+The description of NOU invokes Bohm's **holomovement**:
 
-### §3.2 Lectura segons Schopenhauer (suggerida a NOU)
+- **Implicate order**: non-local connections folded into deep reality — atemporal/simultaneous/universal
+- **Explicate order**: phenomenal unfolding in linear spacetime — temporal/sequential
 
-*"Voluntat no subjecta al temps i a l'espai"* — la Voluntat (NOU-equivalent) és atemporal; les representacions (FEN-equivalent) són temporals. **Configuració C** confirmada.
+This Bohmian dichotomy aligns with the **D3 axis (NOU-FEN)** more than with the radial axis. Supports **Configuration C**.
 
-### §3.3 Lectura quàntica/Wolfram (suggerida a NOU)
+### 3.2 Reading according to Schopenhauer
 
-**Ruliad space (Wolfram)**: *"totes les regles desplegades, tot el temps desplegat — vol dir que tot ja ha passat"*. Un univers d'opcions ja-totes-realitzades equival a NOU; la nostra experiència seqüencial és FEN. Reforça **Configuració C**.
+*"Will not subject to time and space"* — the Will (NOU-equivalent) is atemporal; representations (FEN-equivalent) are temporal. **Configuration C** confirmed.
 
-### §3.4 Lectura desenvolupament infantil (suggerida a NOU)
+### 3.3 Quantum / Wolfram reading
 
-*"Els infants perceben el món com un flux de simultaneïtat sense distincions temporals... desenvolupen la comprensió de la seqüencialitat a mesura que maduren"*.
+**Ruliad space (Wolfram)**: *"all rules unfolded, all time unfolded — meaning everything has already happened"*. A universe of options-all-already-realized equates to NOU; our sequential experience is FEN. Reinforces **Configuration C**.
 
-L'eix temporal aquí va de **simultaneïtat universal** (NOU) a **seqüencialitat aprenentatge** (FEN). **Configuració C** consolidada.
+### 3.4 Child-development reading
 
-## §4. Recomanació
+*"Infants perceive the world as a flow of simultaneity without temporal distinctions… they develop the comprehension of sequentiality as they mature"*.
 
-Adoptem **Configuració C** com a hipòtesi de treball:
-- L'eix p (NOU-FEN) és **simultàniament**:
-  - Eix ontològic (noümen-fenomen kantià)
-  - Eix temporal (atemporalitat-historicitat bohmiana)
+The temporal axis here goes from **universal simultaneity** (NOU) to **sequential learning** (FEN). **Configuration C** consolidated.
 
-Aquestes dues lectures s'alimenten mútuament: l'inaccessibilitat del noümen kantià és la mateixa-cosa que l'atemporalitat de l'ordre implicat de Bohm; la manifestació fenomenal és la mateixa-cosa que el desplegament temporal de l'ordre explícit.
+## 4. Recommendation
 
-Sota aquesta hipòtesi, **l'escala de 6 nivells temporals queda subordinada a l'eix p**:
-- Nivell 0 (atemporalitat) ≈ PLA-en-NOU plasmàtic
-- Nivell 1 (presència) ≈ NOU central
-- Nivell 2 (simultaneïtat) ≈ NOU manifestada
-- Nivell 3 (present etern) ≈ MON-en-NOU mundà
-- Nivell 4 (eternitat cíclica) ≈ transició NOU→FEN
-- Nivell 5 (temps lineal connectat) ≈ FEN
+Adopt **Configuration C** as working hypothesis:
 
-## §5. Implicacions arquitectòniques
+The D3 axis (NOU-FEN) is **simultaneously**:
+- Ontological axis (Kantian noumenon-phenomenon)
+- Temporal axis (Bohmian atemporality-historicity)
 
-Si la **Configuració C** s'adopta:
+These two readings reinforce each other: the inaccessibility of the Kantian noumenon is the same thing as the atemporality of Bohm's implicate order; phenomenal manifestation is the same thing as the temporal unfolding of the explicate order.
 
-1. El **Manifest 2026 no necessita un nou eix** — l'eix p ja porta la dimensió temporal implícitament. Els 10 elements estructurals romanen vàlids.
-2. La **descripció de FEN** s'enriqueix amb la dimensió temporal explícita: FEN com a "fenomen-com-a-experiència-temporal".
-3. La **descripció de NOU** s'enriqueix amb la dimensió atemporal: NOU com a "noümen-com-a-substrat-atemporal".
-4. El **verificador estructural** pot afegir una mètrica de **cobertura temporal**: una resposta tota-fenomenal (només NOU) o tota-noumènica (només NOU) és **temporalment parcial**. Una resposta sàvia integra l'instantani amb l'etern.
+Under this hypothesis, the 6-level temporal scale becomes a substructure of the D3 axis:
 
-## §6. Pendents
+- Level 0 (atemporality) ≈ PLA-in-NOU plasmatic
+- Level 1 (presence) ≈ NOU central
+- Level 2 (simultaneity) ≈ NOU manifested
+- Level 3 (eternal present) ≈ MON-in-NOU mundane
+- Level 4 (cyclical eternity) ≈ NOU→FEN transition
+- Level 5 (linear time reconnected) ≈ FEN
 
-- Verificar amb la *Globalística* (llibre WIP) si Xirinacs ja contempla aquesta dualitat
-- Revisar el cicle Mètode FEN→ANA→TEO→SIN→NOU→AMO→PRA→EXP a la llum d'aquest framing temporal
-- Considerar si la "volta de Mètode" del Globàlium té correspondència explícita amb seqüència temporal
-- Si s'adopta, actualitzar memòria `project_principles_architecture.md` i el paper acadèmic
+## 5. Architectural implications
+
+If **Configuration C** is adopted:
+
+1. The **2026 Manifest does not need a new axis** — the D3 axis already carries the temporal dimension implicitly. The 10 structural elements remain valid.
+2. The **description of FEN** is enriched with explicit temporality: FEN as "phenomenon-as-temporal-experience".
+3. The **description of NOU** is enriched with the atemporal dimension: NOU as "noumenon-as-atemporal-substrate".
+4. The **structural verifier** can add a **temporal coverage** metric: a fully-phenomenal response (only FEN) or fully-noumenal response (only NOU) is **temporally partial**. A wise response integrates the instantaneous with the eternal.
+
+## 6. Pending
+
+- Verify against *Globalística* (forthcoming book) whether Xirinacs already contemplates this duality
+- Review the Method cycle FEN → ANA → TEO → SIN → NOU → AMO → PRA → EXP under this temporal framing
+- Consider whether the Method Cycle of the Globàlium has explicit correspondence with temporal sequence
+- If adopted, update the academic paper
 
 ## Status
 
-🔍 **Hipòtesi exploratòria registrada**. No aplicada al model. A confirmar amb Jordi i la *Globalística* abans d'integrar al Manifest oficial.
+🔍 **Exploratory hypothesis registered.** Not yet applied to the model. To confirm against *Globalística* before integration into the official Manifest.

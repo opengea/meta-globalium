@@ -1,169 +1,170 @@
 ---
-title: Exploració — Solve-Coagula com a 7è element axiomàtic del Meta-Globàlium
+title: Exploration — Solve-Coagula as the Meta-Globàlium's iterating meta-operation
 date: 2026-05-02
-status: hipòtesi exploratòria — proposta arquitectònica per al Manifest
-context: derivada de la mineria de descripcions (`docs/canonical-mappings.md §6`). Solve-Coagula és la macro-dialèctica alquímica que connecta la dimensió processual del Mètode (ANA-SIN) amb la dimensió operativa de les operacions de cara (CIE-MTP)
+status: exploratory hypothesis — architectural proposal for the Manifest
 license: CC BY-SA 4.0
 ---
 
-# Solve-Coagula com a 7è element axiomàtic — exploració
+# Solve-Coagula — meta-operation (exploration)
 
-> **Provenance**: this content is part of the **Meta-Globàlium proper** — the new structural layer (Berenguer / Opengea, 2023–2026) added on top of the inherited Globàlium ontology. It is the original contribution of this work.
+> **Provenance**: this content is part of the **Meta-Globàlium proper** — the new structural layer (Berenguer / Opengea, 2023–2026) added on top of the inherited Globàlium ontology.
 
+> **Hypothesis**: the alchemical macro-dialectic **Solve-Coagula** is not a new structural *element* of the cube but a **meta-operation** that iterates the Method cycle recursively. It is what makes the Globàlium a **dynamic** model rather than a static one.
 
-> **Hipòtesi**: la macro-dialèctica alquímica **Solve-Coagula** mereix l'estatut d'**element estructural canònic** dels 14 actuals, esdevenint el 15è (o re-emmarcant els existents). Aquesta exploració desenvolupa la proposta sense aplicar-la encara al Manifest.
+## 1. What is Solve-Coagula?
 
-## §1. Context — què és Solve-Coagula?
+The 80 categories show a recurring alchemical pattern in their descriptions:
 
-Distribuïdes a les descripcions actuals del Meta-Globàlium emergeix un patró:
+| Category | Alchemical operation | Meaning |
+|----------|---------------------|---------|
+| **ANA** | Solve | dissolve to analyse |
+| **CIE** | Solve | dissolve to differentiate |
+| **SIN** | Coagula | coagulate to integrate |
+| **MTP** | Coagula | coagulate to make whole |
 
-| NEU | Operació alquímica menciona | Sentit |
-|-----|----------------------------|--------|
-| **ANA** | "Solve" (alquímia) | dissoldre per analitzar |
-| **CIE** | "Solve" (alquímia) | dissoldre per diferenciar |
-| **SIN** | "Coagula" (alquímia) | coagular per integrar |
-| **MTP** | "Coagula" (alquímia) | coagular per holisticar |
+These four neutrals form a complete alchemical family: two operating in *dissolution* mode (ANA, CIE) and two in *coagulation* mode (SIN, MTP).
 
-Aquestes 4 NEUs constitueixen una **família alquímica completa**: dues actuant en mode dissolució (ANA, CIE) i dues en mode coagulació (SIN, MTP).
+The classical alchemical aphorism *solve et coagula* (attributed to Basil Valentine, 15th century) describes the universal cycle of transformation: dissolve the composite, then coagulate it again into a higher form. **It is the iterative cycle of conceptual and material transformation** that European alchemy inherited from Hermeticism.
 
-L'aforisme alquímic original *solve et coagula* (atribuït a Basili Valentí, segle XV) descriu el cicle universal de transformació: dissol allò compost i coagula-ho de nou en una forma superior. **És el cicle iteratiu de transformació conceptual i material** que l'alquímia europea va heretar de l'hermetisme.
+## 2. Structural position in the cube
 
-## §2. Posició estructural al cub
+### 2.1 Geometric mapping
 
-### §2.1 Mapping geomètric
+| Family | Categories | Position in the cube |
+|--------|-----------|----------------------|
+| **Solve** | ANA, CIE | ANA = P2 mediator of the Method · CIE = P3 face vertex |
+| **Coagula** | SIN, MTP | SIN = P2 mediator of the Method · MTP = P3 face vertex |
 
-| Família | NEUs | Posició al cub |
-|---------|------|----------------|
-| **Solve** | ANA, CIE | ANA = mediadora P2 del Mètode; CIE = vèrtex P3 operació-de-cara |
-| **Coagula** | SIN, MTP | SIN = mediadora P2 del Mètode; MTP = vèrtex P3 operació-de-cara |
+**Observation**: each side has one Method mediator + one cube vertex. This is **structural symmetry**, not coincidence.
 
-**Observació**: Solve i Coagula tenen una mediadora del Mètode + un vèrtex del cub cadascun. Això suggereix una **simetria estructural** que no és arbitrària.
+### 2.2 The Solve-Coagula geometry
 
-### §2.2 Geometria de l'eix Solve-Coagula
+Within the Neutral cube:
+- ANA and SIN are **opposite poles** of a Method mediator (analytic-synthetic axis)
+- CIE and MTP are **opposite poles** of a face diagonal (operations: difference ↔ convergence)
 
-Dins del cub neutral:
-- ANA i SIN són **pols oposats** d'un mediador (eix mediador analític-sintètic del Mètode)
-- CIE i MTP són **pols oposats** d'una diagonal de cara (operacions diferència ↔ convergència)
+**Conjecture**: there is an **isomorphism surface** between the two axes (ANA-SIN and CIE-MTP) that constitutes the macro-dialectic Solve-Coagula. This surface is none of the existing structural elements, but **carries its own structural information**.
 
-**Conjectura**: existeix una **superfície d'isomorfisme** entre els dos eixos (ANA-SIN i CIE-MTP) que constitueix la macro-dialèctica Solve-Coagula. Aquesta superfície no és cap dels 14 elements actuals, però **conté informació estructural pròpia**.
+### 2.3 Distinctive feature: quaternary, not binary
 
-### §2.3 Característica distintiva
-
-A diferència de les altres dialèctiques (binàries: A ↔ B), Solve-Coagula és **quaternària**:
+Unlike the other dialectics (binary: A ↔ B), Solve-Coagula is **quaternary**:
 
 ```
-Solve-side  Coagula-side
-  ANA  ─────  SIN     (mediadors P2)
+Solve-side    Coagula-side
+  ANA  ──────  SIN     (P2 mediators)
    │     ╳     │
-  CIE  ─────  MTP     (vèrtex P3)
+  CIE  ──────  MTP     (P3 face vertices)
 ```
 
-La línia diagonal (ANA-MTP, SIN-CIE) també és estructuralment significativa:
-- ANA-MTP = "anàlisi → totalitat" = volta del Mètode tornant cap al tot
-- SIN-CIE = "síntesi → diferenciació" = creació de nova diferenciació post-síntesi
+The diagonal pairings (ANA-MTP, SIN-CIE) are also structurally significant:
+- ANA-MTP = "analysis → totality" = Method cycle returning to the whole
+- SIN-CIE = "synthesis → differentiation" = creation of new differentiation post-synthesis
 
-## §3. Casos d'aplicació
+## 3. Application cases
 
-### §3.1 Cicle iteratiu del coneixement
+### 3.1 Iterative cycle of knowledge
 
-L'alquímia diu *solve et coagula* iteradament. Cada cicle de transformació:
-1. **Solve** la formulació actual (ANA-CIE: descomponer, diferenciar, criticar)
-2. **Coagula** una nova formulació (SIN-MTP: integrar, totalitzar, sintetitzar)
-3. **Solve** novament aquesta nova formulació (re-anàlisi, re-diferenciació)
-4. ... fins que el coneixement esdevé **estable** o transcendeix la pregunta original
+Alchemy says *solve et coagula* iteratively. Each cycle of transformation:
 
-Això és **paral·lel al cicle del Mètode FEN→ANA→TEO→SIN→NOU→AMO→PRA→EXP**, però abstret a un nivell més alt: el cicle Solve-Coagula descriu **com s'utilitza el Mètode iteradament**, no només una passada.
+1. **Solve** the current formulation (ANA + CIE: decompose, differentiate, criticise)
+2. **Coagula** a new formulation (SIN + MTP: integrate, totalise, synthesise)
+3. **Solve** again the new formulation (re-analyse, re-differentiate)
+4. … until knowledge becomes **stable** or transcends the original question
 
-### §3.2 Verificador estructural
+This is **parallel to the Method cycle** FEN→ANA→TEO→SIN→NOU→AMO→PRA→EXP, but at a higher level of abstraction: the Solve-Coagula cycle describes **how the Method is used iteratively**, not only one pass.
 
-Una resposta que aplica només Solve (analítica + diferenciada) sense Coagula (síntesi + totalització) és **incompleta processualment** — descompondre sense integrar deixa el coneixement fragmentat. I viceversa: només Coagula (síntesi + integració) sense Solve és **dogmàtica** — totalitzar sense criticar/diferenciar reprodueix prejudicis.
+### 3.2 Structural verifier
 
-El verificador pot afegir una mètrica de **balanç Solve-Coagula** com a complement de cobertura estructural.
+A response that applies only Solve (analytic + differentiated) without Coagula (synthesis + totalisation) is **processually incomplete** — to decompose without integrating leaves knowledge fragmented. Conversely, only Coagula (synthesis + integration) without Solve is **dogmatic** — to totalise without criticising/differentiating reproduces prejudices.
 
-### §3.3 Aplicació al disseny pedagògic
+The verifier can add a **Solve-Coagula balance** metric as a complement to dispersed-coverage.
 
-El cicle Solve-Coagula és **isomòrfic al cicle d'aprenentatge** d'un infant/agent:
-1. Solve: l'infant **analitza** el seu món, **distingeix** parts
-2. Coagula: l'infant **sintetitza** explicacions, **integra** patrons
-3. Solve: replanteja les seves explicacions amb noves observacions
-4. ... cicle continu
+### 3.3 Pedagogical design
 
-Això té implicacions per a l'arquitectura agentica d'Arkadium: l'agent ha d'iterar Solve-Coagula sobre les seves pròpies respostes.
+The Solve-Coagula cycle is **isomorphic to the learning cycle** of an infant or agent:
 
-## §4. Tres opcions arquitectòniques
+1. Solve: the learner **analyses** their world, **distinguishes** parts
+2. Coagula: the learner **synthesises** explanations, **integrates** patterns
+3. Solve: re-examines explanations with new observations
+4. … continuous cycle
 
-### Opció A — Solve-Coagula com a **macro-dialèctica complementària**, no axiomàtica
+This has implications for Arkadium's agentic architecture: the agent must iterate Solve-Coagula over its own responses.
 
-Es manté com a documentat a `canonical-mappings.md §6`: una propietat emergent dels 14 elements existents, no un axioma nou.
+## 4. Four architectural options
 
-**Avantatge**: simplicitat — no modifica el Manifest 2026.
-**Inconvenient**: no captura l'estatut especial d'aquest patró com a metaprocediment.
+### Option A — Solve-Coagula as a **complementary macro-dialectic**, not axiomatic
 
-### Opció B — Solve-Coagula com a **15è element estructural**
+Keep it as documented in `canonical-mappings.md §6`: an emergent property of the 14 existing elements, not a new axiom.
 
-S'afegeix als 14 elements existents com a "macro-dialèctica processual quaternària" — una família distinta de les diagonals binàries.
+**Pro**: simplicity — does not modify the 2026 Manifest.
+**Con**: misses the special status of this pattern as meta-procedure.
 
-**Avantatge**: explicita l'estatut especial.
-**Inconvenient**: trenca la simetria 14 (= 6 + 8) → 15 que pot ser desvalorada estèticament.
+### Option B — Solve-Coagula as a **15th structural element**
 
-### Opció C — Reformulació: **15 elements amb categories explícites**
+Added to the 14 existing elements as "quaternary processual macro-dialectic" — a family distinct from the binary diagonals.
 
-Reorganitzar els 14 + Solve-Coagula com:
-- 6 principis axiomàtics (binaris)
-- 8 dialèctiques màximes (binàries)
-- **1 macro-dialèctica processual quaternària (Solve-Coagula)**
-= **15 elements en 3 famílies**
+**Pro**: makes the special status explicit.
+**Con**: breaks the symmetry 14 (= 6 + 8) → 15 that may be aesthetically devalued.
 
-**Avantatge**: estructura clara, jerarquia explícita.
-**Inconvenient**: edita el comptatge canònic.
+### Option C — Reformulation: **15 elements in 3 families**
 
-### Opció D — Solve-Coagula com a **operació meta-cíclica**
+Reorganise the 14 + Solve-Coagula as:
+- 6 axiomatic principles (binary)
+- 8 maximal dialectics (binary)
+- **1 quaternary processual macro-dialectic (Solve-Coagula)**
+= **15 elements in 3 families**
 
-No és element estructural sinó **operació de transformació iterada** que opera sobre els 14 elements. Equivalent a "el cicle d'iteració del Mètode" elevat a metaprincipi.
+**Pro**: clear structure, explicit hierarchy.
+**Con**: edits the canonical count.
 
-**Avantatge**: respecta l'arquitectura geomètrica + reconeix l'estatut metaprocedural.
-**Inconvenient**: requereix vocabulari nou (meta-operacions, no només elements).
+### Option D — Solve-Coagula as a **meta-cyclic operation**
 
-## §5. Recomanació
+Not a structural element but an **iterative transformation operation** that acts on the 14 elements. Equivalent to "the iterating cycle of the Method" elevated to a meta-principle.
 
-Adoptem **Opció D** com a hipòtesi de treball:
+**Pro**: respects the geometric architecture + recognises the meta-procedural status.
+**Con**: requires new vocabulary (meta-operations, not only elements).
 
-> Solve-Coagula no és un nou element del cub, sinó la **meta-operació d'iteració** que aplica el cicle del Mètode recursivament. És la força que fa que el Globàlium sigui un model **dinàmic** i no estàtic — el motor del cicle iteratiu de coneixement.
+## 5. Recommendation
 
-Sota aquesta lectura:
-- Els 14 elements estructurals (6 + 8) descriuen **l'estructura estàtica** del cub
-- Solve-Coagula descriu **com el cub s'utilitza dinàmicament** — el procediment d'inferència iterat
-- El verificador pot mesurar tant **completesa estàtica** (cobertura dispersa) com **balanç dinàmic** (Solve-Coagula)
+Adopt **Option D** as working hypothesis:
 
-## §6. Implicacions per a Arkadium agent
+> Solve-Coagula is not a new element of the cube but the **meta-operation of iteration** that recursively applies the Method cycle. It is the force that makes the Globàlium a **dynamic** model rather than static — the engine of the iterative knowledge cycle.
 
-Si s'adopta **Opció D**:
+Under this reading:
 
-1. L'agent d'Arkadium ha de **iterar Solve-Coagula** sobre les seves respostes:
-   - **Iteració 1**: Solve la pregunta (descompondre, diferenciar) → Coagula resposta inicial
-   - **Iteració 2**: Solve la resposta inicial (criticar, refinar) → Coagula resposta millorada
-   - **Iteració n**: fins a estabilitat o convergència
+- The 14 structural elements (6 + 8) describe the **static structure** of the cube
+- Solve-Coagula describes **how the cube is used dynamically** — the iterated inference procedure
+- The verifier can measure both **static completeness** (dispersed coverage) and **dynamic balance** (Solve-Coagula)
 
-2. La **completesa estructural d'una iteració** es mesura amb la funció 𝓗(r) actual; la **convergència entre iteracions** es mesura amb una nova mètrica de balanç Solve-Coagula
+## 6. Implications for Arkadium agent
 
-3. Això és **arquitectura natural per al runtime** d'Arkadium ja existent (re-prompt loop amb compensació harmònica) — Solve-Coagula formalitza el que el sistema ja fa
+If **Option D** is adopted:
 
-## §7. Pendents
+1. The Arkadium agent **iterates Solve-Coagula** over its responses:
+   - **Iteration 1**: Solve the question (decompose, differentiate) → Coagula initial response
+   - **Iteration 2**: Solve the initial response (critique, refine) → Coagula improved response
+   - **Iteration n**: until stability or convergence
 
-- Confirmar amb Jordi quina opció (A-B-C-D) prefereix
-- Si s'adopta Opció D, actualitzar:
-  - `canonical-mappings.md §6` (reformular com a meta-operació)
-  - `project_principles_architecture.md` (afegir secció sobre meta-operacions)
-  - Paper acadèmic CA (afegir §4.5.c "Iteració Solve-Coagula del Mètode")
-  - Verificador estructural d'Arkadium (mètrica nova)
+2. **Structural completeness of an iteration** is measured with the current 𝓗(r) function; **convergence between iterations** is measured with a new Solve-Coagula balance metric
+
+3. This is **natural runtime architecture** for the existing Arkadium agent (re-prompt loop with harmonic compensation) — Solve-Coagula formalises what the system already does
+
+## 7. Pending
+
+- Confirm with the principal author which option (A-B-C-D) to adopt
+- If Option D is adopted, update:
+  - canonical-mappings (reformulate as meta-operation)
+  - architecture documentation (add section on meta-operations)
+  - academic paper (add section on Solve-Coagula iteration of the Method)
+  - structural verifier (new metric)
 
 ## Status
 
-🔍 **Hipòtesi exploratòria registrada**. No aplicada al Manifest. A confirmar amb Jordi.
+🔍 **Exploratory hypothesis registered.** Not yet applied to the Manifest. Pending author confirmation.
 
-## Referències
+## See also
 
-- Canonical mappings: `docs/canonical-mappings.md §6`
-- Manifest principal: `arkadium.ai/manifest/`
-- Paper acadèmic: `arkadium.ai/papers/arkadium/ca/` §4.4-§4.5
-- Memòria: `project_principles_architecture.md` (Solve-Coagula a la secció Mappings canònics)
+- [`metode-global.md`](metode-global.md) — the Method cycle that Solve-Coagula iterates
+- [`verifier-spec.md`](verifier-spec.md) — verifier specification
+- [`be-criterion.md`](be-criterion.md) — the Good as harmony / non-collapse
+- [`../ontology/principles-and-operations.md`](../ontology/principles-and-operations.md) — the 6 principles + 8 operations + 4 disciplinary dialectics

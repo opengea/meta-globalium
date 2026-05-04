@@ -1,173 +1,164 @@
 ---
-title: Protocol N2 — Checklist de creació/revisió de frames
+title: Protocol N2 — Frame creation and revision checklist
 date: 2026-05-03
-status: vinculant — extensió del Protocol N2 amb aprenentatges del frame Matemàtiques
-applies_to: tots els frames N2 (expressions tematitzades del Meta-Globàlium)
-prereq: docs/protocol-N2-frame-mapping.md
+status: binding — extension of Protocol N2 with learnings from the Mathematics frame
+applies_to: all N2 frames (thematized expressions of the Meta-Globàlium)
+license: CC BY-SA 4.0
 ---
 
-# Protocol N2 — Checklist de creació i revisió de frames
+# Protocol N2 — Frame creation and revision checklist
 
-> **Provenance**: this content is part of the **Meta-Globàlium proper** — the new structural layer (Berenguer / Opengea, 2023–2026) added on top of the inherited Globàlium ontology. It is the original contribution of this work.
+> **Provenance**: this content is part of the **Meta-Globàlium proper** — the new structural layer (Berenguer / Opengea, 2023–2026) added on top of the inherited Globàlium ontology.
 
+> **Consolidated learning from the Mathematics frame (consolidation 2026-05-03)**
 
-> **Aprenentatge consolidat del frame Matemàtiques (parent=21, 2026-05-03)**
-
-Aquest document estén el Protocol N2 base amb 20 regles operacionals + 2 principis rectors.
-És **vinculant**: aplicar a tot frame nou abans de considerar-lo complet, i a tot frame existent
-abans de qualsevol modificació substancial.
+This document extends the base Protocol N2 with **20 operational rules + 2 governing principles**. It is **binding**: apply to any new frame before considering it complete, and to any existing frame before any substantial modification.
 
 ---
 
-## ⭐ Dos principis rectors (prioritat absoluta)
+## ⭐ Two governing principles (absolute priority)
 
-### Principi 1 — Comprensió holística sobre exhaustivitat
+### Principle 1 — Holistic understanding over exhaustiveness
 
-> **L'important NO és entendre totes les variants possibles, sinó entendre el concepte del frame
-> en el seu conjunt, les seves grans àrees i com es connecten entre elles.**
+> **The point is NOT to understand every possible variant, but to understand the concept of the frame as a whole, its major areas, and how they connect.**
 
-Implicacions pràctiques:
+Practical implications:
 
-- El frame ha de funcionar primer com a **mapa connectat de grans àrees**, no com a taxonomia exhaustiva.
-- Si la suma de les 80 cel·les es llegeix bé però els 6 cardinals no formen una visió coherent del domini → frame mal calibrat.
-- Si una cel·la PLA/MON queda buida o conceptual perquè no hi ha disciplina natural → millor deixar-la com a *concept* explícit que omplir-la artificialment per cobrir el quadre.
-- La pedagogia parteix dels 6-8 punts foundational; el detall 80 és per a l'especialista.
-- Mai no sacrificar la *llegibilitat estructural* per cobrir tots els forats del cub.
+- The frame must function first as a **connected map of major areas**, not as an exhaustive taxonomy.
+- If the sum of the 80 cells reads well but the 6 cardinals do not form a coherent vision of the domain → the frame is miscalibrated.
+- If a PLA/MON cell is left empty or conceptual because there is no natural discipline → it is better to leave it as an explicit *concept* than to fill it artificially to complete the cube.
+- Pedagogy starts from the 6-8 foundational points; the 80-cell detail is for the specialist.
+- Never sacrifice **structural readability** to fill all the cube's holes.
 
-**Conseqüència de validació**: si un especialista del domini, mirant els 6 cardinals + 12 ponts disciplinaris (zoom 26), no entén la cartografia de la seva pròpia disciplina, el frame ha fallat — encara que les 80 cel·les estiguin perfectament omplertes.
+**Validation consequence**: if a domain specialist, looking at the 6 cardinals + 12 disciplinary bridges (zoom 26), does not understand the cartography of their own discipline, the frame has failed — even if all 80 cells are perfectly filled.
 
-### Principi 2 — Coherència de les dialèctiques d'oposats
+### Principle 2 — Coherence of opposite dialectics
 
-> **L'important és que les dialèctiques d'oposats es mantinguin coherents en el model.**
+> **What matters most is that the dialectics of opposites remain coherent in the model.**
 
-Les dialèctiques **són** l'arquitectura load-bearing del cub. Si fallen, el cub esdevé taxonomia plana sense valor estructural. Verificar exhaustivament:
+The dialectics **are** the load-bearing architecture of the cube. If they fail, the cube becomes a flat taxonomy without structural value. Verify exhaustively:
 
-| Tipus | Quantes | Dialèctiques |
-|---|---|---|
-| Cardinals | 3 | TEO↔PRA · OBJ↔SUB · NOU↔FEN |
-| Cara-vèrtex | 2 | MTP↔CIE · MTF↔ART |
-| Disciplinàries | 4 | LOG↔MIS · TEC↔MIT · EST↔ETI · PSI↔IDE |
-| Mediadores | 4 | ANA↔SIN · AMO↔EXP · STM↔SGE · SGT↔STT |
+| Type | Count | Dialectics |
+|------|-------|------------|
+| Cardinal | 3 | TEO ↔ PRA · OBJ ↔ SUB · NOU ↔ FEN |
+| Face-vertex | 2 | MTP ↔ CIE · MTF ↔ ART |
+| Disciplinary | 4 | LOG ↔ MIS · TEC ↔ MIT · EST ↔ ETI · PSI ↔ IDE |
+| Mediator | 4 | ANA ↔ SIN · AMO ↔ EXP · STM ↔ SGE · SGT ↔ STT |
 | **Total** | **13** | |
 
-Cada parella d'oposats ha de **poder verbalitzar-se com a tensió productiva** al domini específic
-(ex.: "Geometria ↔ Probabilitat" = determinista ↔ aleatori). Si la tensió no es deixa
-articular, **la dialèctica està trencada** i el frame requereix replantejament a aquesta cel·la.
+Each pair of opposites must **be verbalisable as a productive tension** in the specific domain (e.g.: "Geometry ↔ Probability" = deterministic ↔ random). If the tension cannot be articulated, **the dialectic is broken** and the frame requires reformulation at that cell.
 
-**No es pot omplir cap pol sense haver verificat la seva contrapart dialèctica.** Si una cel·la
-queda perfecta però el seu oposat dialèctic s'hi violenta, l'arquitectura s'ha trencat:
-**és preferible buidar la cel·la perfecta que mantenir una dialèctica incoherent**.
+**No pole can be filled without verifying its dialectical counterpart.** If a cell is perfect but its dialectical opposite is forced, the architecture has broken: **prefer to empty the perfect cell rather than maintain an incoherent dialectic**.
 
 ---
 
-## A. Principis ontològics
+## A. Ontological principles
 
-1. **Doble ancoratge canònic obligatori** (Protocol N2 base). Cap cel·la sense Fitxa A (Xirinacs 1997) + Fitxa B (Meta-Globàlium parent=28). Si A i B no convergeixen → aturar i resoldre la tensió canònica abans de mappejar.
+1. **Mandatory double anchoring** (base Protocol N2). No cell without Card A (Xirinacs 1997 source) + Card B (Meta-Globàlium parent=28 structural mapping). If A and B do not converge → stop and resolve the canonical tension before mapping.
 
-2. **Caveat ontològic explícit al MON-anchor**. Una projecció del domini sobre el cub *no és* la classificació natural del domini (no és MSC2020, no és Bloom, no és Linnaeus). Documentar-ho perquè els especialistes puguin llegir-ho com a *lent filosòfica*, no com a taxonomia normativa.
+2. **Explicit ontological caveat at the MON-anchor**. A projection of a domain onto the cube *is not* the natural classification of that domain (it is not MSC2020, not Bloom's taxonomy, not Linnaean). Document this so specialists read it as a *philosophical lens*, not a normative taxonomy.
 
-3. **Acceptar transversalitat** com a propietat real del coneixement, no com a defecte del frame. Llistar al MON-anchor les disciplines/conceptes que viuen com a *intersecció* entre múltiples cel·les.
+3. **Accept transversality** as a real property of knowledge, not a defect of the frame. List at the MON-anchor the disciplines/concepts that live as *intersections* of multiple cells.
 
-## B. Regles estructurals
+## B. Structural rules
 
-4. **Cardinals = pilars foundational del domini**, no etiquetes filosòfiques sense correlat. Triar disciplines umbrella reals que un especialista reconegui com a "pilar". Mai conceptes secundaris ni noms canònics Xirinacs ("Globalitat" en lloc d'una disciplina).
+4. **Cardinals = foundational pillars of the domain**, not philosophical labels without correlate. Choose real umbrella disciplines that a specialist would recognise as a "pillar". Never use secondary concepts or canonical Xirinacs labels ("Globality" instead of a discipline).
 
-5. **No usar noms d'operacions NEU per pols PLA/MON**. Les PLA són *potencialitats plasmàtiques* (matèria pre-formal); les MON són *manifestacions desplegades*. Si veus "Distinció" a un PLA → error estructural (Distinció és NEU d'OBJ).
+5. **Do not use NEU operation names for PLA/MON poles**. PLA poles are *plasmatic potentialities* (pre-formal matter); MON poles are *unfolded manifestations*. If you see "Distinction" at a PLA → structural error (Distinction is the NEU of OBJ).
 
-6. **Coherència de família dins els trios**. PLA→NEU→MON han de pertànyer a la mateixa família del domini. Si NEU=Àlgebra abstracta i PLA=Connexitat (topologia) → tensió que cal resoldre. La narrativa del trio ha de ser plausible i unificada.
+6. **Family coherence within trios**. PLA → NEU → MON must belong to the same family of the domain. If NEU = abstract algebra and PLA = connectedness (topology) → tension that must be resolved. The trio's narrative must be plausible and unified.
 
-7. **Disciplines reals, no conceptes forçats**. "Variables", "Conjectures", "Casos especials", "Punts crítics" són *conceptes*, no disciplines. Substituir per fragments-disciplinaris reals ("Sistemes paramètrics", "Teoria de Morse", "Models no estàndard") sempre que sigui possible.
+7. **Real disciplines, not forced concepts**. "Variables", "Conjectures", "Special cases", "Critical points" are *concepts*, not disciplines. Replace with real discipline-fragments ("Parametric systems", "Morse theory", "Non-standard models") wherever possible.
 
-8. **Sense narrative mitològica imposada**. Les etiquetes Xirinacs (Tiamat, Magma, Embriaguesa, Akaixa) carreguen ressonància mitològica. NO usar-la com a *raonament* a la `description` del domini. Justificar només per Fitxa B (operació canònica) + disciplina pura del domini. Mantenir la mitologia com a *ancoratge històric*, no com a explicació activa.
+8. **No imposed mythological narrative**. Xirinacs labels (Tiamat, Magma, Inebriation, Akasha) carry mythological resonance. Do NOT use it as *reasoning* in the domain `description`. Justify only by Card B (canonical operation) + pure domain discipline. Keep mythology as *historical anchoring*, not as active explanation.
 
-## C. Dialèctiques load-bearing (vegeu Principi 2)
+## C. Load-bearing dialectics (see Principle 2)
 
-9. **Verificar les 13 dialèctiques** abans de tancar el frame. Marcar les febles explícitament; les fortes són les que validen el frame.
+9. **Verify the 13 dialectics** before closing the frame. Mark weak ones explicitly; strong ones are what validate the frame.
 
-10. **Trios PLA-NEU-MON narratius**. Cada trio ha de poder llegir-se com una *història de potencial→disciplina→manifestació* coherent. Si la història no es tanca, falta alguna cosa.
+10. **PLA-NEU-MON narrative trios**. Each trio must read as a coherent *potential → discipline → manifestation* story. If the story does not close, something is missing.
 
-## D. Pedagogia multiescala (vegeu Principi 1)
+## D. Multi-scale pedagogy (see Principle 1)
 
-11. **Tres zooms amb propòsits diferents**:
-    - **8 punts** (cardinals + 2 anchors): pedagogia bàsica, divulgació, *"què és aquest domini?"*
-    - **26 punts** (NEU complet): estructura, ponts entre cardinals, dialèctiques, *"com es connecten les grans àrees?"*
-    - **80 punts** (PLA+NEU+MON): reflexió ontològica especialitzada, *"com s'articula cada trio?"*
-    
-    El frame ha de funcionar bé a cadascun dels 3 nivells, no només a un.
+11. **Three zooms with different purposes**:
+    - **8 points** (cardinals + 2 anchors): basic pedagogy, dissemination, *"what is this domain?"*
+    - **26 points** (full NEU): structure, bridges between cardinals, dialectics, *"how do the major areas connect?"*
+    - **80 points** (PLA + NEU + MON): specialised ontological reflection, *"how is each trio articulated?"*
 
-12. **Disciplinaris com a ponts**, no com a llista. Cada disciplinari connecta 2 cardinals (a la geometria del cub) i s'ha de poder verbalitzar com a *pont entre X i Y*. Documentar-ho explícitament al MON-anchor.
+    The frame must work well at each of the 3 levels, not only one.
 
-13. **Mediadors com a operadors metòdics**. Els 8 mediadors articulen 3 cicles (Mètode ANA→SIN→AMO→EXP, Revelació, Interpretació) — no són una "taxonomia plana", són *com s'opera dins el domini*.
+12. **Disciplinaries as bridges**, not as a list. Each disciplinary connects 2 cardinals (in the cube's geometry) and must be verbalisable as *bridge between X and Y*. Document this explicitly at the MON-anchor.
 
-## E. Procés operacional
+13. **Mediators as methodic operators**. The 8 mediators articulate 3 cycles (Method ANA→SIN→AMO→EXP, Revelation, Interpretation) — not a "flat taxonomy", but *how one operates within the domain*.
 
-14. **Backup abans de canvis massius**. Sempre `CREATE TABLE backup_X AS SELECT *`. Múltiples backups per estats intermedis no està malament — són barats.
+## E. Operational process
 
-15. **Fitxa A + Fitxa B + Coherència A↔B + Afins** a cada `description`. Format Fase 6 del Protocol N2. La traçabilitat és part de la metadata, no opcional.
+14. **Backup before massive changes**. Always `CREATE TABLE backup_X AS SELECT *`. Multiple backups for intermediate states is not wrong — they are cheap.
 
-16. **Verificar absència de duplicats** després de cada batch UPDATE. Query: `SELECT nom, COUNT(*) c FROM ... GROUP BY nom HAVING c>1`.
+15. **Card A + Card B + A↔B coherence + Affines** in each `description`. Format from Phase 6 of Protocol N2. Traceability is part of metadata, not optional.
 
-17. **Validar 0 cel·les `xxxx`** al final. Si queda alguna, marcar-la pendent explícitament al MON-anchor.
+16. **Verify absence of duplicates** after each batch UPDATE. Query: `SELECT name, COUNT(*) c FROM … GROUP BY name HAVING c > 1`.
 
-18. **Si una proposta no és defensable a un especialista del domini, rebutjar-la**. La intuïció del LLM no és prou. Cal que un mathematician/físic/humanista accepti el mapping sense tossir.
+17. **Validate 0 `xxxx` cells** at the end. If any remain, mark them explicitly pending at the MON-anchor.
 
-## F. Documentació al MON-anchor
+18. **If a proposal is not defensible to a domain specialist, reject it**. LLM intuition is not enough. A mathematician / physicist / humanist must accept the mapping without flinching.
 
-19. **Frame-card** complet al MON-anchor amb:
-    - Cardinalització explícita (els 6 + caveat ontològic)
-    - 12 ponts entre cardinals (taula)
-    - 4 dialèctiques disciplinàries (taula)
-    - 4-5 narratives pedagògiques canòniques
-    - Disciplines transversals llistades (no localitzables)
-    - Estat de revisió + backups disponibles
+## F. Documentation at the MON-anchor
 
-## G. Metadata jeràrquica
+19. **Complete frame-card** at the MON-anchor with:
+    - Explicit cardinalization (the 6 + ontological caveat)
+    - 12 bridges between cardinals (table)
+    - 4 disciplinary dialectics (table)
+    - 4-5 canonical pedagogical narratives
+    - Transversal (cross-cutting) disciplines listed (non-localizable)
+    - Review status + available backups
 
-20. **Camp `rang` per nivells d'abstracció**. Permet filtrar la visualització segons audiència i alternar entre múltiples "vistes" del mateix àmbit (vista pedagògica vs vista de recerca). Schema: `kms_kb_metacategories.rang VARCHAR(50)`.
+## G. Hierarchical metadata
+
+20. **`rang` field for abstraction levels**. Allows filtering the visualization by audience and switching between multiple "views" of the same domain (pedagogical vs research). Schema: `kms_kb_metacategories.rang VARCHAR(50)`.
 
 ---
 
-## Checklist final abans de tancar un frame
+## Final checklist before closing a frame
 
 ```
-[ ] Principi 1: el frame es llegeix bé com a mapa connectat de grans àrees
-[ ] Principi 2: les 13 dialèctiques d'oposats són coherents
-[ ] 0 cel·les `xxxx`; tots els noms són disciplines o subdisciplines reals
-[ ] 0 duplicats interns
-[ ] Cardinals = pilars foundational reconeguts pel domini
-[ ] PLA-poles són potencialitats (no operacions NEU)
-[ ] Famílies coherents dins cada trio (P→N→M de la mateixa família)
-[ ] 13 dialèctiques verificades; les dèbils marcades explícitament
-[ ] Sense narrativa mitològica imposada a les descriptions
-[ ] MON-anchor amb caveat + zooms + ponts + dialèctiques + transversals
-[ ] Camp `rang` poblat per a filtrat multiescala (si aplicable)
-[ ] Backups creats abans dels canvis massius
-[ ] Fitxa A + Fitxa B + coherència a cada description (Fase 6)
-[ ] Validació externa amb especialista del domini (recomanat)
+[ ] Principle 1: the frame reads well as a connected map of major areas
+[ ] Principle 2: the 13 opposite dialectics are coherent
+[ ] 0 'xxxx' cells; all names are real disciplines or sub-disciplines
+[ ] 0 internal duplicates
+[ ] Cardinals = foundational pillars recognized by the domain
+[ ] PLA poles are potentialities (not NEU operations)
+[ ] Coherent families within each trio (P→N→M from the same family)
+[ ] 13 dialectics verified; weak ones marked explicitly
+[ ] No imposed mythological narrative in descriptions
+[ ] MON-anchor with caveat + zooms + bridges + dialectics + transversals
+[ ] `rang` field populated for multi-scale filtering (if applicable)
+[ ] Backups created before massive changes
+[ ] Card A + Card B + coherence in each description (Phase 6)
+[ ] External validation with domain specialist (recommended)
 ```
 
 ---
 
-## Aplicació immediata
+## Immediate application
 
-A qualsevol frame nou (Comunitat humana parent=44, futur Subjecte, futura Salut, etc.) o a la
-re-validació de frames existents (Disciplines parent=12 marcat provisional, Branques de la
-Filosofia parent=39 esborrat), aplicar aquest checklist en seqüència.
+To any new frame (e.g. *Human community*, future *Subject*, future *Health*, etc.) or re-validation of existing frames, apply this checklist in sequence.
 
-Si trobeu tensions canòniques entre Fitxa A i Fitxa B durant la fase d'ancoratge, documentar-les
-a un *annex de tensions canòniques* dins el repo, no forçar el mapping.
+If canonical tensions are found between Card A and Card B during the anchoring phase, document them in an *annex of canonical tensions* within the repository — do not force the mapping.
 
 ---
 
-## Història
+## History
 
-- **2026-05-03**: protocol creat a partir dels aprenentatges del frame Matemàtiques. Inclou:
-  - Pass 1 + Pass 2 + Pass 3 (correccions estructurals i omplir cel·les)
-  - Opció C (cardinals com a branques naturals)
-  - 5 Milloras (coherència família, dialèctica, concept→disciplina, rang, narrativa)
-  - 3 fixes addicionals de coherència trio (POL, DET, CAV)
+- **2026-05-03**: protocol created from learnings of the Mathematics frame. Includes:
+  - Pass 1 + Pass 2 + Pass 3 (structural corrections and cell-filling)
+  - Option C (cardinals as natural branches)
+  - 5 Improvements (family coherence, dialectic, concept→discipline, rang, narrative)
+  - 3 additional trio coherence fixes (POL, DET, CAV)
 
-Backups del frame Matemàtiques (parent=21):
-- `kms_kb_metacategories_backup_p21` (post Pass 1-3)
-- `kms_kb_metacategories_backup_p21_optC` (pre-Opció C)
-- `kms_kb_metacategories_backup_p21_milloras` (pre-Milloras 1-5)
+## See also
+
+- [`metode-global.md`](metode-global.md) — the Method cycle that frames operationalize
+- [`be-criterion.md`](be-criterion.md) — the structural verifier criterion
+- [`../ontology/principles-and-operations.md`](../ontology/principles-and-operations.md) — the 13 dialectics in canonical form
+- [`../ontology/fractal-N1-N2.md`](../ontology/fractal-N1-N2.md) — the N1 vs N2 distinction
