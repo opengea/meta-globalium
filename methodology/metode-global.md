@@ -1,4 +1,4 @@
-# The Global Method (Mètode Global)
+# The Global Method
 
 > ANA → SIN → AMO → EXP
 
