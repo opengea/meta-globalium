@@ -1,0 +1,63 @@
+cff-version: 1.2.0
+title: "Meta-Globàlium: a geometry of thought for structural verification of AI judgment"
+message: "If you use this ontological model or its methodology, please cite it as below."
+type: dataset
+authors:
+  - family-names: Berenguer Rodrigo
+    given-names: Jordi
+    affiliation: Opengea SCCL
+    email: jordi@opengea.org
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: Rubinat-Ripoll
+    given-names: Laura
+    affiliation: Opengea SCCL
+  - family-names: Monras Vidiella
+    given-names: Frederic
+    affiliation: Opengea SCCL · ISOC-CAT
+repository-code: "https://github.com/opengea/meta-globalium"
+url: "https://arkadium.ai"
+version: "1.0.0"
+date-released: "2026-05-04"
+license: CC-BY-SA-4.0
+keywords:
+  - ontology
+  - knowledge representation
+  - neuro-symbolic AI
+  - AI safety
+  - dialectical reasoning
+  - hyperdimensional model
+  - meta-globalium
+  - xirinacs
+  - llull
+  - artificial wisdom
+  - philosophy of AI
+abstract: >
+  The Meta-Globàlium is a hyperdimensional ontological model that organizes
+  the totality of human reality along four reflective dialectical axes
+  (subject/object, theory/practice, phenomenon/noumenon, plasma/world),
+  projected from a 4D hypersphere onto 3D space, with a fifth radial axis
+  of tempeternitat (time + eternity). It proposes a structural verifier
+  for AI judgment in domains without ground truth, where the Good is
+  defined geometrically as the property of not collapsing any dimension.
+  The model consolidates a European philosophical lineage from Llull's
+  Ars Magna to Xirinacs's spherical topology, and is intended as an
+  open commons for adoption across AI research, philosophy, knowledge
+  representation, and education.
+references:
+  - type: thesis
+    authors:
+      - family-names: Xirinacs
+        given-names: Lluís Maria
+    title: "A global model of reality"
+    year: 1997
+    institution:
+      name: Universitat de Barcelona
+    url: "https://www.tesisenred.net/handle/10803/300309"
+  - type: book
+    authors:
+      - family-names: Berenguer
+        given-names: Jordi
+    title: "Saviesa Artificial"
+    year: 2023
+    publisher:
+      name: "Opengea SCCL"

@@ -1,0 +1,14 @@
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+Code, scripts, parsers and tooling included in this repository (under
+directories such as `examples/`, `scripts/`, or marked .py / .js / .sh /
+.ts files) are licensed under the Apache License 2.0.
+
+The full text of the Apache License 2.0 is available at:
+https://www.apache.org/licenses/LICENSE-2.0.txt
+
+The textual and ontological content of this repository (markdown documents,
+JSON/CSV/JSON-LD ontology data, methodology specifications) is licensed
+separately under CC BY-SA 4.0 — see LICENSE.

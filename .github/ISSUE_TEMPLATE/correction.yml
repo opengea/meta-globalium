@@ -1,0 +1,42 @@
+name: Correction or revision
+description: Propose a correction (typo, factual error, dialectical pairing improvement)
+title: "[Correction] "
+labels: ["correction"]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind of correction
+      options:
+        - Typo / formatting
+        - Factual error in lineage / sources
+        - Category description clarification
+        - Dialectical pairing revision (axis poles)
+        - Translation fix
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      placeholder: "e.g. ontology/4-axes.md line 23, or categories.json id=10"
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Current content
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Proposed correction
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale
+      description: Source, reasoning, or example that justifies the correction

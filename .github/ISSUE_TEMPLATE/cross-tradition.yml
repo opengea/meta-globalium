@@ -1,0 +1,43 @@
+name: Cross-tradition mapping
+description: Map the Meta-Globàlium structure to (or critique it from) a non-European tradition
+title: "[Cross-tradition] "
+labels: ["cross-tradition", "philosophy"]
+body:
+  - type: dropdown
+    id: tradition
+    attributes:
+      label: Tradition
+      options:
+        - Buddhist (mādhyamika / Yogācāra / Zen / Theravāda / etc.)
+        - Hermetic / Sufi
+        - Confucian
+        - Indigenous (specify)
+        - African (Ubuntu / hermeneutic)
+        - Hindu / Vedantic
+        - Other (specify in description)
+    validations:
+      required: true
+  - type: textarea
+    id: mapping
+    attributes:
+      label: Proposed mapping
+      description: |
+        How does the tradition's primary structure relate to the four N1 axes?
+        What dialectical pairings or geometric forms are available?
+    validations:
+      required: true
+  - type: textarea
+    id: critique
+    attributes:
+      label: Critique (if any)
+      description: |
+        Where does the Meta-Globàlium fail or distort the tradition's content?
+        Where does it succeed?
+        Critique is welcome; the model claims revisability.
+  - type: textarea
+    id: sources
+    attributes:
+      label: Primary sources
+      description: Texts, lineages, scholars referenced
+    validations:
+      required: true

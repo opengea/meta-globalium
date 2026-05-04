@@ -1,0 +1,1478 @@
+{
+  "model": "Meta-Globàlium",
+  "version": "1.0.0",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "source_repository": "https://github.com/opengea/meta-globalium",
+  "description": "Hyperdimensional ontological model: 4 reflective dialectical axes projected from a 4D hypersphere onto 3D space, organising the totality of human reality. The radial 5th axis (PLA-MON / tempeternitat) generates 3 layers (Plasmàtica / Neutral / Mundana) for each cardinal pole.",
+  "axes": {
+    "D1": {
+      "negative_pole": "OBJ",
+      "positive_pole": "SUB",
+      "name_en": "objective ↔ subjective",
+      "name_ca": "objectiu ↔ subjectiu",
+      "kind": "cartesian"
+    },
+    "D2": {
+      "negative_pole": "TEO",
+      "positive_pole": "PRA",
+      "name_en": "theory ↔ practice",
+      "name_ca": "teoria ↔ pràctica",
+      "kind": "cartesian"
+    },
+    "D3": {
+      "negative_pole": "NOU",
+      "positive_pole": "FEN",
+      "name_en": "noumenon ↔ phenomenon",
+      "name_ca": "noümen ↔ fenomen",
+      "kind": "cartesian"
+    },
+    "D4": {
+      "negative_pole": "PLA",
+      "positive_pole": "MON",
+      "name_en": "plasma ↔ world",
+      "name_ca": "plasma ↔ món",
+      "kind": "radial",
+      "note": "tempeternitat — meta-dimensional axis (time + eternity)"
+    }
+  },
+  "category_types": {
+    "Plasmàtica": "Inner sphere, radius 0..50 — atemporal/foundational expressions",
+    "Neutral": "Mediator sphere, radius 60..80 — axial neutralizers between plasma and world",
+    "Mundana": "Outer sphere, radius 100..155 (cardinal vertices at 233) — temporal/phenomenal expressions"
+  },
+  "count_total": 89,
+  "count_by_type": {
+    "Mundana": 36,
+    "Neutral": 26,
+    "Plasmàtica": 27
+  },
+  "generated_at": "2026-05-04T09:08:20Z",
+  "note_polar_vertices": "Some entries with single-letter labels (k/p/e/r) at radius 233 are polar construction vertices used by the 3D projection; they are scaffolding for the geometry, not canonical conceptual categories. Filter on \"label NOT LIKE '%[1-4]'\" or \"type=Mundana AND ABS(coord)=233\" to exclude them.",
+  "categories": [
+    {
+      "id": 86,
+      "label": "MONk1",
+      "name_ca": "k",
+      "name_en": "k",
+      "description_ca": "cernent teo",
+      "description_en": "tension",
+      "type": "Mundana",
+      "axis": "k",
+      "generation": 0,
+      "coords_3d": {
+        "x": 0,
+        "y": -233,
+        "z": 0
+      }
+    },
+    {
+      "id": 87,
+      "label": "MONk2",
+      "name_ca": "k",
+      "name_en": "k",
+      "description_ca": "cernent pra",
+      "description_en": "tension",
+      "type": "Mundana",
+      "axis": "k",
+      "generation": 0,
+      "coords_3d": {
+        "x": 0,
+        "y": 233,
+        "z": 0
+      }
+    },
+    {
+      "id": 84,
+      "label": "MONp1",
+      "name_ca": "p",
+      "name_en": "p",
+      "description_ca": "parença nou",
+      "description_en": "tension",
+      "type": "Mundana",
+      "axis": "p",
+      "generation": 0,
+      "coords_3d": {
+        "x": 0,
+        "y": 0,
+        "z": -233
+      }
+    },
+    {
+      "id": 85,
+      "label": "MONp2",
+      "name_ca": "p",
+      "name_en": "p",
+      "description_ca": "parença fen",
+      "description_en": "tension",
+      "type": "Mundana",
+      "axis": "p",
+      "generation": 0,
+      "coords_3d": {
+        "x": 0,
+        "y": 0,
+        "z": 233
+      }
+    },
+    {
+      "id": 88,
+      "label": "MONpt1",
+      "name_ca": "pt1",
+      "name_en": "pt1",
+      "description_ca": "parença nou",
+      "description_en": "",
+      "type": "Mundana",
+      "axis": "pt1",
+      "generation": 0,
+      "coords_3d": {
+        "x": 165,
+        "y": 0,
+        "z": -165
+      }
+    },
+    {
+      "id": 90,
+      "label": "MONpt2",
+      "name_ca": "pt2",
+      "name_en": "pt2",
+      "description_ca": "parença nou",
+      "description_en": "",
+      "type": "Mundana",
+      "axis": "pt2",
+      "generation": 0,
+      "coords_3d": {
+        "x": -165,
+        "y": 0,
+        "z": 165
+      }
+    },
+    {
+      "id": 91,
+      "label": "MONpt3",
+      "name_ca": "pt3",
+      "name_en": "pt1",
+      "description_ca": "parença nou",
+      "description_en": "",
+      "type": "Mundana",
+      "axis": "pt3",
+      "generation": 0,
+      "coords_3d": {
+        "x": -165,
+        "y": 0,
+        "z": -165
+      }
+    },
+    {
+      "id": 92,
+      "label": "MONpt4",
+      "name_ca": "pt4",
+      "name_en": "pt4",
+      "description_ca": "parença nou",
+      "description_en": "",
+      "type": "Mundana",
+      "axis": "pt4",
+      "generation": 0,
+      "coords_3d": {
+        "x": 165,
+        "y": 0,
+        "z": 165
+      }
+    },
+    {
+      "id": 82,
+      "label": "MONt1",
+      "name_ca": "t",
+      "name_en": "t",
+      "description_ca": "tensió",
+      "description_en": "tension",
+      "type": "Mundana",
+      "axis": "t",
+      "generation": 0,
+      "coords_3d": {
+        "x": -233,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "id": 83,
+      "label": "MONt2",
+      "name_ca": "t",
+      "name_en": "t",
+      "description_ca": "tensió obj",
+      "description_en": "tension",
+      "type": "Mundana",
+      "axis": "t",
+      "generation": 0,
+      "coords_3d": {
+        "x": 233,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "id": 68,
+      "label": "AFI",
+      "name_ca": "Afinitat",
+      "name_en": "Affinity",
+      "description_ca": "Composició. Extensió externa. Atracció mecànica. Parentiu. Fidelitat. Relació estable. Enllaç. València. Unió. Mescla. Nexe. Engalzament. Lligam. Juntura. Articulació. Armadura. Armari. Arma. Coordinació. Morfologia. Subordinació. Aparellament. Ajustament. Afinació. Conseqüència.",
+      "description_en": "Composition. External extension. Mechanical attraction. Kinship. Fidelity. Stable relationship. Link. Valence. Union. Mixture. Nexus. Engagement. Bond. Articulation. Framework. Closet. Weapon. Coordination. Morphology. Subordination. Pairing. Adjustment. Tuning. Consequence.",
+      "type": "Mundana",
+      "axis": "t",
+      "generation": 2,
+      "coords_3d": {
+        "x": 155,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "id": 70,
+      "label": "AGU",
+      "name_ca": "Agudesa",
+      "name_en": "Acuity",
+      "description_ca": "“Actitud i tractament adequats dels estats d’ànim”. “Perspicàcia dels sentits”. “Acuitat de la ment”. “Penetració intel·lectual”. Perspicàcia. Vivacitat. Alerta. Subtilesa. Finor. Talent. Acuitat. Clarividència. Personalitat. Minuciositat. Perícia. Professionalitat. Penetració. Destresa.",
+      "description_en": "Attitude and adequate treatment of mood states. Sharpness of the senses. Acuity of the mind. Intellectual penetration. Sharpness. Vivacity. Alertness. Subtlety. Finesse. Talent. Acuity. Clairvoyance. Personality. Thoroughness. Expertise. Professionalism. Penetration. Skill.",
+      "type": "Mundana",
+      "axis": "b",
+      "generation": 2,
+      "coords_3d": {
+        "x": -110,
+        "y": 0,
+        "z": 110
+      }
+    },
+    {
+      "id": 78,
+      "label": "ARQ",
+      "name_ca": "Arquetip",
+      "name_en": "Archetype",
+      "description_ca": "“Sistemes de categories; sistemes de civilització”. “Models de la realitat”. “Esquemes ancestrals”. Sistemes. Teories.Cosmologies. Regles. Constitucions. Creu. Triangle. Trimurti. Cercle, circularitat. Mandala (hinduisme). Esfera. Hiperesfera. I-Txing. Carta astral. Càbala. Organon (Arist.). Ars (R. Llull). Mathesis (Descartes, Leibniz). Novum organon (F. Bacon). Figures del Tarot. Arquitectònica. Camp morfogenètic (Sheldrake). Ordre explicat. (D. Bohm). Ideica mundana. Exemple. Model. Pattern. Cromosomes. Genotipus. Paradigma. Globàlium.",
+      "description_en": "Systems of categories, civilization systems. Models of reality. Ancestral schemes. Systems. Theories. Cosmologies. Rules. Constitutions. Cross. Triangle. Trimurti. Circle, circularity. Mandala (Hinduism). Sphere. Hypersphere. I-Ching. Horoscope. Kabbalah. Organon (Aristotle). Ars (R. Llull). Mathesis (Descartes, Leibniz). Novum organon (F. Bacon). Tarot figures. Architectonics. Morphogenetic field (Sheldrake). Explained order (D. Bohm). Mundane idea. Example. Model. Pattern. Chromosomes. Genotype. Paradigm. Globarium.",
+      "type": "Mundana",
+      "axis": "j",
+      "generation": 2,
+      "coords_3d": {
+        "x": 85,
+        "y": 95,
+        "z": -85
+      }
+    },
+    {
+      "id": 61,
+      "label": "AST",
+      "name_ca": "Astúcia",
+      "name_en": "Cunning",
+      "description_ca": "ASTÚCIA. “Veure o fer veure allò que convé”. “Habilitat i enginy per enganyar o evitar l’engany”: Orientació Instigació (EST) +AST: Sagacitat. Enginy. Prudència. Estratègia. Tàctica, Enginy. Picardia. Diplomàcia. Arts. “Mà esquerra”. Capacitat de maniobra. -AST: Engany. Autoengany. Mentida. Manipulació. Neutral: Ficció. Artifici. assegurar inquietuds i inquietar seguretats",
+      "description_en": "Seeing or making see what suits. Skill and wit to deceive or avoid deception. Prudence. Strategy. Tactic. Stratagem. Sagacity. Wit. Arts. Left-handedness. Diplomacy. Roguery. Maneuvering capacity. Fiction. Lie. Artifice.",
+      "type": "Mundana",
+      "axis": "g",
+      "generation": 2,
+      "coords_3d": {
+        "x": -120,
+        "y": 90,
+        "z": 0
+      }
+    },
+    {
+      "id": 75,
+      "label": "BEL",
+      "name_ca": "Bellesa",
+      "name_en": "Beauty",
+      "description_ca": "“Cosmètica o disseny afegits al ser per la inventiva humana, en vista a agradar”. “Desenvolupament de l’aspecte esclatant en una persona o cosa”. Ornat. Elegància. Estil. Distinció estètica. Proporció Ornament. Presumpció. Decoració.",
+      "description_en": "Cosmetics or design added to being by human inventiveness, to please. Development of the striking aspect in a person or thing. Ornament. Elegance. Style. Aesthetic distinction. Proportion. Ornament. Presumption. Decoration.",
+      "type": "Mundana",
+      "axis": "n",
+      "generation": 2,
+      "coords_3d": {
+        "x": -85,
+        "y": 95,
+        "z": 85
+      }
+    },
+    {
+      "id": 66,
+      "label": "CMN",
+      "name_ca": "Universalisme",
+      "name_en": "Communion",
+      "description_ca": "La comunicació perfecta i directa entre esperits. Participació en allò que és comú. Participació mútua en els béns espirituals i materials d’un conjunt. Obertura. Lliurament, donació de si. Magnanimitat. Explosió. Compartir. Donar/rebre. Acolliment. Fraternitat. Companyonia. Amistat.Amor. No tenir secrets.",
+      "description_en": "Perfect and direct communication between spirits. Participation in what is common. Mutual participation in the spiritual and material goods of a set. Openness. Surrender, self-giving. Magnanimity. Explosion. Sharing. Giving/receiving. Reception. Fraternity. Companionship. Friendship. Love. No secrets.",
+      "type": "Mundana",
+      "axis": "p",
+      "generation": 2,
+      "coords_3d": {
+        "x": 0,
+        "y": 0,
+        "z": -155
+      }
+    },
+    {
+      "id": 62,
+      "label": "CNV",
+      "name_ca": "Intel·lectualisme",
+      "name_en": "Convention",
+      "description_ca": "“El pacte d’acceptació de la definició dels objectes”. “Conveni o reunió entre persones amb un interès comú”. Conveniència. Capteniment. Normalitat. Sobrietat. Do ut des. Concordat. Pacte. Conveni. Sindicació. Congrés. Acord. Tracte. Concert. Convenciment.Persuasió. Transacció. Conjunció. Sintagma. Negociació. Compromís. Aliança. “Interessos creats”. Convencionalisme.",
+      "description_en": "The pact of acceptance of the definition of objects. Agreement or meeting between people with a common interest. Convenience. Demeanor. Normality. Sobriety. Do ut des. Concordat. Pact. Agreement. Syndication. Congress. Agreement. Deal. Concert. Conviction. Persuasion. Transaction. Conjunction. Syntagma. Negotiation. Commitment. Alliance. Created interests. Conventionalism.",
+      "type": "Mundana",
+      "axis": "s",
+      "generation": 2,
+      "coords_3d": {
+        "x": 120,
+        "y": 90,
+        "z": 0
+      }
+    },
+    {
+      "id": 76,
+      "label": "COM",
+      "name_ca": "Comunitat",
+      "name_en": "Community",
+      "description_ca": "“L’experiència íntima, flexible i conjuntada de la realitat quotidiana”. “Conjunt de persones que viuen units voluntàriament”. Convivència. Col·lectivitat. Col·legi. Societat. Poble. Informació, opinió, decisió, voluntat, acció públiques. Avinença. Consens. Ajuntament. Germania. Confraria.Fraternitat. Psíquica mundana.",
+      "description_en": "The intimate, flexible, and coordinated experience of everyday reality. Group of people living united voluntarily. Coexistence. Collectivity. College. Society. People. Public information, opinion, decision, will, action. Harmony. Consensus. Municipality. Germania. Brotherhood. Fraternity. Mundane psyche.",
+      "type": "Mundana",
+      "axis": "j",
+      "generation": 2,
+      "coords_3d": {
+        "x": -85,
+        "y": -95,
+        "z": 85
+      }
+    },
+    {
+      "id": 63,
+      "label": "COS",
+      "name_ca": "Cosmos",
+      "name_en": "Cosmos",
+      "description_ca": "Ordre bell i harmònic (cosmètic). Univers concret desplegat del tot. El conjunt de totes les coses existents: Macrocosmos. La creació.",
+      "description_en": "Beautiful and harmonious order (cosmetic). Completely unfolded concrete universe. The set of all existing things: Macrocosm. Creation.",
+      "type": "Mundana",
+      "axis": "k",
+      "generation": 2,
+      "coords_3d": {
+        "x": 0,
+        "y": -155,
+        "z": 0
+      }
+    },
+    {
+      "id": 64,
+      "label": "COV",
+      "name_ca": "Constructivisme",
+      "name_en": "Cosmovision",
+      "description_ca": "La visió global abstracta de la realitat desplegada en l’univers. Món teòric. Visió del món. Model global. Patró general. Paradigma universal. Concepció del món.",
+      "description_en": "The global abstract view of reality unfolded in the universe. Theoretical world. Worldview. Global model. General pattern. Universal paradigm. World conception.",
+      "type": "Mundana",
+      "axis": "k",
+      "generation": 2,
+      "coords_3d": {
+        "x": 0,
+        "y": 155,
+        "z": 0
+      }
+    },
+    {
+      "id": 73,
+      "label": "DET",
+      "name_ca": "Determinació",
+      "name_en": "Determination",
+      "description_ca": "“Precisió científica macrofísica”. “Fet de fixar els límits d’una cosa o ordre nítidament”. Claredat. Distinció lògica. Certesa. Tautologia. Principis d’identitat, de no contradicció i de terç exclòs. Ciències exactes. Seguretat. Computabilitat. Numerabilitat. Ordre. Automació. Implicació. Previsibilitat. Predicció. Predeterminació. Epifenomen. Autocontrol. Reduccionisme. Cibernètica. Cientifisme. Condicionat. Cognoscible. Límit. Lògica mundana. Lògica mecanicista.",
+      "description_en": "Scientific macrophysical precision. Fixing the limits of a thing or clear order. Clarity. Logical distinction. Certainty. Tautology. Principles of identity, non-contradiction, and excluded third. Exact sciences. Security. Computability. Numerability. Order. Automation. Implication. Predictability. Prediction. Predetermination. Epiphenomenon. Self-control. Reductionism. Cybernetics. Scientism. Conditioned. Knowable. Limit. Mundane logic.",
+      "type": "Mundana",
+      "axis": "m",
+      "generation": 2,
+      "coords_3d": {
+        "x": 85,
+        "y": 95,
+        "z": 85
+      }
+    },
+    {
+      "id": 80,
+      "label": "DIV",
+      "name_ca": "Divinitat",
+      "name_en": "Divinity",
+      "description_ca": "Expressions civilitzades de la transcendència”. “Expressió en imatges de les experiències místiques”. Mites. Mites dels diferents pobles i civilitzacions. Teürgia. Demiürgia. Santedat. Numen. Superhome. Vida sobrenatural. Gràcia de Déu. Home de déu. Teogonia. Teofania. Revelació. Carisma. Divisme. Heroi. Deisme. Cosmovisió espiritual. Mítica mundana.",
+      "description_en": "Civilized expressions of transcendence. Expression in images of mystical experiences. Myths. Myths of different peoples and civilizations. Theurgy. Demiurgy. Holiness. Numen. Superman. Supernatural life. Grace of God. Man of God. Theogony. Theophany. Revelation. Charisma. Diva. Hero. Deism. Spiritual worldview. Mundane myth.",
+      "type": "Mundana",
+      "axis": "r",
+      "generation": 2,
+      "coords_3d": {
+        "x": -85,
+        "y": 95,
+        "z": -85
+      }
+    },
+    {
+      "id": 59,
+      "label": "DSG",
+      "name_ca": "Hedonisme",
+      "name_en": "Desire",
+      "description_ca": "“Angoixa i afany per allò que no es té”. “Moviment de l’ànim cap al coneixement, possessió o fruïció de quelcom o d’algú”.Afecció.Sentiment mundà. Afany. Apetit. Anhel. Pruïja. Caprici. Sorpresa. Il·lusió. Antull. Fal·lera.Distracció. Alienació. Hobby. Filosofia del desig de Buda.",
+      "description_en": "Anguish and desire for what is not had. Movement of the soul towards the knowledge, possession, or enjoyment of something or someone. Affection. Worldly feeling. Desire. Appetite. Longing. Itch. Whim. Surprise. Illusion. Fancy. Mania. Distraction. Alienation. Hobby. Philosophy of Buddha's desire.",
+      "type": "Mundana",
+      "axis": "s",
+      "generation": 2,
+      "coords_3d": {
+        "x": -120,
+        "y": -90,
+        "z": 0
+      }
+    },
+    {
+      "id": 77,
+      "label": "ECL",
+      "name_ca": "Ecologia",
+      "name_en": "Ecology",
+      "description_ca": "“Ordre inexorable de la realitat concreta”. “Sostenibilitat dels equilibris de la naturalesa física i social”. Solidaritat. Corresponsabilitat. Univers conjuntat. Justesa. Ordre radical. Responsabilitat. Reciclatge. Retroacció. Feed-back. Impenetrabilitat fermiònica. Ètica mundana.",
+      "description_en": "Inexorable order of concrete reality. Sustainability of physical and social nature balances. Solidarity. Co-responsibility. Conjoined universe. Justness. Radical order. Responsibility. Recycling. Feedback. Fermionic impenetrability. Mundane ethics.",
+      "type": "Mundana",
+      "axis": "n",
+      "generation": 2,
+      "coords_3d": {
+        "x": 85,
+        "y": -95,
+        "z": -85
+      }
+    },
+    {
+      "id": 74,
+      "label": "ECN",
+      "name_ca": "Materialisme",
+      "name_en": "Economy",
+      "description_ca": "“Ordre flexible i útil de la realitat concreta”. “El bon ordre de la casa”. “Bona creació i bon repartiment del bé comú”. Empresa. Mínim esforç. Màxim resultat. Producció. Contracte social . Cos social comú. Ofici. Mecànica. Fabricació. “Guanyar-se la vida”. Motor del progrés. Creació de plusvàlua o valor afegit. Amb lucre / sense lucre. Guanys. Pragmatisme. Eficàcia. Explotació. Utilitarisme. Treball. Capital.Invent. Forces productives. Tècnica mundana.",
+      "description_en": "Flexible and useful order of concrete reality. Good order of the house. Good creation and fair distribution of the common good. Business. Minimum effort. Maximum result. Production. Social contract. Common social body. Trade. Mechanics. Manufacturing. Earning a living. Progress engine. Creation of surplus value or added value. For-profit / non-profit. Gains. Pragmatism. Efficiency. Exploitation. Utilitarianism. Work. Capital. Invention. Productive forces. Mundane technique.",
+      "type": "Mundana",
+      "axis": "r",
+      "generation": 2,
+      "coords_3d": {
+        "x": 85,
+        "y": -95,
+        "z": 85
+      }
+    },
+    {
+      "id": 79,
+      "label": "ECU",
+      "name_ca": "Ecumene",
+      "name_en": "Ecumene",
+      "description_ca": "“L’experiència concreta de la realitat i de la comunitat dels esperits”.“Conjunció concreta d’esperits”. Concòrdia. Universalitat concreta i vivent.. Simbiosi. Altruisme. Comunió dels sants (crist.). Cos místic de Crist (paul.). Espiritisme. Mística mundana. Fraternité (Revol. fr.). Tolerància. Consens. Ànima comuna.",
+      "description_en": "The concrete experience of reality and the community of spirits. Concrete conjunction of spirits. Concord. Concrete and living universality. Symbiosis. Altruism. Communion of saints (Christian). Mystical body of Christ (Paul). Spiritualism. Mundane mysticism. Fraternity (French Revolution). Tolerance. Consensus. Common soul.",
+      "type": "Mundana",
+      "axis": "m",
+      "generation": 2,
+      "coords_3d": {
+        "x": -85,
+        "y": -95,
+        "z": -85
+      }
+    },
+    {
+      "id": 65,
+      "label": "EXC",
+      "name_ca": "Exactitud",
+      "name_en": "Exactness",
+      "description_ca": "Rigor inevitable dels fets ara i aquí. Fidelitat en el compliment d’un deure o en la seva execució. Comprovació. Ocasió. Neguentropia. Informació. Conformitat. Confirmació. Validació. Contrastació. Acreditació. Justificació. Puntualitat. Document. Monument.",
+      "description_en": "Inevitable rigor of the facts here and now. Fidelity in fulfilling a duty or its execution. Verification. Occasion. Negentropy. Information. Conformity. Confirmation. Validation. Contrast. Accreditation. Justification. Punctuality. Document. Monument.",
+      "type": "Mundana",
+      "axis": "p",
+      "generation": 2,
+      "coords_3d": {
+        "x": 0,
+        "y": 0,
+        "z": 155
+      }
+    },
+    {
+      "id": 69,
+      "label": "FUN",
+      "name_ca": "Utilitarisme",
+      "name_en": "Function",
+      "description_ca": "“Exercici i activitat dels òrgans o aparells d’éssers vius o construïts, muntats”.Mecànica clàssica. Física. Biologia. Previsió. Funcionari. Funcionalitat. Funcionament. Fisiologia. Llei macrofísica o determinista. Sanció. Forma : FUN-EXC Efectes visibles.",
+      "description_en": "Exercise and activity of organs or apparatuses of living or constructed beings, assembled. Classical mechanics. Physics. Biology. Prediction. Official. Functionality. Operation. Physiology. Macrophysical or deterministic law. Sanction.",
+      "type": "Mundana",
+      "axis": "d",
+      "generation": 2,
+      "coords_3d": {
+        "x": 110,
+        "y": 0,
+        "z": 110
+      }
+    },
+    {
+      "id": 72,
+      "label": "GEN",
+      "name_ca": "Geni",
+      "name_en": "Genius",
+      "description_ca": "“Possessió espiritual fecunda”. “Gran enginy amb una força espiritual extraordinària capaç d’inventar o fer coses admirables”. Possessió espiritual.Talent.Personalitat. Generativitat. Creativitat. Singularitat. Personalitat.“Mal àngel”. Entusiasme. Eficàcia. Inspiració.",
+      "description_en": "Fecund spiritual possession. Great ingenuity with extraordinary spiritual strength capable of inventing or doing admirable things. Spiritual possession. Talent. Personality. Generativity. Creativity. Singularity. Personality. Evil angel. Enthusiasm. Efficiency. Inspiration.",
+      "type": "Mundana",
+      "axis": "d",
+      "generation": 2,
+      "coords_3d": {
+        "x": -110,
+        "y": 0,
+        "z": -110
+      }
+    },
+    {
+      "id": 57,
+      "label": "HAR",
+      "name_ca": "Taoisme",
+      "name_en": "Harmony",
+      "description_ca": "“Utopia ideal de com cal que sigui la realitat”. “Convenient proporció i correspondència d’unes coses amb altres”. Perfecció. Cel. Empiri. Paradís celestial.. Equilibri. Utopia ideal. Urà. Doctrina exotèrica.",
+      "description_en": "Ideal utopia of how reality should be. Suitable proportion and correspondence of things with others. Perfection. Heaven. Empyrean. Celestial paradise. Balance. Ideal utopia. Uranus. Exoteric doctrine.",
+      "type": "Mundana",
+      "axis": "l",
+      "generation": 2,
+      "coords_3d": {
+        "x": 0,
+        "y": 93,
+        "z": -123
+      }
+    },
+    {
+      "id": 67,
+      "label": "INT",
+      "name_ca": "Voluntarisme",
+      "name_en": "Intention",
+      "description_ca": "INTENCIÓ. “La meva voluntat”. “Allò que jo vull”. “Determinació de la voluntat en ordre a un fi, a un objectiu”. Força de voluntat. Constància (MON). La meva resistència. No resignació. Designi. Paciència. (MTP). Iniciativa. (STT). Esperit emprenedor. Voluntat pública. Opinió pública. (EST) Decisions públiques. Intencionalitat. Propòsit. Interès (STT). Motivació (STM). Suggestió (EST). Esperança (MIT). “Examen de consciència” (MTP). Eclecticisme (STT). Selecció. “Art de viure” (ART) o “estètica de l’existència” (EST). Atenció. Observació. Vigilància. (ART). Sol·licituds. Reflexió. (MTP). Preocupació. Inquietud del cor.(STT-FOL).",
+      "description_en": "My will. What I want. Determination of the will towards an end. Care. Concern. Heart restlessness. Purpose. Interest. Motivation. Suggestion. Hope. Examination of conscience. Intentionality. Eclecticism. Selection. Art of living or aesthetics of existence. Attention. Observation. Vigilance. Solicitations. Reflection. Willpower. Constancy. My resistance. Patience. Non-resignation. Design. Initiative. Entrepreneurial spirit. Public will. Public opinion. Public decisions.",
+      "type": "Mundana",
+      "axis": "t",
+      "generation": 2,
+      "coords_3d": {
+        "x": -155,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "id": 60,
+      "label": "OBL",
+      "name_ca": "Estoicisme",
+      "name_en": "Obligation",
+      "description_ca": "“La tossudesa inevitable de la realitat concreta”.“Exigència ètica que regeix o limita el lliure albir”. “Vincle que subjecta a fer o a abstenir-se de fer quelcom”. Coacció. Coerció. Imposició. Religió. Exigència. Karma (hind.). Necessitat determinada.",
+      "description_en": "The inevitable stubbornness of concrete reality. Ethical requirement that governs or limits free will. Bond that subjects to do or abstain from doing something. Coercion. Coercion. Imposition. Religion. Requirement. Karma (Hindu). Determined necessity.",
+      "type": "Mundana",
+      "axis": "g",
+      "generation": 2,
+      "coords_3d": {
+        "x": 120,
+        "y": -90,
+        "z": 0
+      }
+    },
+    {
+      "id": 71,
+      "label": "OGN",
+      "name_ca": "Òrgan",
+      "name_en": "Organ",
+      "description_ca": "“L’ésser nascut, generat, autoconstituït”. “Conjunt d’elements i funcions d’un cos vivent”. Organisme. Organització. Autoconstrucció. Autoorganització. Autoconvocació. Autarquia. Aparells vius. Teixits vius. Definició de patrons, fluxos d'informació i relació que determinen la forma.",
+      "description_en": "Being born, generated, self-constituted. Set of elements and functions of a living body. Organism. Organization. Self-construction. Self-organization. Self-convocation. Autarky. Living apparatuses. Living tissues.",
+      "type": "Mundana",
+      "axis": "b",
+      "generation": 2,
+      "coords_3d": {
+        "x": 110,
+        "y": 0,
+        "z": -110
+      }
+    },
+    {
+      "id": 56,
+      "label": "PCS",
+      "name_ca": "Precisió",
+      "name_en": "Precision",
+      "description_ca": "Abstracció, separació o diferenciació rigorosa per part de l’enteniment” Crítica. Discerniment. Sentit crític. Rigor formal. Modificació. Mode. Compte. Computació. Informàtica. Nitidesa. Anticipació.",
+      "description_en": "Abstraction, separation, or rigorous differentiation by understanding. Criticism. Discernment. Critical sense. Formal rigor. Modification. Mode. Count. Computation. Computing. Sharpness. Anticipation.",
+      "type": "Mundana",
+      "axis": "f",
+      "generation": 2,
+      "coords_3d": {
+        "x": 0,
+        "y": 93,
+        "z": 123
+      }
+    },
+    {
+      "id": 55,
+      "label": "POL",
+      "name_ca": "Polidesa",
+      "name_en": "Politeness",
+      "description_ca": "El control pràctic de l’ampla realitat present concreta. Escaient als sentits i treballat amb pulcritud. Habilitat. Rigor tècnic. Ben fer. Obra ben feta. Tenir a mà. Tenir bona mà. “Un manetes”. Manualitat. Manufactura. Pulcritud. Mirament. Consideració. Cortesia. Delicadesa. Cosmètica. Maquillatge. Fatxenda.",
+      "description_en": "The practical control of the broad present concrete reality. Suitable to the senses and worked with neatness. Skill. Technical rigor. Good workmanship. Having at hand. Good hand. Handyman. Manuality. Manufacture. Neatness. Consideration. Courtesy. Delicacy. Cosmetics. Makeup. Swagger.",
+      "type": "Mundana",
+      "axis": "l",
+      "generation": 2,
+      "coords_3d": {
+        "x": 0,
+        "y": -93,
+        "z": 123
+      }
+    },
+    {
+      "id": 58,
+      "label": "RGN",
+      "name_ca": "Regne",
+      "name_en": "Kingdom",
+      "description_ca": "La perfecta utopia feta realitat concreta. Estat real de justícia, pau i felicitat espiritual. Paradís terrenal. Cel a la terra. L’èxit. Edèn. CNiu. Cau. Llar. Pàtria. Terra promesa. Territori alliberat. Utopia realitzada. Comunitat d’amor. Regne dels cels.",
+      "description_en": "The perfect utopia made concrete reality. Real state of justice, peace, and spiritual happiness. Earthly paradise. Heaven on earth. Success. Eden. Nest. Den. Home. Homeland. Promised land. Liberated territory. Realized utopia. Community of love. Kingdom of heaven.",
+      "type": "Mundana",
+      "axis": "f",
+      "generation": 2,
+      "coords_3d": {
+        "x": 0,
+        "y": -93,
+        "z": -123
+      }
+    },
+    {
+      "id": 5,
+      "label": "FEN",
+      "name_ca": "Fenomenalisme",
+      "name_en": "Phenomenon",
+      "description_ca": "Aquest món i vida aparent. FEN: Coneixement determinat i suficient per a nosaltres (tot i que parcial). Manifestació de la realitat que s'expressa dins dels límits del coneixement (categories de l'enteniment) i en funció de les nostres capacitats cognitives (formes de sensibilitat), però no només. El Fenomen també és el resultat de l'expressió lliure del que és, del noümen en el temps i l'espai, el qual està constituït per la capacitat creadora del subjecte i la seva autoafirmació, com a manifestació de l'essència de la realitat objectiva. El fenomen és la manera com l'esperit absolut (l'Absolut) es desenvolupa històricament i es reconeix a si mateix (Hegel). El fenomen no és només una simple aparença del noümen, és una expressió necessària del noümen. D'acord amb el model i coincidint amb filòsofs post-kantians (Hegel, Fichte, Schelling), hi hauria una continuïtat entre Fenomen i Noümen, i per tant una part del noümen seria constitutiva. El noumen es desplegaria dialecticament i el coneixement humà seria capaç de reconèixer aquesta realitat fonamental progressivament. Aparença. Esdeveniment. Fets. Presència. Temps físic. Ara i aquí. Manifestació. Evidència. Esdevenir. Història. Anècdota. “Això – ací – ara – per a mi”. Competència. Competitivitat. Conflicte. Guerra. (FEN-EXP-ANA) Multiplicitat. Dualitat. Distinció (ART). Dissecció (ANA). Impressió (EXP). Moviment. Salt. Canvi. Diàleg. Intercanvi. Mercat. Relació. Interacció. Intersubjectivitat. Comunicació. Informació. Transacció.",
+      "description_en": "Appearance. Event. Presence. Physical time. Here and now. Manifestation. Evidence. Competence. Competitiveness. Conflict. War. Multiplicity. Facts. Movement. Duality. Becoming. History. Anecdote. Leap. Change. Dialogue. Exchange. Market. Relation. Interaction. Intersubjectivity. “This – here – now – for me”. Communication. Information. Transaction. Distinction. Dissection. Impression. This world and apparent life.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1,
+      "coords_3d": {
+        "x": 0,
+        "y": 0,
+        "z": 100
+      }
+    },
+    {
+      "id": 6,
+      "label": "NOU",
+      "name_ca": "Essencialisme",
+      "name_en": "Noumenon",
+      "description_ca": "Transcendència. Unió de tot. La realitat transcendent; el més enllà; l’ànima del món. Unitat profunda i misteriosa de tot l’univers. L’U. L’Ésser. Plenitud. El No-res. El fonament. Desaparició. Absència. Déu. Atemporalitat. Eternitat. Sincronia. Immutabilitat. Misteri de la vida. Monisme. Advaita. Tao. Contemplació. Absolut. Anihilació. L’alliberament/salvació. Consciència plena. Pau profunda",
+      "description_en": "Transcendence. Union of all. The transcendent reality, the beyond, the soul of the world. Deep and mysterious unity of the entire universe. The One. Being. Fullness. The Nothing. The foundation. Disappearance. Absence. God. Timelessness. Eternity. Synchronicity. Immutability. Mystery of life. Monism. Advaita. Tao. Contemplation. Absolute. Annihilation. Liberation/salvation. Full consciousness. Deep peace.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1,
+      "coords_3d": {
+        "x": 0,
+        "y": 0,
+        "z": -100
+      }
+    },
+    {
+      "id": 8,
+      "label": "OBJ",
+      "name_ca": "Objectivisme",
+      "name_en": "Object",
+      "description_ca": "OBJECTE. Allò construït. Estructura. Extensió. Exterior. Sistema establert. Xarxa. Trama. Textura. Text. Reticle. Les estructures constants permanents, materials o immaterials. Allò que roman constant i idèntic a si mateix. Constant. Estabilitat. Complexitat. Complexió, Cos: constitució d'una estructura o cos a partir de les diferents parts per formar un tot. Institució. Constitució. Patrimoni. Corpuscle. (OBJ-OGN) Principi de No-Contradicció. Identitat. Camp. Heteronomia. Cultura establerta. Memòria. Documents. Monuments. (SGE-SGT-CIE-MTF) Part. Partícula. Particular. Element. (OBJ-CIE). Límit. Frontera. Obstacle. Barrera. Oposició. Privacitat. Privació. Empresonament. Captivitat. Objectivitat. Alienació. (OBJ-AFI-OBL). Pacte-Contracte: OBJ-CNV Espai físic i social. On. Situació. Posició. Ubicació. Lloc. On: OBJ-MTF Cos. Cosa. Quelcom. Signe d'identitat. Referència. (OBJ-SGE)",
+      "description_en": "The permanent constant structures, material or immaterial. What remains constant and identical to itself. What is constructed. Structure. Extension. Gestalt. Complexity. Completeness. Network. Web. Texture. Text. Grid. Physical and social space. Where. Situation. Position. Location. Place. Identity. Field. Constant. Heteronomy. Alienation. Institution. Constitution. Heritage. Body. Thing. Corpuscle. Element. Exterior. Memory. Established culture. Stability. Balance. Established system. Thing. Documents. Monuments. Stable relationship. Contract. Pact. Identity sign. Reference. Something. This. Part. Particle. Particular. Body. Limit. Border. Obstacle. Barrier. Opposition. Privacy. Imprisonment. Captivity. Objectivity.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1,
+      "coords_3d": {
+        "x": 100,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "id": 3,
+      "label": "PRA",
+      "name_ca": "Vitalisme",
+      "name_en": "Practice",
+      "description_ca": "Força. La realitat concreta, sencera i dinàmica. Llum. Energia i Matèria. Autenticitat. Anarquia. Intu&iuml;ció.Infància/vellesa. Espontane&iuml;tat. Salvatgia. Indiscernibilitat. Ingenu&iuml;tat. Naif. Innocència nens i ancians. Senzillesa. Praxis (Marx). Pragmàtica pura. Radicalitat. Nirvana. Poble. Nació. Democràcia. Demòtica. La base. Simplicitat radical de la ment humana.",
+      "description_en": "Force. Concrete, whole, and dynamic reality. Light. Energy and Matter. Authenticity. Anarchy. Intuition. Infancy/old age. Spontaneity. Wildness. Indiscernibility. Ingenuity. Naïve. Innocence of children and elders. Simplicity. Praxis (Marx). Pure pragmatics. Radicalism. Nirvana. People. Nation. Democracy. Demotics. The base. Radical simplicity of the human mind.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1,
+      "coords_3d": {
+        "x": 0,
+        "y": -100,
+        "z": 0
+      }
+    },
+    {
+      "id": 7,
+      "label": "SUB",
+      "name_ca": "Subjectivisme",
+      "name_en": "Subject",
+      "description_ca": "SUBJECTE. Jo pur. Jo atent des del meu propi centre, despullat de tots els meus signes d’identitat. Qui observa i pren decisions. AFINS: Ego. Un mateix. Hom. Atman (sànscr.). Aquell qui es subjecta. Observador. Vivència pròpia i fonamental. Vida. Fluïdesa. Agent. Agència. Alter ego. Tu. Ell. L’altre. Persona col·lectiva. Grup. Colla. Nosaltres. Vosaltres. Ells. Positiu: Llibertat. Lliure albir. Elecció. Decisió. Deliberació. Emancipació. Sobirania. Independència. Autodeterminació. Autonomia. (poder). Fet de decidir lliurement i de fer front a les conseqüències. Autoconsciència. Autocontrol. Autoestima. (MTP). Tremp. (STM). Creativitat. Concentració, dharana (Raja-Ioga.). Valor. Donació. Lliurament d’un mateix. Negatiu: Solipsisme. Egoisme. Supèrbia. Orgull. Llibertinatge. Exaltació – depressió. Vanitat. No alienació. Autoodi. Autisme. Drama. Tragèdia. Angoixa radical (STT). Suïcidi. Sotmetiment (opressió, repressió). Dominació Propietat privada. Principi de Contradicció. La negació de la meva persona. L'ou com balla.",
+      "description_en": "I living attentively from my own center, stripped of all my identity signs. Made of deciding freely and facing the consequences. Person. Own experience. Fundamental experience. Life. Agent. I. Ego. One. Oneself. Hom. Unique. Atman (sanscr.). Subject. Solipsism. Concentration, dharana (Raja-Yoga). Lordship. Submission (oppression, repression). Emancipation. Domination. Autonomy. (power). Private property. Self-consciousness. Sovereignty. Independence. Self-determination. Self-control. Self-esteem. Self-hate. Autism. Egoism. Deliberation. Freedom. Free will. Choice. Decision. Creativity. Contradiction. Drama. Tragedy. Radical anguish. Suicide. Love-hate relationship. Friendship. Alter ego. You. He. The other. Personality. Character strength. Temper. Value. Pride. Exaltation – depression. Vanity. Non-alienation. Donation. Surrender of oneself. Collective person. Group. Gang. We. You all. They.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1,
+      "coords_3d": {
+        "x": -100,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "id": 4,
+      "label": "TEO",
+      "name_ca": "Abstraccionisme",
+      "name_en": "Theory",
+      "description_ca": "La visió global abstracta de la realitat. Coneixement especulatiu. Globalitat. Abstracció. Discerniment. Ment pura. Autoritat. Política. Representació plena. Enteniment pur. Cultura. Civilització. Llenguatge universal. Expressió integral. No toca de peus a terra. Viu en els núvols. Universalitat (IDE). Màgia general. Filosofia (SIN). Maduració. Integració. (SIN).",
+      "description_en": "The abstract global view of reality. Speculative knowledge. Globality. Abstraction. Discernment. Pure mind. Universality. General magic. Philosophy. Ripening. Integration. Authority. Politics. Full representation. Pure understanding. Culture. Civilization. Universal language. Integral expression. Not grounded. Lives in the clouds.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1,
+      "coords_3d": {
+        "x": 0,
+        "y": 100,
+        "z": 0
+      }
+    },
+    {
+      "id": 10,
+      "label": "AMO",
+      "name_ca": "Amor",
+      "name_en": "Love",
+      "description_ca": "**Vivència i efectes transcendents dels actes**: la pràctica que deixa que tot es faci, generadora d'unió profunda i acció no-violenta. ## Posició al model - **Tipus**: centre d'eix (neutral del Mètode Global) - **Coordenades**: pla `PRA × NOU` — pràctica orientada al noümen - **Antípoda dialèctica**: ANA (anàlisi del fenomen) - **Evolució interna**: magma (MGM) → regne (RGN) ## Significat AMO és la fase del Mètode on l'acció pren forma de **lliurament**: estimar, generar, donar, deixar que el procés es faci sense forçar-lo. Concreció de la transcendència en una unió profunda. Petita veu silenciosa que parla a la consciència en la via de l'acció no-violenta. Sense AMO, l'execució (EXP) esdevé instrumentalitat sense ànima. ## Afins *amor · bé · lliurament · donació · generositat · acollida · gratuïtat · comunió · compassió · agàpe · ahimsa · servei* ## Polaritat - **Positiva** — generositat, compassió activa, no-violència, plenitud, regne (RGN), comunió universal pràctica - **Negativa** — magma (MGM) indiferenciat, sentimentalisme, paternalisme, perversió en possessió o dependència ## Operació al Mètode (ANA→SIN→AMO→EXP) AMO és la fase **decisòria**: després d'haver analitzat (ANA) i sintetitzat (SIN), AMO tria el camí d'acció des de la consciència transcendent. És el \"pla d'acció\" que orienta EXP. Al pipeline RAG d'Arkadium correspon a la fase 3 (síntesi + generació amb traçabilitat). ## Disciplines derivades - **MIS** (AMO ↔ STM) — mística, lliurament subjectiu, estats de fluïdesa - **ETI** (AMO ↔ SGE) — ètica, lliurament objectiu, normes de bé comú ## Manifestacions Acció comunitària, voluntariat, cura, mediació de conflictes, mestratge, parentalitat, pràctiques contemplatives actives, acció no-violenta (Gandhi, Luther King), institucions de servei. ## Referències - Berenguer J., *Globàlium petit manual* (2024) — \"Concreció del bé comú. Altruisme. Generar. Lliurar. Estimar.\" - Berenguer J., *Globàlium AI trainer* — fase 3 del Mètode, MGM→RGN - Xirinacs L.M. (1997) — \"el Bé com a plena llibertat interna de tota realitat transcendent concreta\" - Arkadium Framework — fase 3 (generació LLM amb compensació harmònica) --- *Notes prèvies:* Bé. La plena llibertat interna de tota la realitat transcendent concreta. Comunió universal pràctica. Concreció de la transcendència.",
+      "description_en": "Good. The full internal freedom of all transcendent concrete reality. Universal practical communion. Concretion of transcendence.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1.5,
+      "coords_3d": {
+        "x": 0,
+        "y": -60,
+        "z": -77
+      }
+    },
+    {
+      "id": 11,
+      "label": "ANA",
+      "name_ca": "Excepticisme",
+      "name_en": "Analysis",
+      "description_ca": "**Discerniment, separació per entendre**: l'operació mental que descompon allò complex en parts diferenciables. ## Posició al model - **Tipus**: centre d'eix (neutral del Mètode Global) - **Coordenades**: pla `TEO × FEN` — teoria orientada al fenomen - **Antípoda dialèctica**: SIN (síntesi del noümen) - **Evolució interna**: probabilitat (PRB) → precisió (PCS) ## Significat ANA és la fase d'**obertura** del Mètode: parteix d'un fenomen sencer i el desplega en parts, qualitats, accidents i matisos. Pensar, qüestionar, dubtar, diferenciar, comparar, mesurar. Sense ANA no hi ha precisió possible; sense límit, ANA dissecciona indefinidament i perd el tot. ## Afins *discerniment · abstracció · descomposició · judici crític · qüestionament · diferenciació · comparació · mesura · matís · qualitat* ## Polaritat - **Positiva** — claredat, precisió (PCS), rigor, capacitat crítica, distinció fina - **Negativa** — dissecció estèril, fragmentació excessiva, paràlisi per anàlisi, pèrdua del sentit del tot ## Operació al Mètode (ANA→SIN→AMO→EXP) ANA **obre** el cicle: rep el fenomen brut i el converteix en parts manejables. La seva sortida alimenta SIN, que en busca les relacions essencials. Al pipeline RAG d'Arkadium correspon a la fase 1 (captació + retrieval). ## Disciplines derivades - **LOG** (ANA ↔ SGT) — regles formals, deducció, càlcul - **EST** (ANA ↔ STT) — avaluació formal subjectiva, creativitat, gust ## Manifestacions Mètode científic experimental, anàlisi crítica, taxonomia, descomposició funcional, debugging, diagnòstic mèdic, crítica literària. ## Referències - Berenguer J., *Globàlium petit manual* (2024) - Berenguer J., *Globàlium AI trainer* — fase 1 del Mètode, PRB→PCS - Arkadium Framework — fase 1 (captació + retrieval sobre 80 categories) --- *Notes prèvies:* Discerniment. Abstracció mental. Qualitats i accidents. Matís.",
+      "description_en": "Discernment. Mental abstraction. Qualities and accidents. Nuance.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1.5,
+      "coords_3d": {
+        "x": 0,
+        "y": 60,
+        "z": 77
+      }
+    },
+    {
+      "id": 9,
+      "label": "EXP",
+      "name_ca": "Empirisme",
+      "name_en": "Experience",
+      "description_ca": "**Experimentació, fer coses, aprenentatge**: la pràctica directa que produeix efectes aparents al món fenomènic. ## Posició al model - **Tipus**: centre d'eix (neutral del Mètode Global) - **Coordenades**: pla `PRA × FEN` — pràctica orientada al fenomen - **Antípoda dialèctica**: AMO (pràctica orientada al noümen) - **Evolució interna**: turbulència (TRB) → polit (POL) ## Significat EXP és la fase del Mètode on les idees es tradueixen en accions concretes i n'observem els efectes mesurables. És el laboratori del coneixement: experimentació, treball, joc, aprenentatge per assaig i error. Cada esdeveniment concret porta la seva pròpia força i el seu repte. ## Afins *situació · observació directa · feina · acció · pràctica · experiment · prova · joc · vivència · assaig · implementació* ## Polaritat - **Positiva** — perseverança, mètode, calibratge, polit (POL), domini de l'ofici - **Negativa** — turbulència (TRB), activisme cec, agitació estèril, pèrdua de sentit per excés d'acció ## Operació al Mètode (ANA→SIN→AMO→EXP) EXP **tanca i reobre** el cicle: després d'analitzar, sintetitzar i triar amb amor el camí, EXP implementa. Els efectes observats reactiven una nova ronda d'ANA — el cicle és espiral, no tancat. ## Disciplines derivades - **TEC** (EXP ↔ SGE) — procediments, mètode, eficàcia - **PSI** (EXP ↔ STM) — emocions resultants de l'experiència ## Manifestacions Laboratoris científics, oficis manuals, esports, arts performatives, jocs, prototipatge, agricultura, enginyeria, pràctica clínica. ## Referències - Berenguer J., *Globàlium petit manual* (2024) - Berenguer J., *Globàlium AI trainer* — fase 4 del Mètode, TRB→POL - Arkadium Framework — fase 4 (implementació + visualització + feedback) --- *Notes prèvies:* Situació. Observació directa. Feina. Força i Repte de cada esdeveniment concret.",
+      "description_en": "Situation. Direct observation. Work. Strength and Challenge of each concrete event.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1.5,
+      "coords_3d": {
+        "x": 0,
+        "y": -60,
+        "z": 77
+      }
+    },
+    {
+      "id": 13,
+      "label": "SGE",
+      "name_ca": "Determinisme",
+      "name_en": "Sign",
+      "description_ca": "Senyals objectius de la realitat pràctica, és a dir, aquells indicadors o fets que són presents a la realitat sense estar influïts per interpretacions. Els signes són els fets, objectes o esdeveniments que es manifesten de manera tangible i observable. Coses. Això. Avisos, senyals concrets externs o interns.",
+      "description_en": "Things. This. Concrete external or internal signs and warnings.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1.5,
+      "coords_3d": {
+        "x": 80,
+        "y": -60,
+        "z": 0
+      }
+    },
+    {
+      "id": 16,
+      "label": "SGT",
+      "name_ca": "Cognitivisme",
+      "name_en": "Meaning",
+      "description_ca": "Definició acceptada dels objectes o que donem als signes. Raons. Acords. Interpretació comuna. Sentit comú. Termes, codis.La veritat de les coses. El món abstracte, culte, erudit, de la memòria. El món de la raó. Explicacions. Recerca de la veritat. Adequació constructiva. Definició. Veritat / error o falsedat. Sentit . Raó. Raciocini. Superestructura. Geometria. 2 Dret. Comprensió. Esquema. Diagrama. Taula. Sistema de coordenades. Espai geomètric. Dimensions. Organigrama. Constel·lació de conceptes (Adorno). Construcció mental. Simetria. Teoria de conjunts homogenis (Cantor). Sistema. Programa. Ideologia. Teologia. Semàntica. No contradicció en els termes. Identitat abstracta. Coherència. Consistència. Compatibilitat. Allò que és complet. Allò que es pot dir. Imperatiu. Comandament. Mandat. Norma. Preceptiva. Dogmàtica. Moral. Ordre. Codi. Reglament. Estatut. Taxonomia. Classificació. Classes socials. Classes d’equivalència. Univocitat. Sinònim. Interpretació, exègesi, hermenèutica al peu de la lletra. Deontologia. Paradigma. Denotació. Significació. Accepció. Raó. Geometria. Definició. Comprensió. Figura. Esquema. Sinonímia. Nom comú. Concepte. Universal. Raó. Erudició. Sentit objectiu. Proposició coherent. No contradicció en els termes. Terminologia. Nomenclatura. Thesaurus. Memòries informàtiques. Autolimitació. Prudència. Seny. Vernunft (Kant). Connotació. Denotatum. Designatum. Constructe. Sistema. Darsana (hind.). Sympèctica (Francesc Pujols). Compossibilitat (Leibniz). Completud. Decibilitat. Ciència deòntica o normativa. Llei. Jerarquia.",
+      "description_en": "Definition. The accepted definition of objects. The scholarly world of memory.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1.5,
+      "coords_3d": {
+        "x": 80,
+        "y": 60,
+        "z": 0
+      }
+    },
+    {
+      "id": 12,
+      "label": "SIN",
+      "name_ca": "Trascendentalisme",
+      "name_en": "Synthesis",
+      "description_ca": "**Saviesa, harmonització, conclusió**: l'operació mental que lliga el que ANA havia separat, captant allò essencial que ho relliga tot. ## Posició al model - **Tipus**: centre d'eix (neutral del Mètode Global) - **Coordenades**: pla `TEO × NOU` — teoria orientada al noümen - **Antípoda dialèctica**: EXP (experiència del fenomen) - **Evolució interna**: sublimitat (SBL) → harmonia (HAR) ## Significat SIN és la fase de **tancament conceptual** del Mètode: a partir de les parts diferenciades per ANA, busca les relacions essencials, els patrons unitaris, les lleis comprehensives. Sintetitzar no és resumir: és captar allò que ho lliga tot, l'estructura comuna que sosté la diversitat dels accidents. Sense ANA prèvia, SIN esdevé generalitat buida; sense SIN posterior, ANA esdevé fragmentació estèril. ## Afins *saviesa · harmonització · assimilació · conclusió · captació unitària · llei · patró · estructura · principi · comprensió · totalització* ## Polaritat - **Positiva** — harmonia (HAR), saviesa integradora, llei comprehensiva, visió de conjunt, claredat conceptual essencial - **Negativa** — sublimitat (SBL) sense aterratge, generalització precipitada, holisme buit, sistemes tancats que no admeten anomalia ## Operació al Mètode (ANA→SIN→AMO→EXP) SIN és la fase de **mapping de relacions**: rep parts d'ANA i en tradueix la xarxa de connexions. La seva sortida nodreix AMO (pla d'acció informat per la comprensió). Al pipeline RAG d'Arkadium correspon a la fase 2 (anàlisi + validació de coherència globalística). ## Disciplines derivades - **IDE** (SIN ↔ SGT) — idees, principis, models, ideologies (objectiu) - **MIT** (SIN ↔ STT) — mites, valors, arquetips vius (subjectiu) ## Manifestacions Filosofia, teories generals, dret comprehensiu, taxonomies unificadores, cosmovisions, paradigmes científics, dogmàtica, manuals canònics, models holístics. ## Referències - Berenguer J., *Globàlium petit manual* (2024) — \"Allò essencial que ho lliga tot. Saviesa. Conclusió.\" - Berenguer J., *Globàlium AI trainer* — fase 2 del Mètode, SBL→HAR - Arkadium Framework — fase 2 (validació de coherència globalística sobre 80 categories) --- *Notes prèvies:* Saviesa. Captació abstracta unitària de la realitat transcendent.",
+      "description_en": "Wisdom. Abstract unitary grasp of transcendent reality.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1.5,
+      "coords_3d": {
+        "x": 0,
+        "y": 60,
+        "z": -77
+      }
+    },
+    {
+      "id": 14,
+      "label": "STM",
+      "name_ca": "Sentimentalisme",
+      "name_en": "Feeling",
+      "description_ca": "Ànim. Empenta i força vital. L’emoció permanent de viure. El doll d'aigua de l'ou com balla.",
+      "description_en": "Soul. Drive and vital force. The permanent emotion of living.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1.5,
+      "coords_3d": {
+        "x": -80,
+        "y": -60,
+        "z": 0
+      }
+    },
+    {
+      "id": 15,
+      "label": "STT",
+      "name_ca": "Sofisme",
+      "name_en": "Sense",
+      "description_ca": "SENTIT. Ment vivencial. Endevinar a través del que es diu o es fa, allò que no és ni dit ni fet. Encert. Recerca de la gràcia (Si non é vero é ben trovato). Inadequació creativa. La nostra intel·ligència. Intel·ligibilitat. Joc mental lliure sense necessitat de lògica. Creativitat. Imaginació. Fantasia. Ficció. (EST). Ego inflat. Imatge del meu jo ideal o dels ideals que animen la meva vida. Opinió Ens allibera del principi d'identitat, o de no contradicció. Gràcia. Humor. Estratègia. (AST) Interpretació. Principi de participació (Lévy- Bruhl). Ideolecte (idioma singular, personal i intransferible) Veracitat / Mentida. Contradicció de tota convenció i de tot signe. Les giragonses i saltirons de l'ou com balla. STT->TEO : Desxifrar TEO->STT : copçar el sentit Principi de contradicció: A ≠ A",
+      "description_en": "Intelligence. Guess. Game.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1.5,
+      "coords_3d": {
+        "x": -80,
+        "y": 60,
+        "z": 0
+      }
+    },
+    {
+      "id": 18,
+      "label": "ART",
+      "name_ca": "Ascetisme",
+      "name_en": "Art",
+      "description_ca": "Tractament amb rigor estètic de la realitat canviat (psíquica, interior i vivencial). Expressió creativa. Ensonyació. Creació. Poesia. Tacte. “Ull clínic”. Alteració. Somni. No només les belles arts, també en són: l’educació, la medicina, la política, la demòtica, la cura d’ànimes, la judicatura, el periodisme, etc. Màscara. Encert sense llei. Matemàtica inconscient. Ascètica. L’art ens reconcilia amb l’existència perquè ens ajuda a entendre, expressar i donar sentit a la nostra realitat, en tota la seva complexitat. Actua com un mirall de la condició humana, però també com un mitjà per transcendir-la, ja sigui creant bellesa, trobant harmonia o establint connexions profundes amb altres persones i amb el món que ens envolta. Aquesta reconciliació és, en última instància, una forma de trobar pau i sentit en l’acte mateix de viure. L’art existeix perquè la realitat no és suficient. – Fernando Pessoa La funció de l’art és fer visible allò invisible. – Paul Klee L’art comença allà on acaba la tècnica. – Anthony Blunt L'art és la mentida que ens permet comprendre la veritat. – Pablo Picasso L'art és l'expressió més intensa de l'individu que experimenta la vida. – Oscar Wilde L’art no és el que veus, sinó el que fas veure als altres. – Edgar Degas L'art és un esforç per crear, al costat del món real, un món més humà. – André Maurois L’art és la manera com els éssers humans es reconcilien amb l’existència. – Rainer Maria Rilke La creativitat és l’ànima de l’art i l’art és l’expressió de la creativitat. – John Dewey La bellesa de l’art està en els ulls de qui el mira. – Oscar Wilde L’art no té cap altre propòsit que ser contemplat. (s'allunya de la utilitat) – Johann Wolfgang von Goethe",
+      "description_en": "Aesthetic rigorous treatment of changing reality (psychic, interior, and experiential). Creative expression. Reverie. Creation. Poetry. Touch. Precision. Clinical eye. Alteration. Dream. Not just the fine arts, but also: education, medicine, politics, demotics, soul care, judiciary, journalism, etc. Mask. Precision without law. Unconscious mathematics. Asceticism.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1.75,
+      "coords_3d": {
+        "x": -70,
+        "y": 0,
+        "z": 70
+      }
+    },
+    {
+      "id": 17,
+      "label": "CIE",
+      "name_ca": "Positivisme",
+      "name_en": "Science",
+      "description_ca": "Coneixement i tractament de la realitat física formalment i experimentalment rigorosos. Coneixement (SGT) i previsió (ANA) exactes (EXC) de l’ordre (MTF) de les coses. Tractament objectiu (OBJ) de la realitat canviant (FEN). Coneixement. Reconeixement. Expert. Il·lustració. Identificació. Verificació/falsació. Comprovació. Ciència experimental (EXP). Mida. Mesura. Mètrica. Compàs. Ritme. Magnitud. (LOG). Constants (OBJ) i variables (FEN). Màquina lògica (TEC LOG) de conformar la realitat. Computadora. Vigília. Accident (FEN). Regularitat (OBJ). Constància de la derivada. Llei física (FUN). Prospectiva. Previsió. Criteris de demarcació i d’avaluació (ANA). Demostració. Prova física. (OBJ) Argumentació (SGT). Fórmula física escrita en matemàtica (LOG). Física teòrica. Ciència unificada. Construcció (OBJ). Interdisciplinarietat. Cisma. Secta. Dissecció. Tecnologia (TEC). Obediència coactiva (OBL). Efectes produïts per les causes profundes (MTF).",
+      "description_en": "Knowledge and treatment of physical reality formally and experimentally rigorous. Exact knowledge and prediction of the order of things. Objective treatment of changing reality (phenomena). Knowledge. Recognition. Expert. Enlightenment. Identification. Verification/falsification. Testing. Experimental science. Size. Measure. Metrics. Compass. Rhythm. Constants and variables. Magnitude. Logical machine conforming to reality. Computer. Vigil. Accident. Regularity. Physical law. Foresight. Prediction. Demonstration. Physical proof. Argumentation. Physical formula written in mathematics. Constancy of the derivative. Theoretical physics. Unified science. Construction. Criteria for demarcation and evaluation. Interdisciplinarity. Schism. Sect. Dissection. Technology. Coercive obedience.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1.75,
+      "coords_3d": {
+        "x": 70,
+        "y": 0,
+        "z": 70
+      }
+    },
+    {
+      "id": 23,
+      "label": "EST",
+      "name_ca": "Relativisme",
+      "name_en": "Aesthetics",
+      "description_ca": "Figuració. Fantasia. Il·lusió. Imaginació. Expressió formal lliure dels afectes subjectius. Jocs de conjunts d’imatges subjectives .Simulacre. Prejudici.Miratge. Fal·làcia. Imitació. Fabulació. Confabulació. Configuració. Intriga. Associació. Còpula. Ficció. Sofisma. Equívoc. Equivocació. Dissonància. Comèdia. Metàfora. Al·lucinació. Somnis. Mentida. Engany. Jocs mentals. Acudits. Endevinalles. Tonteries. Bestieses. Bajanades.",
+      "description_en": "Figuration. Fantasy. Illusion. Imagination. Free formal expression of subjective affections. Games of sets of subjective images. Simulacrum. Prejudice. Mirage. Fallacy. Imitation. Fable. Confabulation. Configuration. Intrigue. Association. Copulation. Fiction. Sophism. Equivocation. Mistake. Dissonance. Comedy. Metaphor. Hallucination. Dreams. Lie. Deception. Mental games. Jokes. Riddles. Nonsense. Foolishness. Trivialities.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1.75,
+      "coords_3d": {
+        "x": -55,
+        "y": 60,
+        "z": 55
+      }
+    },
+    {
+      "id": 25,
+      "label": "ETI",
+      "name_ca": "Formalisme",
+      "name_en": "Ethics",
+      "description_ca": "Bé comú. Transcendència que interpel·la l’actitud vital. Amor objectiu. Drets i deures. Necessitat. Justícia. Dret natural.",
+      "description_en": "Common good. Transcendence that challenges the vital attitude. Objective love. Rights and duties. Need. Justice. Natural law.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1.75,
+      "coords_3d": {
+        "x": 55,
+        "y": -60,
+        "z": -55
+      }
+    },
+    {
+      "id": 26,
+      "label": "IDE",
+      "name_ca": "Idealisme",
+      "name_en": "Idea",
+      "description_ca": "Saviesa estructurada en idees. Categorització per comprendre i orientar la realitat. Valors (SIN) universals. Escala de valors. Jerarquia de valors. Idea. Noció. Concepte. Semàntica.(SGT). Pensament. Tema. Nom. Terme. Vocabularis. Diccionaris. Nomenclàtors. Terminologies. Tesauri. Homonímia. Sinonímia. Univocitat. Afins. Accepcions. Etimologia. Metalogia (Gregory Bateson). estudi de les relacions i els patrons. General. Gènere (MTF). Grup. Dogma (NOU). Tesi / hipòtesi (suposició) (TEO). Conjectura. Opinió - doxa (comuna). Representació. Predicat. Predicable (Porfiri). Postulat. Categoria. Importància. Rellevància. Futurible. Possibilitat. Qüestió. Finalitat. Motiu. Objectiu. Perspectiva. Criteri. Idealisme. Fonamentalisme. Principi de raó suficient. Nom comú. Universal. Estàndard. Inducció: Parteix de lo especific per extreure conclusió general.",
+      "description_en": "Structured wisdom in ideas. Categorization to understand and guide reality. Values. Concept. Being. Idea. Notion. Thought. General. Genre. Group. Dogma. Thesis / hypothesis (assumption). Conjecture. Opinion - doxa. Theme. Name. Term. Representation. Predicate. Predicable (Porphyry). Postulate. Category. Importance. Relevance. Condition. Futurible. Possibility. Question. Purpose. Reason. Objective. Perspective. Criterion. Idealism. Fundamentalism. Principle of sufficient reason. Common name. Universal. Standard. Scale of values. Hierarchy of values. Vocabularies. Dictionaries. Nomenclatures. Thesauri. Homonymy. Synonymy. Uniqueness. Related. Meanings. Etymology. Semantics.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1.75,
+      "coords_3d": {
+        "x": 55,
+        "y": 60,
+        "z": -55
+      }
+    },
+    {
+      "id": 21,
+      "label": "LOG",
+      "name_ca": "Racionalisme",
+      "name_en": "Logic",
+      "description_ca": "Regles de la raó. Deducció. Matemàtica. Expressió formal no contradictòria. Fórmula. Càlcul. Quantitat. Algoritme. Inducció. Deducció. Derivació. Inferència. Equivalència. Igualtat. Isomorfisme. Parla o llenguatge ideal. Deducció: Parteix de lo general IDE per treure conclusió específica i necessària.",
+      "description_en": "Rules of reason. Deduction. Mathematics. Non-contradictory formal expression. Mathematics. Formula. Calculation. Quantity. Algorithm. Induction. Deduction. Derivation. Inference. Equivalence. Equality. Isomorphism. Ideal speech or language.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1.75,
+      "coords_3d": {
+        "x": 55,
+        "y": 60,
+        "z": 55
+      }
+    },
+    {
+      "id": 27,
+      "label": "MIS",
+      "name_ca": "Misticisme",
+      "name_en": "Mysticism",
+      "description_ca": "L’imperiència espiritual de la realitat transcendent. Amor subjectiu. Èxtasi. Misteri. Contemplació. Impuls dionisíac. Misteris iniciàtics. Indicibilitat.Inefabilitat. Sacralitat. Mistagògies. Parapsicologia. Fetilleria. Bruixeria. Nit de l’esperit. Unió transformant. Desposori i matrimoniespiritual. Possessió divina o diabòlica.",
+      "description_en": "Spiritual experience of transcendent reality. Subjective love. Ecstasy. Mystery. Contemplation. Dionysian impulse. Initiatory mysteries. Unspeakability. Ineffability. Sacredness. Mystagogies. Parapsychology. Witchcraft. Witchery. Night of the spirit. Transforming union. Spiritual betrothal and marriage. Divine or diabolical possession.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1.75,
+      "coords_3d": {
+        "x": -55,
+        "y": -60,
+        "z": -55
+      }
+    },
+    {
+      "id": 28,
+      "label": "MIT",
+      "name_ca": "Misticisme",
+      "name_en": "Mythic",
+      "description_ca": "Expressió o deliri espiritual lliure. Relat transcendent. Veu de l’ànima del ’univers. Deliri. Heroïcitat. Epopeia. Litúrgia. Jerarquia. Celebració. Festa.Carnaval. Profecia. “La festa dels boigs”. Do de llengües. L’imaginari. Cultes. Ritus.",
+      "description_en": "Expression or free spiritual delirium. Transcendent narrative. Voice of the soul of the universe. Delirium. Heroism. Epic. Liturgy. Hierarchy. Celebration. Party. Carnival. Prophecy. The feast of fools. Gift of tongues. The imaginary. Cults. Rites.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1.75,
+      "coords_3d": {
+        "x": -55,
+        "y": 60,
+        "z": -55
+      }
+    },
+    {
+      "id": 20,
+      "label": "MTF",
+      "name_ca": "Estructuralisme",
+      "name_en": "Metaphysics",
+      "description_ca": "Causa profunda i essència de cada cosa. Allò que creiem que són els éssers. El plus que el tot afegeix a la suma de les parts. Essència Fe en la realitat de les coses. Creure que les coses són. Ontologia. Gestalt. El ser dels ens. Realitat particular, singular. Substància individual. “El quid de les coses”. Espècie. Individu. Totalització d’un complex. Cosa en si. Realisme. Equilibri cibernètic. Massa en repòs. Emergències. Principi de causalitat. Metafísica crítica o metafísica trascendental (Kant). Més que intentar conèixer l’essència última de la realitat (NOU) de forma especulativa (com feia la metafísica tradicional), Kant proposa una metafísica objectiva que investiga les estructures mentals i els principis que permeten la comprensió de la realitat.",
+      "description_en": "Deep cause and essence of everything. What we believe beings are. The plus that the whole adds to the sum of the parts. Essence. Faith in the reality of things. Believing that things are. Ontology. The being of beings. Particular, singular reality. Individual substance. The quid of things. Species. Individual. Totalization of a complex. Thing in itself. Realism. Cybernetic balance. Resting mass. Emergencies. Principle of causality.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1.75,
+      "coords_3d": {
+        "x": 70,
+        "y": 0,
+        "z": -70
+      }
+    },
+    {
+      "id": 19,
+      "label": "MTP",
+      "name_ca": "Metapsíquisme",
+      "name_en": "Metapsychics",
+      "description_ca": "METAPSÍQUICA. Consciència (subconscient, superconscient, transconscient). Esperit. Ànima. Animisme. El misteriós món de l’Esperit i dels esperits”. “Fecundació entre esperits” Meditació. Dhyana (Raja-Ioga). Il·luminació. Nom propi. Llibertat d’esperit. Holicitat (Ken Wilber). Immortalitat. La meva (nostra) ànima. Ànimes bessones. El meu (nostre) esperit. Concòrdia (ECU). La meva (nostra) consciència. Esperança (MIT). Carisma (GEN). Vocació (GEN). Crida. Resposta. Compromís (MON). Desposoris espirituals. Lliurament. Vot. Ofrena. Negació del jo. Possessió divina, angèlica o diabòlica. Espiritisme. Mèdium. Vivències litúrgiques. “Fenòmens” i estats místics, èxtasi (MIS). Pregària. Oració. Cos místic. Sacralitat. Santedat. Principi d'holicitat. Cada part és un tot independent que forma part d'un tot més gran. La transcendència és degut a que el tot és més que la suma de les seves parts, donant lloc a l'emergència de noves propietats.",
+      "description_en": "The mysterious world of the Spirit and spirits. Fecundation between spirits. Spirit. Soul. Animism. Consciousness. Subconscious. Superconscious. Transconscious. Ecstasy. Meditation. Dhyana (Raja-Yoga). Enlightenment. Proper name. Freedom of spirit. Holistic (Ken Wilber). Immortality. My (our) soul. Twin souls. My (our) spirit. Concord. My (our) conscience. Hope. Charisma. Vocation. Call. Response. Commitment. Spiritual betrothal. Surrender. Vow. Offering. Self-denial. Divine, angelic, or diabolical possession. Spiritualism. Medium. Liturgical experiences. Mystical phenomena and states. Prayer. Oration. Mystical body. Sacredness. Holiness.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1.75,
+      "coords_3d": {
+        "x": -70,
+        "y": 0,
+        "z": -70
+      }
+    },
+    {
+      "id": 24,
+      "label": "PSI",
+      "name_ca": "Existencialisme",
+      "name_en": "Psychic",
+      "description_ca": "L’experiència íntima de la realitat quotidiana. “Jocs de conjunt de vivències interiors”. Sensibilitat. Vivències. Intuïcions. Afectes. Sensacions. Volicions. Percepcions. Imatges, Pensaments. Sentiments. Decisions. Accions. Records. Educació. Introspecció. Joc. Temprança / disbauxa. Drames reals, novel·lescs, cinematogràfics. “Si us plau”. Interioritat. Intimitat.",
+      "description_en": "The intimate experience of everyday reality. Games of sets of inner experiences. Sensitivity. Experiences. Intuitions. Affections. Sensations. Volitions. Perceptions. Images. Thoughts. Feelings. Decisions. Actions. Memories. Education. Introspection. Play. Temperance / debauchery. Real, novelistic, cinematic dramas. Please. Interiority. Intimacy.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1.75,
+      "coords_3d": {
+        "x": -55,
+        "y": -60,
+        "z": 55
+      }
+    },
+    {
+      "id": 22,
+      "label": "TEC",
+      "name_ca": "Pragmatisme",
+      "name_en": "Technique",
+      "description_ca": "Procediment. Eina. Condicions d’ús de les eines. Habilitat professional. Eficiència. “Lleis de conjunts d’utilitat física”. Física. Regla. Mètode.Màquina. Eina. Experiment. Repetició. Protocol. Pragmatisme. “Realisme”. Trucs. Estratagemes. Artesania. Ofici. Indústria. Disciplines. Informàtica. Electrònica.",
+      "description_en": "Procedure. Tool. Conditions of use of tools. Professional skill. Efficiency. Laws of sets of physical utility. Physics. Rule. Method. Machine. Tool. Experiment. Repetition. Protocol. Pragmatism. Realism. Tricks. Stratagems. Craftsmanship. Trade. Industry. Disciplines. Computing. Electronics.",
+      "type": "Neutral",
+      "axis": null,
+      "generation": 1.75,
+      "coords_3d": {
+        "x": 55,
+        "y": -60,
+        "z": 55
+      }
+    },
+    {
+      "id": 1,
+      "label": "PLA",
+      "name_ca": "Plasma",
+      "name_en": "Plasma",
+      "description_ca": "El replegament radical i absolut de la realitat. L’univers al seu origen i a la seva fi. Naixement i mort de l’univers. Apte per a ser modelat. Estendre una capa fina. Allò que omple la buidor bàsica. Continent de tota consciència. Substància bàsica de l’univers. Infinit potencial Atzar confinat Indeterminació akàixica Involució Voltant replegat Simulació Virtualitat Potencialitat Foscor Implicació Opacitat Naixement de l’univers, que el refreda, i mort de l’univers, que l’escalfa. Conté tota essència, tota consciència i tota felicitat. Història filosòfica: Radicalitat. Alfa i omega. Principi i fi. Big-bang. / ¿Big-Crunsh? Virtualitat. Implicatio, complicatio (Nicolau de Cusa). Opacitat. Fonament. Lloc “ciclònic”. Compressió. Forat blanc → / Forat negre ←. Evolució → / Involució ←. Llum. Emergència (J. S. Mill, C. Lloyd Morgan, S. Alexander). Etern retorn (Heràclit, G. Gamow). Genuïnitat. Originalitat. Causa eficient física. Escatologia. Potència. Interior “ple” de les partícules reals. Allò que omple la buidor bàsica. Involucionat. Singularitat física. Neguentropia. Afins:Llavor. Radicalitat. Alfa i omega. Principi i fi. Big-bang. / ¿Big-Crunsh? Realitat virtual. Involució. Opacitat. Fonament. Forat blanc → / Forat negre ←. Llum. Genuïnitat. Originalitat. Origen. Arrel. Germen. Pinyol. Salut radical. Mort real. Allò que omple la buidor bàsica. Caos fecund. L’Ou primigeni. Gènesi. Singularitat inicial i final. Llavor radical, origen i fi replegat de tot, previ i simultani al temps històric, que ho desplega tot, i simultani i posterior a l’antitemps històric, que ho replega tot. Conté tota essència, tota consciència i tota felicitat. Allunyat de la nostra vida mundana corrent, es fa difícil de comprendre i, no obstant això, és la realitat primera de la qual és fet tot, espiritual i material, abstracte i concret, profund i aparent. És la “substància” bàsica de tot allò que som. És la llavor original de tot desenvolupament mundà. Estem acostumats a una vida grollera, de gran soroll, on les realitats elementals són formades de milions d’elements més petits. El Plasma és el regnat de la subtilesa, basada en el silenci, en l’atenció, en la contemplació i experimentació afinades de la realitat. Si venim del món físic, el Plasma és la causa i la fi de l’aparició d’un quantum d’“Acció” de llum. Tot l’univers físic és llum lliure o llum “enrotllada”, que és la matèria microfísica a l’entorn de microforats negres. Si venim del món psíquic, el Plasma és la causa i la fi de la formació d’un quantum de “Passió”. L’entusiasme i la ira neixen d’un aparent i insignificant moviment vivencial que torba la nostra estabilitat i serenitat interior micropsíquica. Si venim del món ètic però, el Plasma és la causa i la fi del fonament d’un quantum d’equilibri dinàmic (“Àpeiron”). L’acció compensada per la retroacció són l’expressió d’una unitat elemental d’elasticitat objectiva microètica. Si pel contrari venim del món místic, el Plasma és la causa i la fi del fonament d’un quantum akàixic (“Akaixa”) confiança elemental, enmig de la inseguretat general, de la realitat micromística. Si venim del món lògic, el Plasma és la causa i la fi de la formació d’un quantum lògic, lliscament (absurd) elemental entre el “si” d’una cosa i el seu “no” (Micrològica o Microdialèctica). Si venim del món estètic, el Plasma és la causa i la fi de l’aparició d’un quantum gloriós. Com un camp magnètic salta en un angle d’una conducció elèctrica, salta la glòria elemental entre els dos termes d’una metàfora. Si venim del món de les idees, el Plasma és la causa i la fi del primer principi, del “perquè” elemental. En cada pensament lúcid esclata el quantum d’un “ah, sí!” o “era això!”. Si venim del món mític, el Plasma és la causa i la fi del quantum de providència. Sempre i en cada moment hi ha una “mare” que no ens deixa caure. Tota llavor té un úter matern, sóc feliç!. Abans de tot desenvolupament, després de tot desenvolupament hi ha el fetus, la llavor, el sement, el germen de tota la realitat, on aquesta es reclou en sístole meravellosa. Realitat sempre sorprenent per original i final. Segons l’origen. Segons la fi. Sense això, la resta, el gran desplegament és vanitat de vanitats i tot vanitat, mundanitat sense fonament. Tot neix de l’origen. Tot torna a l’origen. Tot viu de l’original. Cal experimentar en qualsevol moment (“kata-plasma”) aquesta realitat radical en tota la seva simplicitat i saber-ne sortir (“ana-plasma”) per a recórrer les diferents vies del món. En el model, només a 18o de radi de Plasma, hi ha l’esfera de la “Llum” que l’envolta completament. Sobre la llum microfísica s’ha escrit molt. Hi ha tanmateix “llum” microètica, micropsíquica i micromística. Parlem-ne succintament, sobretot de la darrera. Permeteu-me de citar un text de Mircea Elíade, a Mefistófeles y el andrógino, Guadarrama, Madrid, 1969, pàg.61, sobre la circulació de la llum interior en el taoisme: “És especialment l’experiència de la llum interior la que ens interessa. ¿Com ha estat valorada aquesta experiència en el medis taoistes? Cal observar que aquestes tècniques no impliquen l’ajuda, ni tan sols la presència d’una divinitat [macromítica]. La “Llum” resideix d’una faisó natural en l’interior de l’home, en el seu cor. Arribem a desvetllar- la i a posar-la en circulació per un procés de cosmofisiologia mística. Dit d’una altra manera: el secret de la vida i de la immortalitat del cos està inscrit en l’estructura mateixa del cosmos i, en conseqüència, igualment en l’estructura del microcosmos que és tot ser humà. L’accent recau aquí sobre la pràctica, no sobre el coneixement metafísic o la contemplació mística [macromística]. Però, per al taoisme, la pràctica és en si mateixa un misteri, talment que no es tracta ací d’esforç, de voluntat, ni de tècnica, en el sentit profà del terme, ans la recuperació de l’espontaneïtat primordial, perduda després d’un llarg procés de civilització; del redescobriment de la saviesa natural, tot valorant l’instint com allò que podria anomenar-se la ‘simpatia mística’, mercès a la qual, la saviesa reanima inconscientment, en el més profund del seu ser, l’harmonia dels ritmes còsmics”. 0.- El plasma quàntic zero fonamental. 1.- El plasma quàntic u per a la radiació: el fotó. 2.- El plasma quàntic dos per als leptons i quarks: ±W, Z. 3.- El plasma quàntic tres per als hadrons: els gluons. 4.- El plasma quàntic quatre per als nuclis: els mesons. 5.- El plasma quàntic cinc per als àtoms: els orbitals atòmics. 6.- El plasma quàntic sis per a les molècules: orbitals moleculars. 7.- El plasma quàntic set per a les cèl·lules: espiral cromosòmica. 8.- El plasma quàntic vuit per als metazous: zona reticular neuronal. 9.- El plasma quàntic nou per a les societats: comunitat ressonant.",
+      "description_en": "Seed. The radical and absolute retraction of reality. Initial and final singularity. The universe withdrawn to its origin and its end. Birth of the universe, cooling it down, and death of the universe, heating it up. Contains all essence, all consciousness, and all happiness. Radicalism. Genesis. Alpha and omega. Beginning and end. Big-bang. / ¿Big-Crunsh? Virtual reality. Involution. Opacity. Foundation. White hole / Black hole. Light. Genuineness. Origin. Originality. Root. Germ. Kernel. Radical health. Real death. Fecund chaos. The primordial Egg.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0,
+      "coords_3d": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "id": 48,
+      "label": "ACC",
+      "name_ca": "Acció",
+      "name_en": "Action",
+      "description_ca": "“Moviment desordenat, flexible i inútil de la realitat concreta exterior”. “Espai x temps x força” (h de Planck). Empenta. Automatisme. Iniciativa. Panenergetisme. Activitat. Màxim Agència. esforç. Acció absoluta. Facècia. Gesta. Aventura. Viatge. Exploració. Tècnica plàsmica.",
+      "description_en": "Disordered, flexible, and useless movement of external concrete reality. Space x time x force (h of Planck). Drive. Automatism. Initiative. Panenergetism. Activity. Maximal Agency. Effort. Absolute action. Facet. Feat. Adventure. Journey. Exploration. Plasmic technique.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": 27,
+        "y": -30,
+        "z": 27
+      }
+    },
+    {
+      "id": 53,
+      "label": "AKA",
+      "name_ca": "Akaixa",
+      "name_en": "Akasha",
+      "description_ca": "“Fusió de tota experiència transcendent en la matriu de tots els esperits”. “Estat general subjectiu vibrant amb pèrdua de la consciència particular”.Fusió. Mística de la matèria. Mística plàsmica.Matriu universal mística. “Aigües primordials”.",
+      "description_en": "Fusion of all transcendent experience in the matrix of all spirits. General subjective state vibrating with the loss of particular consciousness. Fusion. Mysticism of matter. Plasmic mysticism. Universal mystical matrix. Primordial waters.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": -27,
+        "y": -30,
+        "z": -27
+      }
+    },
+    {
+      "id": 51,
+      "label": "APE",
+      "name_ca": "Àpeiron",
+      "name_en": "Apeiron",
+      "description_ca": "“Moviment inexorablement desordenat de la realitat concreta”. “Realitat bàsica indefinida, sense límits ni llei”. “Pasta subquàntica imprevisible”. Pasta primordial. “Tot us és permès” (Pau). “Tot lliga amb tot”. “Prostitució universal” (A. Breton). No-violència. Ahimsa (sànscr.). Home de frontera. Transmoralitat. Penetrabilitat bosònica de la matèria. Ètica plàsmica. Anarquisme. L'Apeiron permet la interacció entre elements, gràcies a la seva estructura interna, o essència, aquesta permet un alt grau de llibertat que permet l'adaptació, i l'autoconstrucció d'elements. Penetrabilitat Conductivitat Traspassabilitat",
+      "description_en": "Inexorably disordered movement of concrete reality. Basic indefinite reality, without limits or law. Subquantum primordial paste. Everything is permitted (Paul). Everything connects with everything. Universal prostitution (A. Breton). Non-violence. Ahimsa (sanscr.). Border man. Transmorality. Bosonic penetrability of matter. Plasmic ethics. Anarchism.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": 27,
+        "y": -30,
+        "z": -27
+      }
+    },
+    {
+      "id": 52,
+      "label": "ARK",
+      "name_ca": "Arkhé",
+      "name_en": "Arche",
+      "description_ca": "“Origen de l’univers”. “Els quatre o cinc elements fonamentals”. “La idea primera; la llavor mental; la intenció fosca original”. Principis. Cosmogonies. Elements fonamentals (pre- socr.). Yin yang (xin.) . Quintaessència. Arcà. Misteri de fe. Primers principis. “L’ou primordial”. Causa primera i última. Idea innata. Innatisme. Invenció. Creació. Emanació. Originalitat. Veritats eternes. Axiomes. Ciència infusa. Etimologia. Arqueologia. Variables ocultes. Ideica plàsmica. Regla 110. (sistema universal Steven Wolfram)",
+      "description_en": "Origin of the universe. The four or five fundamental elements. The first idea, the original dark intention. Principles. Cosmogonies. Fundamental elements (pre-Socr.). Yin yang (Chin.) . Quintessence. Arcane. Mystery of faith. First principles. The primordial egg. First and last cause. Innate idea. Innatism. Invention. Creation. Emanation. Originality. Eternal truths. Axioms. Infused science. Etymology. Archaeology. Hidden variables. Plasmic idea.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": 27,
+        "y": 30,
+        "z": -27
+      }
+    },
+    {
+      "id": 31,
+      "label": "ATZ",
+      "name_ca": "Nominalisme",
+      "name_en": "Chance",
+      "description_ca": "Imprevisibilitat. Seguretat de la inseguretat. Confusió essencial. Entropia. Soroll inevitable (en la informació). Caos degut a la llibertat. Fatal confusió dels fets ara i aquí. Sort imprevisible. Casualitat. Fet fortuït incontrolable. Caos radical. Caos quàntic. Aparent casualitat. Causalitat ignorada. Font d'ignorància. Inici de jocs.",
+      "description_en": "Unpredictability. Security of insecurity. Essential confusion. Entropy. Inevitable noise (in information). Chaos due to freedom. Fatal confusion of facts here and now. Unpredictable fate. Chance. Fortuitous uncontrollable fact. Radical chaos. Quantum chaos.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": 0,
+        "y": 0,
+        "z": 50
+      }
+    },
+    {
+      "id": 34,
+      "label": "BOS",
+      "name_ca": "Bosó",
+      "name_en": "Boson",
+      "description_ca": "Les estructures bàsiques vibrants estacionàries, interpenetrables. artícula elemental. Bosó (partícula). Àtom. Mònada. Quantum (Planck). Fenòmens ondulatoris i vibratoris. Làser. Matèria de llum. Cos espiritual.",
+      "description_en": "Basic vibrating stationary structures. Elementary particle. Boson (particle). Atom. Monad. Quantum (Planck). Wave and vibratory phenomena. Laser. Light matter. Spiritual body.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": 50,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "id": 29,
+      "label": "CAS",
+      "name_ca": "Caos",
+      "name_en": "Chaos",
+      "description_ca": "Bell desordre fecund. Pràctica amb tota la seva complexitat, en estat seminal. Univers concret replegat. Estat de confusió de l’univers inicial i final. Microcosmos",
+      "description_en": "Beautiful fecund disorder. Practice with all its complexity, in a seminal state. Concrete folded universe. State of confusion of the initial and final universe. Microcosm.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": 0,
+        "y": -50,
+        "z": 0
+      }
+    },
+    {
+      "id": 30,
+      "label": "CAV",
+      "name_ca": "Nihilisme",
+      "name_en": "Chaos vision",
+      "description_ca": "La visió abstracta de la realitat replegada en estat seminal. Confusió mental fecunda. Visió del plasma. Enigma universal. Esoterisme. Ocultisme. Hermetisme.",
+      "description_en": "The abstract view of reality folded in a seminal state. Fecund mental confusion. Plasma view. Universal enigma. Esotericism. Occultism. Hermeticism.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": 0,
+        "y": 50,
+        "z": 0
+      }
+    },
+    {
+      "id": 32,
+      "label": "CNF",
+      "name_ca": "Confinament",
+      "name_en": "Confinement",
+      "description_ca": "El misteri ocult de la realitat transcendent. Obligació de residir en cert lloc, dintre d&rsquo;uns límits, en llibertat, però sota vigilància. Tancament. Implosió, remolí. Quark. Clausura. Reclusió. Membrana. Closca. Límit. Vel. Foscor. Dificultat. Destí. Fonamentalisme. Prohibició. Presó. Segrest. Dominació. Protecció. Casa. Matriu. Ocultació. Ocultisme. Secret.",
+      "description_en": "The hidden mystery of transcendent reality. Obligation to reside in a certain place, within limits, in freedom, but under surveillance. Confinement. Implosion, vortex. Quark. Enclosure. Reclusion. Membrane. Shell. Limit. Veil. Darkness. Difficulty. Destiny. Fundamentalism. Prohibition. Prison. Kidnapping. Domination. Protection. House. Matrix. Hiding. Occultism. Secret.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": 0,
+        "y": 0,
+        "z": -50
+      }
+    },
+    {
+      "id": 39,
+      "label": "EBR",
+      "name_ca": "Epicureisme",
+      "name_en": "Inebriation",
+      "description_ca": "Plaer / dolor. “Torbació o alienació de l’ànim pel plaer / dolor”. Plaer. Ebrietat. Excés. Rauxa. Atordiment. Bon vivant. Sensualisme. Gormanderia. Gust físic. Erotisme.“Viatge”. “Restar penjat”. Sadisme / masoquisme. Vici.Sibaritisme. Refinament. Hedonisme.Luxe. Disbauxa / temprança. Luxúria.",
+      "description_en": "Pleasure / pain. Agitation or alienation of the soul by pleasure/pain. Pleasure. Inebriation. Excess. Frenzy. Daze. Bon vivant. Sensualism. Gluttony. Taste. Eroticism. Journey. Hanging out. Sadism / masochism. Vice. Sybaritism. Refinement. Hedonism. Luxury. Debauchery / temperance. Lust.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": -38,
+        "y": -29,
+        "z": 0
+      }
+    },
+    {
+      "id": 33,
+      "label": "FEL",
+      "name_ca": "Antirealisme",
+      "name_en": "Happiness",
+      "description_ca": "FELICITAT. Estat intern del subjecte. Positiu: Estat de gràcia del subjecte. Joia. Bonhomia. Ananda (sànscr.). Benhaurança profunda. Confiança (MIS). Encantament. (GLO). Goig. (EBR). Satisfacció. (EBR). Festa. (ECU). Placidesa, serenor (MTP). Esperança (MIT). Negatiu: En relació a OBJ: Tristesa / depressió (pèrdua). Por / terror / pànic (amenaça). Esglai. Espant / Ensurt (sorpresa). Fàstic / horror (rebuig) (PSI). Desconfiança (MIS). Desesperança (MIT).",
+      "description_en": "My inner joy/sadness. State of grace of the subject. Joy/sadness. Confidence/distrust. Good-naturedness. Ananda (Hindu). Enchantment. Fear. Dread. Joy. Festivity. Serenity/panic. Joy/terror. Panic terror. Fear of God. Beatitude/horror. Calmness/fright. Satisfaction.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": -50,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "id": 40,
+      "label": "FOL",
+      "name_ca": "Follia",
+      "name_en": "Madness",
+      "description_ca": "Enteniment exaltat fora mida. “Ment que està més enllà de les convencions i obligacions”.Bogeria. Extravagància. Absurd. Mania. Paroxisme. Al·lucinació. Exaltació. Eufòria.",
+      "description_en": "Exalted understanding out of measure. Mind that is beyond conventions and obligations. Madness. Extravagance. Absurdity. Mania. Paroxysm. Hallucination. Exaltation. Euphoria.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": -38,
+        "y": 29,
+        "z": 0
+      }
+    },
+    {
+      "id": 49,
+      "label": "GLO",
+      "name_ca": "Glòria",
+      "name_en": "Glory",
+      "description_ca": "Encant imaginari que sembla sortir de tota cosa reeixida. “Esclat nascut de la perfecció bàsica de la innocència, de la santedat, del geni”. Encant. Esclat. Atracció estètica. Aura. Refinament. Desimboltura. Sibaritisme. Dandisme. Altivesa. Bledania. Gallardia. Esponera. Cos celestial (I C 15, 40). Cos radiant. Cos espiritual (I C 15, 44). Cos de llum, de tenebres. Cos gloriós (Fil 3, 21). Home celestial (I C 15, 49). Resplendor de la glòria (He 1, 3). La glòria del cel. Ufana. Seducció. Honor. Fama. Estètica plàsmica. Descripció per categories pròximes: Símptoma indescriptible d'exaltació de la bellesa que ens encanta, transfigura i ens fa estar bé. Antiterme: ECL (acció transformadora i gloriosa). Corol·lari: Tota acció o cosa tocada per la glòria causa una transformació profunda d'allò real.",
+      "description_en": "Burst born of the basic perfection of innocence, holiness, genius. Imaginary charm that seems to come from everything successful. Charm. Burst. Aesthetic attraction. Aura. Refinement. Nonchalance. Sybaritism. Dandyism. Loftiness. Self-indulgence. Boldness. Splendor. Celestial body (1 C 15, 40). Radiant body. Spiritual body (1 C 15, 44). Glorious body (Phil 3, 21). Celestial man (1 C 15, 49). Radiance of glory (He 1, 3). The glory of heaven. Pride. Seduction. Honor. Fame. Plasmic aesthetics.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": -27,
+        "y": 30,
+        "z": 27
+      }
+    },
+    {
+      "id": 47,
+      "label": "IDT",
+      "name_ca": "Indeterminació",
+      "name_en": "Indeterminacy",
+      "description_ca": "“Expressió microfísica amb imprecisió radical científica”. Incertesa. Borrositat. Implícit. Desordre. Principis de no identitat, de contradicció i de terç inclòs (Stefan Lupasco). Infinit. Imprevisibilitat. Infinitèssim. Incondicionat. Il·limitat. Indefinició. Incognoscible. Interpretació de Copenhaguen. Lògica plàsmica. Dubte.",
+      "description_en": "Microphysical expression with radical scientific imprecision. Uncertainty. Blurriness. Implicit. Disorder. Principles of non-identity, contradiction, and included third (Stefan Lupasco). Infinite. Unpredictability. Infinitesimal. Unconditioned. Unlimited. Indefinition. Unknowable. Copenhagen interpretation. Plasmic logic. Doubt.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": 27,
+        "y": 30,
+        "z": 27
+      }
+    },
+    {
+      "id": 46,
+      "label": "LET",
+      "name_ca": "Letàrgia",
+      "name_en": "Lethargy",
+      "description_ca": "Ruminating rest of the spirit. State of fainting or suspension of the use of senses, activity, and faculties of the soul. Sleep. Peace of spirit. Impassibility. Inert state. Indifference. Internal recovery. Catalepsy. Sleep. Hypnosis. Narcosis. Narcolepsy. Numbness. Sleeping genius. Awakening. Silence. Fasting. Abstinence. Continence. Chastity. No desire. Dissolution of higher selves. Absence.",
+      "description_en": "Ruminating rest of the spirit. State of fainting or suspension of the use of senses, activity, and faculties of the soul. Sleep. Peace of spirit. Impassibility. Inert state. Indifference. Internal recovery. Catalepsy. Sleep. Hypnosis. Narcosis. Narcolepsy. Numbness. Sleeping genius. Awakening. Silence. Fasting. Abstinence. Continence. Chastity. No desire. Dissolution of higher selves. Absence.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": -35,
+        "y": 0,
+        "z": -35
+      }
+    },
+    {
+      "id": 38,
+      "label": "MGM",
+      "name_ca": "Magma",
+      "name_en": "Magma",
+      "description_ca": "La força bullent que està en el cor de tots els éssers. L’amor en l’estat de màxima confusió. Realitat transcendent en estat plàsmic. Orgia. Ebullició. Infern. Avern.",
+      "description_en": "The boiling force at the heart of all beings. Love in the state of maximum confusion. Transcendent reality in a plasmic state. Orgy. Boiling. Hell. Avernus.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": 0,
+        "y": -30,
+        "z": -40
+      }
+    },
+    {
+      "id": 43,
+      "label": "ONA",
+      "name_ca": "Ona",
+      "name_en": "Wave",
+      "description_ca": "Moviment i exercici oscil·latori de la realitat elàstica fonamental. Forma especial del moviment vibratori. Vibració. Mecànica ondulatòria. Microfísica. (Equació d’ona de Schrödinger, fórmula del camp unitari). Ona de probabilitat. Imprevisió. Llei estadística. Ones entretingudes o estacionàries. Efectes plasmàtics. (Causes ORG)",
+      "description_en": "Oscillatory movement and exercise of fundamental elastic reality. Special form of vibratory movement. Vibration. Wave mechanics. Microphysics (Schrödinger wave equation, unified field formula). Probability wave. Unpredictability. Statistical law. Interfered or standing waves.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": 35,
+        "y": 0,
+        "z": 35
+      }
+    },
+    {
+      "id": 45,
+      "label": "ORG",
+      "name_ca": "Orgó",
+      "name_en": "Orgone",
+      "description_ca": "La llavor virtual impulsora de l’ésser. “La força vital de les llavors elementals”. Energia vital universal. Llavor. Autoconstructor. Autogenerador. Autoorganitzador. Autoconvocador. Ou. Embrió. Germen. Causa. Origen. Prana (hind.). Energia orgónica. Genètica. Generació. Genealogia. Configuració. Causes (Efectes ONA)",
+      "description_en": "The virtual seed driving the being. The vital force of elemental seeds. Seed. Self-builder. Self-generator. Self-organizer. Self-convener. Egg. Embryo. Germ. Cause. Origin. Prana (Hindu). Orgone energy. Genetics. Generation. Genealogy.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": 35,
+        "y": 0,
+        "z": -35
+      }
+    },
+    {
+      "id": 50,
+      "label": "PAS",
+      "name_ca": "Passió",
+      "name_en": "Passion",
+      "description_ca": "“Moviment interior desordenat, flexible i inútil, de la realitat cocreta amorosa o violenta”. “Qualsevol afecte de l’ànim, radicalment desordenat”. “Agitació còsmica de base subjectiva”. Emoció. Ira. Odi. Concupiscència. Libido. Patiment. Apassionament. Empatia. Simpatia / antipatia.Endopatia. Passivitat. Psíquica plàsmica. Patetisme. Patologies.",
+      "description_en": "Disordered, flexible, and useless interior movement of loving or violent concrete reality. Any radically disordered affection of the soul. Cosmic agitation of subjective basis. Emotion. Anger. Hatred. Concupiscence. Libido. Suffering. Passion. Empathy. Sympathy / antipathy. Endopathy. Passivity. Plasmic psyche. Pathos. Pathologies.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": -27,
+        "y": -30,
+        "z": 27
+      }
+    },
+    {
+      "id": 36,
+      "label": "PRB",
+      "name_ca": "Probabilitat",
+      "name_en": "Probability",
+      "description_ca": "Referent a allò que té raons per a succeir. Càlcul de probabilitats. Contingència. Aproximació. Eventualitat. Estimació. Versemblança. Atzar degut a la ignorància. Promig. Mitjana. Lleis probabilístiques. Estadístiques.",
+      "description_en": "Referring to what has reasons to happen. Probability calculation. Contingency. Approximation. Eventuality. Estimate. Likelihood. Chance due to ignorance. Average. Mean. Probabilistic laws. Statistics.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": 0,
+        "y": 30,
+        "z": 40
+      }
+    },
+    {
+      "id": 41,
+      "label": "PRD",
+      "name_ca": "Prodigi",
+      "name_en": "Prodigy",
+      "description_ca": "“Els poders fascinants sobre els objectes de la realitat concreta”. “Esdeveniment estrany que excedeix els límits d’allò que és natural o previsible”. Poders. Meravella. Miracle. Admiració. Taumatúrgia. Fracàs. Atzucac.",
+      "description_en": "Fascinating powers over objects of concrete reality. Strange event that exceeds the limits of what is natural or predictable. Powers. Wonder. Miracle. Admiration. Thaumaturgy. Failure. Dead end.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": 38,
+        "y": -29,
+        "z": 0
+      }
+    },
+    {
+      "id": 42,
+      "label": "RAR",
+      "name_ca": "Raresa",
+      "name_en": "Rarity",
+      "description_ca": "Allò que escapa a la definició o control dels objectes. Actuació extravagant”. “Escassetat d’alguna cosa”. Anomalia. Anormalitat. Irregularitat.Sorpresa. Estranyesa (partícula Quark). Barbaritat. Una sola vegada.Escassetat. Excentricitat. Marginalitat Reminiscència. Excepció.",
+      "description_en": "What escapes the definition or control of objects. Extravagant performance. Scarcity of something. Anomaly. Abnormality. Irregularity. Surprise. Strangeness (quark particle). Barbarity. Once. Scarcity. Eccentricity. Marginality. Reminiscence. Exception.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": 38,
+        "y": 29,
+        "z": 0
+      }
+    },
+    {
+      "id": 37,
+      "label": "SLM",
+      "name_ca": "Sublimitat",
+      "name_en": "Sublimity",
+      "description_ca": "Revelació de la perfecció. “Que ateny un grau de bellesa, veritat o bondat insuperables”: Ideal. Altesa. Excel·lència. Eminència. Excelsitud. Olimp. Magnificència. Sobirania. Superioritat. Adoració. Lloança. Supèrbia. Orgull. Júpiter - Zeus. Preeminència. “El tercer cel”, Santedat.Bellesa suprema. Martiri.",
+      "description_en": "Revelation of perfection. Attaining a degree of insuperable beauty, truth, or goodness: Ideal. Loftiness. Excellence. Eminence. Excelsitude. Olympus. Magnificence. Sovereignty. Superiority. Adoration. Praise. Pride. Zeus. Preeminence. The third heaven. Holiness. Supreme beauty. Martyrdom.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": 0,
+        "y": 30,
+        "z": -40
+      }
+    },
+    {
+      "id": 54,
+      "label": "TIA",
+      "name_ca": "Tiàmat",
+      "name_en": "Tiamat",
+      "description_ca": "La Mare universal que ens abraça i ens manté. “El mite ancestral de la Mare de(ls) Déu(s), dels humans, de la vida i de les coses”. Providència. Mare universal ideal. Principi femení. Confiança cega. “Les Aigües Primordials” (Babilònia). No preocupació. No error. Predestinació. Caovisióespiritual. Mítica plàsmica.",
+      "description_en": "The Universal Mother who embraces and sustains us. The ancestral myth of the Mother of gods, humans, life, and things. Providence. Ideal universal mother. Feminine principle. Blind trust. The Primordial Waters (Babylon). No concern. No error. Predestination. Spiritual vision. Plasmic myth.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": -27,
+        "y": 30,
+        "z": -27
+      }
+    },
+    {
+      "id": 35,
+      "label": "TRB",
+      "name_ca": "Turbulència",
+      "name_en": "Turbulence",
+      "description_ca": "La confusió pràctica de l’ampla realitat concreta. Enterboliment de les coses per la barreja amb altre coses. Agitació. Pressa. Tumult. Aldarull. Avalot. Torbació. Pertorbació. Crisi. Inseguretat.",
+      "description_en": "Practical confusion of the broad concrete reality. Obfuscation of things by mixing with other things. Agitation. Rush. Tumult. Riot. Turmoil. Disturbance. Crisis. Insecurity.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": 0,
+        "y": -30,
+        "z": 40
+      }
+    },
+    {
+      "id": 44,
+      "label": "TRS",
+      "name_ca": "Trànsit",
+      "name_en": "Transit",
+      "description_ca": "\"Estat interior excitat del geni fecund\". \"Estat de suspensió dels sentits usuals durant una sessió mística, hipnòtica, espiritista, inspirada\". Inspiració.. Mèdium. Accés. Histèria. Eufòria. Aura epilèptica. Somnambulisme. Escriptura automàtica. \"La mà de Déu\". \"La veu de Déu\".\"Home de Déu\".",
+      "description_en": "Excited interior state of the fecund genius. State of suspension of usual senses during a mystical, hypnotic, spiritualist, inspired session. Inspiration. Medium. Access. History. Euphoria. Epileptic aura. Somnambulism. Automatic writing. The hand of God. The voice of God. Man of God.",
+      "type": "Plasmàtica",
+      "axis": null,
+      "generation": 0.5,
+      "coords_3d": {
+        "x": -35,
+        "y": 0,
+        "z": 35
+      }
+    }
+  ]
+}

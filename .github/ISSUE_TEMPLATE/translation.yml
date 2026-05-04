@@ -1,0 +1,48 @@
+name: Translation proposal
+description: Propose a translation of canonical labels or methodology documents
+title: "[Translation] "
+labels: ["translation"]
+body:
+  - type: dropdown
+    id: language
+    attributes:
+      label: Target language
+      options:
+        - Spanish (ES)
+        - French (FR)
+        - German (DE)
+        - Italian (IT)
+        - Portuguese (PT)
+        - Mandarin (ZH)
+        - Arabic (AR)
+        - Japanese (JA)
+        - Hindi (HI)
+        - Other (specify in description)
+    validations:
+      required: true
+  - type: dropdown
+    id: scope
+    attributes:
+      label: Scope
+      options:
+        - README
+        - Manifesto
+        - Paper
+        - Methodology document(s)
+        - Category labels (categories.json `name_*` fields)
+        - Category descriptions
+        - Multiple — please specify
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale
+      description: Why this language? What community will benefit? Are you a native or near-native speaker?
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Translation notes
+      description: Any concerns about preserving dialectical structure, untranslatable terms, etc.

@@ -1,0 +1,52 @@
+name: New thematized frame (N2) proposal
+description: Propose a new thematized frame applying N1 axes to a specific domain
+title: "[N2 Frame] "
+labels: ["n2-frame", "needs-review"]
+body:
+  - type: input
+    id: domain
+    attributes:
+      label: Domain name
+      placeholder: e.g. "Architecture", "Music theory", "Conflict resolution"
+    validations:
+      required: true
+  - type: textarea
+    id: card-a
+    attributes:
+      label: "Card A — Source attribution (Xirinacs / canonical sources)"
+      description: |
+        Which existing literature in the field provides the dialectical content?
+        Which authors / texts ground the polarities you propose?
+    validations:
+      required: true
+  - type: textarea
+    id: card-b
+    attributes:
+      label: "Card B — Meta-Globàlium structural mapping"
+      description: |
+        How does each N1 axis (D1: OBJ/SUB, D2: TEO/PRA, D3: NOU/FEN, D4: PLA/MON)
+        map to the domain? Provide the polar pair for each axis with brief justification.
+    validations:
+      required: true
+  - type: textarea
+    id: dialectical-coherence
+    attributes:
+      label: Dialectical coherence check
+      description: |
+        For each axis, demonstrate that the proposed polarity holds genuine tension
+        (not just word substitution). Show one example concept that lives at each pole.
+    validations:
+      required: true
+  - type: checkboxes
+    id: protocol
+    attributes:
+      label: Protocol N2 checklist (see methodology/protocol-N2.md)
+      options:
+        - label: I have read methodology/protocol-N2.md
+          required: true
+        - label: I have provided both Card A and Card B
+          required: true
+        - label: I have demonstrated dialectical coherence on each axis
+          required: true
+        - label: I have cross-checked against existing frames in canonical-mappings.md
+          required: true
