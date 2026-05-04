@@ -1,5 +1,7 @@
 # The 6 maximal cycles (voltes)
 
+> **Terminology note**: the published paper uses **Turn** as the English term (Application Turn, Orientation Turn, Knowledge Turn). This repository uses **Cycle** as the primary English term for clarity, with the canonical Catalan name *(Volta)* retained where appropriate. The two terms are interchangeable.
+
 > **Provenance**: this content describes the **Globàlium ontology** — six great-circle trajectories on the hypersphere documented by Berenguer in the *Globalística* book (forthcoming, §6.3) as part of the Globàlium tradition. The **Meta-Globàlium** contribution is the **operationalization**: using cycle selection as a strategy of the structural verifier (last section).
 
 The Globàlium model is structured by **six maximal great-circles** (*voltes*) that traverse the hypersphere. Each cycle visits a specific subset of cardinal poles and embodies a particular kind of structured deliberation. Together, the 6 cycles cover the full operational repertoire of the model.
@@ -11,11 +13,11 @@ The Globàlium model is structured by **six maximal great-circles** (*voltes*) t
 | 1 | **Method Cycle** *(Application Cycle)* | Volta de Mètode / Volta d'Aplicació | vertical: NOU-FEN × TEO-PRA | think and do well | PRA → EXP → FEN → ANA → TEO → SIN → NOU → AMO → PRA |
 | 2 | **Knowledge Cycle** | Volta de Coneixement | horizontal: SUB-OBJ × MTP-CIE | acquire knowledge / self-knowledge | SUB → MTP → NOU → MTF → OBJ → CIE → FEN → ART → SUB |
 | 3 | **Relation Cycle** | Volta de Relació | transversal: NOU-FEN × PLA-MON | orient oneself / find meaning | PLA → CNF → NOU → CMN → MON → EXC → FEN → ATZ → PLA |
-| 4 | **Revelation Cycle** | Volta de Revelació | circumdant: addressors STM/SGE/SGT/STT | resolve conflicts | SUB → STM → PRA → SGE → OBJ → SGT → TEO → STT → SUB |
+| 4 | **Orientation Cycle** | Volta de Revelació | circumdant: addressors STM/SGE/SGT/STT | resolve conflicts | SUB → STM → PRA → SGE → OBJ → SGT → TEO → STT → SUB |
 | 5 | **Universal Cycle** | Volta Universal | TEO-PRA × PLA-MON | synthesize / cosmovision | PLA → CAS → PRA → COS → MON → COV → TEO → CAV → PLA |
 | 6 | **Consistency Cycle** | Volta de Consistència | lateral: SUB-OBJ × PLA-MON | quality / bond / personality | PLA → FEL → SUB → INT → MON → AFI → OBJ → BOS → PLA |
 
-The first three (Method, Knowledge, Relation) are the **basic cycles** — they cycle through the 8 cardinal poles. The last three (Revelation, Universal, Consistency) are **radial cycles** — they traverse the PLA-MON axis (*tempeternitat*).
+The first three (Method, Knowledge, Orientation) are the **basic cycles** — they cycle through the 8 cardinal poles without traversing PLA/MON. The last three (Relation, Universal, Consistency) are **radial cycles** — they traverse the PLA-MON axis (*tempeternitat*).
 
 ## Detail by cycle
 
@@ -51,7 +53,7 @@ See [`../methodology/metode-global.md`](../methodology/metode-global.md) for ful
 - **Suitable for**: existential, relational, situational questions
 - **Canonical questions**: *"What is my relation to X?"*, *"How do I situate myself in this situation?"*
 
-### 4. Revelation Cycle *(Volta de Revelació)*
+### 4. Orientation Cycle *(Volta de Revelació)*
 
 - **Topology**: lateral circle through the four addressors STM, STT, SGT, SGE
 - **Purpose**: resolve conflicts, reveal versions of reality, find personal direction
@@ -97,7 +99,7 @@ The Meta-Globàlium contribution to the 6 cycles is the **selection mechanism**:
 | *How / what method?* | Method (1) | analytic-practical |
 | *What is X? / How do I know?* | Knowledge (2) | epistemic |
 | *Where do I stand? / How relate?* | Relation (3) | existential-relational |
-| *What do I feel/want/commit?* | Revelation (4) | orientational |
+| *What do I feel/want/commit?* | Orientation (4) | orientational |
 | *What is reality?* | Universal (5) | cosmovisional |
 | *Who am I being?* | Consistency (6) | identity / persistence |
 
@@ -107,7 +109,7 @@ The current implementation of Arkadium (see [paper §9](../paper/paper.en.md)) e
 
 The verifier 𝓗(r) (see [`../methodology/verifier-spec.md`](../methodology/verifier-spec.md)) evaluates coverage over the 8 stations of the **active** cycle. Selecting the wrong cycle produces:
 
-- **False positives**: a response is judged complete because it visits the 8 stations of an irrelevant cycle (e.g., a question about meaning is answered using the Method Cycle, missing the addressor stations of the Revelation Cycle)
+- **False positives**: a response is judged complete because it visits the 8 stations of an irrelevant cycle (e.g., a question about meaning is answered using the Method Cycle, missing the addressor stations of the Orientation Cycle)
 - **False negatives**: a response is judged incomplete because the cycle's stations don't match the question
 
 Cycle selection is therefore an integral part of the verifier's correct operation — not an optional preprocessing step.
@@ -120,7 +122,7 @@ Cycle selection is therefore an integral part of the verifier's correct operatio
 
 ## See also
 
-- [`8-central-categories.md`](8-central-categories.md) — the 8 secondary mediators that anchor the Method and Revelation cycles
+- [`8-central-categories.md`](8-central-categories.md) — the 8 secondary mediators that anchor the Method and Orientation cycles
 - [`12-disciplines.md`](12-disciplines.md) — the 12 disciplines, anchors of the Knowledge cycle
 - [`80-categories.md`](80-categories.md) — full canonical listing including the cycle station categories (CNF, CMN, EXC, ATZ, CAS, COS, COV, CAV, FEL, INT, AFI, BOS)
 - [`principles-and-operations.md`](principles-and-operations.md) — the 6 axiomatic principles, 8 operations, 4 disciplinary dialectics

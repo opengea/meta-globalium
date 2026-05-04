@@ -10,7 +10,7 @@ They form **two groups of four**, each describing a circular trajectory (*volta*
 | Group | Trajectory | Categories | Role |
 |-------|-----------|------------|------|
 | **Application Cycle** *(Volta d'Aplicació)* | vertical meridian (x = 0) connecting TEO/PRA × FEN/NOU | ANA · SIN · AMO · EXP | the four phases of the **Mètode Global** — analysis, synthesis, love, experience |
-| **Revelation Cycle** *(Volta de Revelació)* | lateral meridian (z = 0) connecting SUB/OBJ × TEO/PRA | STT · STM · SGT · SGE | the four ***adreçadors*** (addressors) — sense, feeling, meaning, sign |
+| **Orientation Cycle** *(Volta de Revelació)* | lateral meridian (z = 0) connecting SUB/OBJ × TEO/PRA | STT · STM · SGT · SGE | the four ***adreçadors*** (addressors) — sense, feeling, meaning, sign |
 
 Each cycle visits 4 cardinal axis poles + 4 secondary mediators, forming an 8-point loop. See [`../methodology/metode-global.md`](../methodology/metode-global.md) for the full account of the Mètode Global cycle.
 
@@ -53,7 +53,7 @@ Good. The full internal freedom of all transcendent concrete reality. Universal 
 
 Situation. Direct observation. Work. Strength and Challenge of each concrete event.
 
-## Revelation Cycle *(Volta de Revelació)* — the four addressors
+## Orientation Cycle *(Volta de Revelació)* — the four addressors
 
 **Trajectory**: STM → STT → SGT → SGE (then back to STM via the cardinal poles SUB-TEO-OBJ-PRA).
 
@@ -103,7 +103,7 @@ Within each volta, the 4 categories form 2 dialectical pairs (opposite corners o
 | **ANA** *(Analysis)* | ↔ **AMO** *(Love)* | y/z diagonal | OBJ-distinction vs SUB-care; theoretical vs practical |
 | **SIN** *(Synthesis)* | ↔ **EXP** *(Experience)* | y/z diagonal | OBJ-articulation vs SUB-living; theoretical vs practical |
 
-### Revelation Cycle pairs
+### Orientation Cycle pairs
 
 | | dialectical opposite | shared axis | difference |
 |---|---|---|---|

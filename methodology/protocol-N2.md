@@ -89,7 +89,7 @@ Each pair of opposites must **be verbalisable as a productive tension** in the s
 
 12. **Disciplinaries as bridges**, not as a list. Each disciplinary connects 2 cardinals (in the cube's geometry) and must be verbalisable as *bridge between X and Y*. Document this explicitly at the MON-anchor.
 
-13. **Mediators as methodic operators**. The 8 mediators articulate 3 cycles (Method ANA→SIN→AMO→EXP, Revelation, Interpretation) — not a "flat taxonomy", but *how one operates within the domain*.
+13. **Mediators as methodic operators**. The 8 mediators articulate 3 cycles (Method ANA→SIN→AMO→EXP, Orientation, Knowledge) — not a "flat taxonomy", but *how one operates within the domain*.
 
 ## E. Operational process
 

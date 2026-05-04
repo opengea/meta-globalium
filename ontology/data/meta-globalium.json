@@ -4,7 +4,7 @@
   "license": "CC BY-SA 4.0",
   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
   "source_repository": "https://github.com/opengea/meta-globalium",
-  "description": "The Meta-Globàlium proper: the structural layer added by Berenguer/Opengea (2023-2026) on top of the inherited Globàlium ontology. Contains the 6 axiomatic principles, 8 mathematical operations, 4 disciplinary dialectics, and the 6 maximal cycles (voltes). Cross-references categories.json for the inherited Globàlium category vocabulary.",
+  "description": "The Meta-Globàlium proper: the structural layer added by Berenguer/Opengea (2023-2026) on top of the inherited Globàlium ontology. Contains the 6 axiomatic principles, 8 mathematical operations, 8 maximal dialectics (4 disciplinary vertex-to-vertex + 4 operational/addressor edge-to-edge), and the 6 maximal cycles (voltes). Total: 14 structural elements (6 principles + 8 maximal dialectics). Cross-references categories.json for the inherited Globàlium category vocabulary.",
   "depends_on": "categories.json",
   "documentation": {
     "principles": "../principles-and-operations.md",
@@ -223,6 +223,49 @@
       "verifier_use": "Detect collapse to pure psychic interactivity or pure ideational regulation"
     }
   ],
+  "operational_addressor_dialectics": [
+    {
+      "id": "ANA_SIN",
+      "poles": ["ANA", "SIN"],
+      "tension_en": "analysis ↔ synthesis",
+      "tension_ca": "anàlisi ↔ síntesi",
+      "geometry": "edge-to-edge mediator pair on the Method-cycle equatorial meridian",
+      "kind": "operational",
+      "verifier_use": "Detect responses that decompose without integrating, or integrate without distinguishing"
+    },
+    {
+      "id": "AMO_EXP",
+      "poles": ["AMO", "EXP"],
+      "tension_en": "love ↔ experience",
+      "tension_ca": "amor ↔ experiència",
+      "geometry": "edge-to-edge mediator pair on the Method-cycle equatorial meridian",
+      "kind": "operational",
+      "verifier_use": "Detect responses that commit without testing in the world, or experience without commitment"
+    },
+    {
+      "id": "STM_SGE",
+      "poles": ["STM", "SGE"],
+      "tension_en": "feeling ↔ sign",
+      "tension_ca": "sentiment ↔ signe",
+      "geometry": "edge-to-edge addressor pair on the Orientation-cycle lateral meridian",
+      "kind": "addressor",
+      "verifier_use": "Detect responses that are pure feeling without representational anchoring, or pure sign without affective grounding"
+    },
+    {
+      "id": "SGT_STT",
+      "poles": ["SGT", "STT"],
+      "tension_en": "meaning ↔ sense",
+      "tension_ca": "significat ↔ sentit",
+      "geometry": "edge-to-edge addressor pair on the Orientation-cycle lateral meridian",
+      "kind": "addressor",
+      "verifier_use": "Detect responses that fix meaning without interpretive sense, or interpret without anchoring meaning"
+    }
+  ],
+  "maximal_dialectics_summary": {
+    "total": 8,
+    "vertex_to_vertex_disciplinary": ["LOG_MIS", "TEC_MIT", "EST_ETI", "PSI_IDE"],
+    "edge_to_edge_operational_addressor": ["ANA_SIN", "AMO_EXP", "STM_SGE", "SGT_STT"]
+  },
   "cycles": [
     {
       "id": 1,
@@ -295,7 +338,8 @@
     },
     {
       "id": 4,
-      "name_en": "Revelation Cycle",
+      "name_en": "Orientation Cycle",
+      "name_en_alternate": "Revelation Cycle (legacy) / Orientation Turn (paper)",
       "name_ca_canonical": "Volta de Revelació",
       "topology": "lateral: addressors STM-STT-SGT-SGE",
       "purpose_en": "resolve conflicts / find personal direction",
@@ -378,7 +422,7 @@
       "method_question": "Method Cycle",
       "epistemic_question": "Knowledge Cycle",
       "existential_question": "Relation Cycle",
-      "orientational_question": "Revelation Cycle",
+      "orientational_question": "Orientation Cycle",
       "cosmological_question": "Universal Cycle",
       "identity_question": "Consistency Cycle"
     }
@@ -386,11 +430,15 @@
   "structural_count": {
     "principles": 6,
     "operations": 8,
-    "disciplinary_dialectics": 4,
+    "disciplinary_dialectics_vertex_to_vertex": 4,
+    "operational_addressor_dialectics_edge_to_edge": 4,
+    "maximal_dialectics_total": 8,
     "cycles": 6,
-    "total_meta_globalium_elements": "10 (6 principles + 4 disciplinary dialectics) anchored to 8 operations and animated by 6 cycles"
+    "total_meta_globalium_elements": "14 structural elements (6 principles + 8 maximal dialectics) anchored to 8 operations and animated by 6 cycles"
   },
   "changelog": {
+    "1.0.1": "Aligned with paper §4.4: 14 structural elements (6 principles + 8 maximal dialectics, of which 4 vertex-to-vertex disciplinary + 4 edge-to-edge operational/addressor). Renamed Revelation Cycle → Orientation Cycle (Volta de Revelació in Catalan).",
     "1.0.0": "Initial machine-readable export of the Meta-Globàlium structural layer."
-  }
+  },
+  "version": "1.0.1"
 }

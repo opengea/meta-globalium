@@ -3,9 +3,9 @@
 > **Provenance**: this content is part of the **Meta-Globàlium proper** — the new structural layer (Berenguer / Opengea, 2023–2026) added on top of the inherited Globàlium ontology. It is the original contribution of this work.
 
 
-The Meta-Globàlium is structurally articulated around **10 elements**: **6 axiomatic principles**, **8 mathematical operations**, and **4 disciplinary dialectics**. Together they exhaustively cover the classes of geometric relations of the Neutral cube (3 cardinal axes + 2 face diagonals + 1 radial + 4 body diagonals).
+The Meta-Globàlium is structurally articulated around **14 elements**: **6 axiomatic principles** + **8 maximal dialectics**. The 8 maximal dialectics divide into two geometric families: **4 vertex-to-vertex disciplinary dialectics** (body diagonals) and **4 edge-to-edge operational/addressor dialectics** (mediator pairs). Together with the **8 mathematical operations** that anchor the principles to specific cube positions, these elements exhaustively cover the classes of geometric relations of the Neutral cube (3 cardinal axes + 2 face diagonals + 1 radial + 4 body diagonals + 4 edge diameters).
 
-These three layers are not independent: the **operations** are the canonical mathematical primitives; the **principles** are how those operations cluster into axiomatic statements about reality; the **disciplinary dialectics** are structural consequences that the verifier uses to audit responses against disciplinary bias.
+These layers are not independent: the **operations** are the canonical mathematical primitives; the **principles** are how those operations cluster into axiomatic statements about reality; the **maximal dialectics** are structural consequences that the verifier uses to audit responses against disciplinary, operational, and orientational bias.
 
 ## The 8 mathematical operations
 
@@ -53,9 +53,11 @@ Each principle anchors a structural degree of freedom of the cube and pairs an o
 - **Principle 4 (Totality)** operates as a **meta-principle**: it organizes the two families (unifying vs dividing) at the macro level — the totality is what holds them in tension across the entire structure.
 - **Principle 1 (Regenerativity)** animates the whole vertically along the radial PLA-MON axis (*tempeternitat*) — the cycle that allows the structure to reproduce itself across time and atemporality.
 
-## The 4 disciplinary dialectics
+## The 8 maximal dialectics
 
-Four maximal dialectics emerge along the **body diagonals** of the Neutral cube — Xirinacs's *distance-4* relations (*Globalística*, §dist-4). They are **not new axioms**, but **structural consequences** that the verifier uses as patterns of disciplinary auditing.
+Eight maximal dialectics emerge across the Neutral cube — pairs of points opposed by central inversion through the cube centre, the *distance-4* dialectics in Xirinacs's sense (*Globalística*, §dist-4). They are **not new axioms**, but **structural consequences** of the cube that the verifier uses as auditing patterns. They divide into two geometric families.
+
+### 4 vertex-to-vertex (disciplinary) dialectics — body diagonals
 
 | Dialectic | Disciplinary poles | Classical tension | Source |
 |-----------|---------------------|-------------------|--------|
@@ -64,17 +66,26 @@ Four maximal dialectics emerge along the **body diagonals** of the Neutral cube 
 | **EST ↔ ETI** | informality ↔ reciprocity | *Kalós* ↔ *agathós* | Classical tradition |
 | **PSI ↔ IDE** | interactivity ↔ regulability | Hume ↔ Plato | Classical tradition |
 
-These dialectics are what allow the structural verifier to detect disciplinary bias: a response that is all TEC without MIT, or all LOG without MIS, is flagged as collapsed along its disciplinary diagonal.
+### 4 edge-to-edge (operational and addressor) dialectics — mediator pairs
+
+| Dialectic | Operational poles | Function |
+|-----------|--------------------|----------|
+| **ANA ↔ SIN** | analysis ↔ synthesis | the two analytic/synthetic phases of the Method cycle on the equatorial meridian |
+| **AMO ↔ EXP** | love ↔ experience | the two committal/practical phases of the Method cycle on the equatorial meridian |
+| **STM ↔ SGE** | feeling ↔ sign | two of the four addressors on the lateral meridian (Orientation Cycle) |
+| **SGT ↔ STT** | meaning ↔ sense | two of the four addressors on the lateral meridian (Orientation Cycle) |
+
+These dialectics are what allow the structural verifier to detect bias: a response that is all TEC without MIT, all LOG without MIS, all ANA without SIN, or all STM without SGE, is flagged as collapsed along that diagonal.
 
 ## Consequences for the structural verifier
 
-The dispersed completeness function 𝓗(r) (see [`../methodology/verifier-spec.md`](../methodology/verifier-spec.md)) evaluates responses against:
+The dispersion completeness function 𝓗(r) (see [`../methodology/verifier-spec.md`](../methodology/verifier-spec.md)) evaluates responses against:
 
 1. **Coverage of the 6 principles' poles** (axiomatic)
-2. **No disciplinary concentration**: a response entirely on one side of one of the 4 disciplinary dialectics is flagged as biased
+2. **No concentration on a single pole** of any of the 8 maximal dialectics (4 disciplinary + 4 operational/addressor)
 3. **Operational completeness**: structurally relevant operations are visited, not collapsed
 
-Total: **10 structural elements** that exhaustively cover the classes of geometric relations of the Neutral cube — 3 cardinal axes (D1, D2, D3) + 2 face diagonals (MTF-ART, MTP-CIE) + 1 radial (PLA-MON) + 4 body diagonals (the 4 disciplinary dialectics).
+Total: **14 structural elements** that exhaustively cover the classes of geometric relations of the Neutral cube — 6 principles (3 cardinal axes + 2 face diagonals + 1 radial) + 8 maximal dialectics (4 vertex-to-vertex body diagonals + 4 edge-to-edge mediator pairs).
 
 ## Note on the divergence with *Globalística* (book)
 
