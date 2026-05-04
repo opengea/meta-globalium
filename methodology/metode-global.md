@@ -4,29 +4,49 @@
 
 The Global Method is the **process** of structured reasoning the Meta-Globàlium proposes. It is not a list of steps to follow rigidly; it is a cycle that any thorough deliberation passes through, often iteratively. The method is what gives the model its operational dimension — without a method, the geometry would be static.
 
-The four phases map onto the four reflective axes (see [`../ontology/4-axes.md`](../ontology/4-axes.md)).
+The four phases sit at four corners of the Cartesian skeleton (see [`../ontology/4-axes.md`](../ontology/4-axes.md) and [`../ontology/8-root-categories.md`](../ontology/8-root-categories.md)).
+
+## The eight-point trajectory
+
+The four phases lie on a circular trajectory across the Meta-Globàlium hypersphere. **Between each pair of phases, the trajectory passes through an axial mediator** — a cardinal pole that joins them:
+
+```
+ANA  →  TEO  →  SIN  →  NOU  →  AMO  →  PRA  →  EXP  →  FEN  →  (ANA)
+phase   axis    phase   axis    phase   axis    phase   axis
+```
+
+| # | Point | Kind | Role |
+|---|-------|------|------|
+| 1 | **ANA** | phase (corner OBJ+TEO+NOU) | Analysis: distinguish parts |
+| 2 | **TEO** | axial mediator (D2-) | Theoretical bridge from analysis to synthesis |
+| 3 | **SIN** | phase (corner OBJ+TEO+FEN) | Synthesis: relate parts |
+| 4 | **NOU** | axial mediator (D3-) | Noumenal bridge from synthesis to commitment |
+| 5 | **AMO** | phase (corner SUB+PRA+NOU) | Love: plan of action |
+| 6 | **PRA** | axial mediator (D2+) | Practical bridge from plan to execution |
+| 7 | **EXP** | phase (corner SUB+PRA+FEN) | Experience: implementation |
+| 8 | **FEN** | axial mediator (D3+) | Phenomenal bridge from experience back to analysis |
+
+The four phases (ANA, SIN, AMO, EXP) are root categories — corners of the Cartesian skeleton. The four mediators (TEO, NOU, PRA, FEN) are cardinal axis-poles the trajectory passes through. The Globalística book calls this the **Volta d'Aplicació** (Application Loop) — one of three basic *voltes* in the Meta-Globàlium.
 
 ## The four phases
 
 ### 1. ANA — *Analysis* (determination of parts)
 
-**Axis**: D3- (NOU, *noumenon*) — looking into what something *is*, distinguishing its components.
-
 In ANA, we break the question into its parts. We list what is at stake, what categories are touched, what dimensions are involved. We resist the temptation to answer too soon. The discipline of ANA is **distinguishing without yet relating**.
 
 In an AI system: ANA is the retrieval phase. Vector search over the 80 categories. Identification of the relevant axes. The answer is not yet attempted — only the field is mapped.
 
-### 2. SIN — *Synthesis* (determination of relations)
+→ Trajectory then passes through **TEO** (theoretical bridge) toward SIN.
 
-**Axis**: D2- (TEO, *theory*) — articulating how the parts hold together, building a coherent account.
+### 2. SIN — *Synthesis* (determination of relations)
 
 In SIN, we relate the parts identified in ANA. We ask: what are the dialectical tensions here? What axis (or axes) is the question really about? Which poles are in play, and which are at risk of being collapsed?
 
 In an AI system: SIN is the structural validation phase. Coherence checking against the global geometry. Identification of dimensional collapse risks (blind spots).
 
-### 3. AMO — *Love* (plan of action)
+→ Trajectory then passes through **NOU** (noumenal bridge) toward AMO.
 
-**Axis**: D1+ (SUB, *subject*) — the irreducibly subjective decision of orientation.
+### 3. AMO — *Love* (plan of action)
 
 In AMO, we choose. The analysis and synthesis don't determine the answer — they prepare the ground for a decision that must be made by a *subject*. AMO is the moment of care: what is the plan that respects the dimensions identified, that does not collapse what should not be collapsed, that takes responsibility?
 
@@ -34,13 +54,15 @@ The choice of *Love* (rather than "decision" or "judgment") is intentional. AMO 
 
 In an AI system: AMO is the generation phase. The LLM produces an answer that is structurally validated and explicitly oriented (not value-neutral). The system prompt makes the orientation transparent and revisable.
 
-### 4. EXP — *Experience* (implementation)
+→ Trajectory then passes through **PRA** (practical bridge) toward EXP.
 
-**Axis**: D2+ (PRA, *practice*) — putting the plan into the world, observing its effects.
+### 4. EXP — *Experience* (implementation)
 
 In EXP, the plan is enacted and the world responds. EXP is what closes the loop: the world's response feeds back into the next ANA. Without EXP, the method is sterile — pure deliberation without consequence.
 
 In an AI system: EXP is the user-facing response and the feedback loop. The user reads the answer, interacts with it, gives feedback (explicit or implicit). The trace of the conversation enters the system's memory and shapes the next cycle.
+
+→ Trajectory then passes through **FEN** (phenomenal bridge) back to ANA, closing the loop.
 
 ## The cycle is iterative
 
