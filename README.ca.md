@@ -2,6 +2,7 @@
 
 > Una geometria del pensament humà — un model ontològic obert per ancorar la intel·ligència artificial a una estructura verificable de significat.
 
+[![DOI](https://zenodo.org/badge/1228699410.svg)](https://doi.org/10.5281/zenodo.20024451)
 [![Llicència: CC BY-SA 4.0](https://img.shields.io/badge/Llic%C3%A8ncia-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Manifest](https://img.shields.io/badge/Manifest-arkadium.ai-5b3d2e)](https://arkadium.ai/manifest/)
 [![Paper](https://img.shields.io/badge/Paper-arkadium.ai-5b3d2e)](https://arkadium.ai/papers/arkadium/ca/)
@@ -28,9 +29,13 @@ La intuïció no és nova. De les rodes combinatòries de Ramon Llull (s. XIII) 
 
 ## Com citar
 
-Si fas servir el Meta-Globàlium en recerca, programari o docència, cita'l. Vegeu [`CITATION.cff`](CITATION.cff). En text pla:
+Si fas servir el Meta-Globàlium en recerca, programari o docència, cita'l. Vegeu [`CITATION.cff`](CITATION.cff).
 
-> Berenguer, J. (2026). *Meta-Globàlium: una geometria del pensament per a la verificació estructural del judici en sistemes d'IA*. Opengea SCCL. https://github.com/opengea/meta-globalium
+**Concept DOI** (sempre apunta a l'última versió):
+
+> Berenguer, J., Rubinat-Ripoll, L., & Monras Vidiella, F. (2026). *Meta-Globàlium: una geometria del pensament per a la verificació estructural del judici en sistemes d'IA*. Opengea SCCL. https://doi.org/10.5281/zenodo.20024451
+
+**Version DOI** (versió específica v1.0.0): https://doi.org/10.5281/zenodo.20024452
 
 ---
 

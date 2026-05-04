@@ -2,6 +2,7 @@
 
 > A geometry of human thought — an open ontological model for anchoring artificial intelligence to a verifiable structure of meaning.
 
+[![DOI](https://zenodo.org/badge/1228699410.svg)](https://doi.org/10.5281/zenodo.20024451)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Manifesto](https://img.shields.io/badge/Manifesto-arkadium.ai-5b3d2e)](https://arkadium.ai/manifest/en/)
 [![Paper](https://img.shields.io/badge/Paper-arkadium.ai-5b3d2e)](https://arkadium.ai/papers/arkadium/en/)
@@ -88,11 +89,17 @@ meta-globalium/
 
 ## How to cite
 
-If you use the Meta-Globàlium in research, software, or teaching, please cite it. See [`CITATION.cff`](CITATION.cff) for machine-readable citation. Plain text:
+If you use the Meta-Globàlium in research, software, or teaching, please cite it. See [`CITATION.cff`](CITATION.cff) for machine-readable citation.
 
-> Berenguer, J. (2026). *Meta-Globàlium: a geometry of thought for structural verification of AI judgment*. Opengea SCCL. https://github.com/opengea/meta-globalium
+**Concept DOI** (always points to the latest version — preferred for general citation):
 
-A formal academic paper (with DOI via Zenodo) is in preparation.
+> Berenguer, J., Rubinat-Ripoll, L., & Monras Vidiella, F. (2026). *Meta-Globàlium: a geometry of thought for structural verification of AI judgment*. Opengea SCCL. https://doi.org/10.5281/zenodo.20024451
+
+**Version DOI** (this specific release v1.0.0 — for reproducibility):
+
+> https://doi.org/10.5281/zenodo.20024452
+
+The accompanying academic paper is published at [arkadium.ai/papers/arkadium/en/](https://arkadium.ai/papers/arkadium/en/).
 
 ---
 

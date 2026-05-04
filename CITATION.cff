@@ -18,6 +18,14 @@ url: "https://arkadium.ai"
 version: 1.0.0
 date-released: 2026-05-04
 license: CC-BY-SA-4.0
+doi: 10.5281/zenodo.20024451
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20024451
+    description: "Concept DOI (always resolves to the latest version)"
+  - type: doi
+    value: 10.5281/zenodo.20024452
+    description: "Version DOI for v1.0.0"
 keywords:
   - ontology
   - knowledge representation
