@@ -39,7 +39,7 @@ Si fas servir el Meta-Globàlium en recerca, programari o docència, cita'l. Veg
 - **Contingut** (markdown, dades de l'ontologia, especificacions metodològiques): [CC BY-SA 4.0](LICENSE) — ús comercial i no comercial permès, atribució i compartir-igual obligatoris.
 - **Codi** (parsers, scripts, exportadors, quan s'incloguin): [Apache License 2.0](LICENSE-CODE)
 
-El [Globàlium · petit manual](https://data.opengea.org/recursos/globalium-petit-manual) (Berenguer 2024) és CC BY-NC-ND 4.0 i **no** s'inclou aquí — es referencia com a font pedagògica externa.
+El [Globàlium · petit manual](https://arkadium.ai/documents/globalium-petit-manual/ca/) (Berenguer 2024) és CC BY-NC-ND 4.0 i **no** s'inclou aquí — es referencia com a font pedagògica externa.
 
 ---
 
@@ -60,7 +60,7 @@ El model és **revisable, obert al diàleg amb altres tradicions**, i el seu val
 
 - **Arkadium** — l'agent IA neuro-simbòlic ancorat al Meta-Globàlium: [arkadium.ai](https://arkadium.ai)
 - **Opengea SCCL** — la cooperativa: [opengea.org](https://www.opengea.org)
-- **Tallers Globàlium** — [data.opengea.org/recursos/globalium-petit-manual](https://data.opengea.org/recursos/globalium-petit-manual)
+- **Tallers Globàlium** — [arkadium.ai/documents/globalium-petit-manual/ca/](https://arkadium.ai/documents/globalium-petit-manual/ca/)
 
 ---
 
