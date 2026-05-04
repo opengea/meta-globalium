@@ -21,7 +21,7 @@ Categories at the inner sphere (radius 0–50) — atemporal, foundational expre
 
 ### **PLA** — Plasma *(CA: Plasma)* · coords (x,y,z) = (0, 0, 0)
 
-Seed. The radical and absolute retraction of reality. Initial and final singularity. The universe withdrawn to its origin and its end. Birth of the universe, cooling it down, and death of the universe, heating it up. Contains all essence, all consciousness, and all happiness. Radicalism. Genesis. Alpha and omega. Beginning and end. Big-bang. / ¿Big-Crunsh? Virtual reality.
+Seed. The radical and absolute retraction of reality. Initial and final singularity. The universe withdrawn to its origin and its end. Birth of the universe, cooling it down, and death of the universe, heating it up. Contains all essence, all consciousness, and all happiness. Radicalism. Genesis. Alpha and omega. Beginning and end. Big-bang. / ¿Big-Crunsh? Virtual reality. Involution. Opacity.
 
 ### **ACC** — Action *(CA: Acció)* · coords (x,y,z) = (27, -30, 27)
 
@@ -37,9 +37,9 @@ Inexorably disordered movement of concrete reality. Basic indefinite reality, wi
 
 ### **ARK** — Arche *(CA: Arkhé)* · coords (x,y,z) = (27, 30, -27)
 
-Origin of the universe. The four or five fundamental elements. The first idea, the original dark intention. Principles. Cosmogonies. Fundamental elements (pre-Socr.). Yin yang (Chin.) . Quintessence. Arcane. Mystery of faith. First principles. The primordial egg. First and last cause. Innate idea. Innatism. Invention. Creation. Emanation. Originality. Eternal truths. Axioms.
+Origin of the universe. The four or five fundamental elements. The first idea, the original dark intention. Principles. Cosmogonies. Fundamental elements (pre-Socr.). Yin yang (Chin.) . Quintessence. Arcane. Mystery of faith. First principles. The primordial egg. First and last cause. Innate idea. Innatism. Invention. Creation. Emanation. Originality. Eternal truths. Axioms. Infused science.
 
-### **ATZ** — Chance *(CA: Nominalisme)* · coords (x,y,z) = (0, 0, 50)
+### **ATZ** — Chance *(CA: Atzar)* · coords (x,y,z) = (0, 0, 50)
 
 Unpredictability. Security of insecurity. Essential confusion. Entropy. Inevitable noise (in information). Chaos due to freedom. Fatal confusion of facts here and now. Unpredictable fate. Chance. Fortuitous uncontrollable fact. Radical chaos. Quantum chaos.
 
@@ -51,7 +51,7 @@ Basic vibrating stationary structures. Elementary particle. Boson (particle). At
 
 Beautiful fecund disorder. Practice with all its complexity, in a seminal state. Concrete folded universe. State of confusion of the initial and final universe. Microcosm.
 
-### **CAV** — Chaos vision *(CA: Nihilisme)* · coords (x,y,z) = (0, 50, 0)
+### **CAV** — Chaos vision *(CA: Caovisió)* · coords (x,y,z) = (0, 50, 0)
 
 The abstract view of reality folded in a seminal state. Fecund mental confusion. Plasma view. Universal enigma. Esotericism. Occultism. Hermeticism.
 
@@ -59,11 +59,11 @@ The abstract view of reality folded in a seminal state. Fecund mental confusion.
 
 The hidden mystery of transcendent reality. Obligation to reside in a certain place, within limits, in freedom, but under surveillance. Confinement. Implosion, vortex. Quark. Enclosure. Reclusion. Membrane. Shell. Limit. Veil. Darkness. Difficulty. Destiny. Fundamentalism. Prohibition. Prison. Kidnapping. Domination. Protection. House. Matrix. Hiding. Occultism. Secret.
 
-### **EBR** — Inebriation *(CA: Epicureisme)* · coords (x,y,z) = (-38, -29, 0)
+### **EBR** — Inebriation *(CA: Embriaguesa)* · coords (x,y,z) = (-38, -29, 0)
 
 Pleasure / pain. Agitation or alienation of the soul by pleasure/pain. Pleasure. Inebriation. Excess. Frenzy. Daze. Bon vivant. Sensualism. Gluttony. Taste. Eroticism. Journey. Hanging out. Sadism / masochism. Vice. Sybaritism. Refinement. Hedonism. Luxury. Debauchery / temperance. Lust.
 
-### **FEL** — Happiness *(CA: Antirealisme)* · coords (x,y,z) = (-50, 0, 0)
+### **FEL** — Happiness *(CA: Felicitat)* · coords (x,y,z) = (-50, 0, 0)
 
 My inner joy/sadness. State of grace of the subject. Joy/sadness. Confidence/distrust. Good-naturedness. Ananda (Hindu). Enchantment. Fear. Dread. Joy. Festivity. Serenity/panic. Joy/terror. Panic terror. Fear of God. Beatitude/horror. Calmness/fright. Satisfaction.
 
@@ -73,7 +73,7 @@ Exalted understanding out of measure. Mind that is beyond conventions and obliga
 
 ### **GLO** — Glory *(CA: Glòria)* · coords (x,y,z) = (-27, 30, 27)
 
-Burst born of the basic perfection of innocence, holiness, genius. Imaginary charm that seems to come from everything successful. Charm. Burst. Aesthetic attraction. Aura. Refinement. Nonchalance. Sybaritism. Dandyism. Loftiness. Self-indulgence. Boldness. Splendor. Celestial body (1 C 15, 40). Radiant body. Spiritual body (1 C 15, 44). Glorious body (Phil 3, 21).
+Burst born of the basic perfection of innocence, holiness, genius. Imaginary charm that seems to come from everything successful. Charm. Burst. Aesthetic attraction. Aura. Refinement. Nonchalance. Sybaritism. Dandyism. Loftiness. Self-indulgence. Boldness. Splendor. Celestial body (1 C 15, 40). Radiant body. Spiritual body (1 C 15, 44). Glorious body (Phil 3, 21). Celestial man (1 C 15, 49).
 
 ### **IDT** — Indeterminacy *(CA: Indeterminació)* · coords (x,y,z) = (27, 30, 27)
 
@@ -81,7 +81,7 @@ Microphysical expression with radical scientific imprecision. Uncertainty. Blurr
 
 ### **LET** — Lethargy *(CA: Letàrgia)* · coords (x,y,z) = (-35, 0, -35)
 
-Ruminating rest of the spirit. State of fainting or suspension of the use of senses, activity, and faculties of the soul. Sleep. Peace of spirit. Impassibility. Inert state. Indifference. Internal recovery. Catalepsy. Sleep. Hypnosis. Narcosis. Narcolepsy. Numbness. Sleeping genius. Awakening. Silence. Fasting. Abstinence. Continence. Chastity. No desire.
+Ruminating rest of the spirit. State of fainting or suspension of the use of senses, activity, and faculties of the soul. Sleep. Peace of spirit. Impassibility. Inert state. Indifference. Internal recovery. Catalepsy. Sleep. Hypnosis. Narcosis. Narcolepsy. Numbness. Sleeping genius. Awakening. Silence. Fasting. Abstinence. Continence. Chastity. No desire. Dissolution of higher selves. Absence.
 
 ### **MGM** — Magma *(CA: Magma)* · coords (x,y,z) = (0, -30, -40)
 
@@ -135,27 +135,27 @@ Categories at the mediator sphere (radius 60–80). This layer is structured in 
 - **Tier 2 — 8 secondary mediators** (gen 1.5): ANA, SIN, AMO, EXP + STT, STM, SGE, SGT
 - **Tier 3 — 12 disciplines** (gen 1.75): CIE, ART, MTF, MTP, MIS, PSI, TEC, ETI, MIT, EST, IDE, LOG
 
-### **FEN** — Phenomenon *(CA: Fenomenalisme)* · coords (x,y,z) = (0, 0, 100)
+### **FEN** — Phenomenon *(CA: Fenomen)* · coords (x,y,z) = (0, 0, 100)
 
-Appearance. Event. Presence. Physical time. Here and now. Manifestation. Evidence. Competence. Competitiveness. Conflict. War. Multiplicity. Facts. Movement. Duality. Becoming. History. Anecdote. Leap. Change. Dialogue. Exchange. Market. Relation. Interaction. Intersubjectivity. “This – here – now – for me”. Communication. Information. Transaction. Distinction. Dissection.
+Appearance. Event. Presence. Physical time. Here and now. Manifestation. Evidence. Competence. Competitiveness. Conflict. War. Multiplicity. Facts. Movement. Duality. Becoming. History. Anecdote. Leap. Change. Dialogue. Exchange. Market. Relation. Interaction. Intersubjectivity. “This – here – now – for me”. Communication. Information. Transaction. Distinction. Dissection. Impression.
 
-### **NOU** — Noumenon *(CA: Essencialisme)* · coords (x,y,z) = (0, 0, -100)
+### **NOU** — Noumenon *(CA: Noümen)* · coords (x,y,z) = (0, 0, -100)
 
-Transcendence. Union of all. The transcendent reality, the beyond, the soul of the world. Deep and mysterious unity of the entire universe. The One. Being. Fullness. The Nothing. The foundation. Disappearance. Absence. God. Timelessness. Eternity. Synchronicity. Immutability. Mystery of life. Monism. Advaita. Tao. Contemplation. Absolute. Annihilation. Liberation/salvation.
+Transcendence. Union of all. The transcendent reality, the beyond, the soul of the world. Deep and mysterious unity of the entire universe. The One. Being. Fullness. The Nothing. The foundation. Disappearance. Absence. God. Timelessness. Eternity. Synchronicity. Immutability. Mystery of life. Monism. Advaita. Tao. Contemplation. Absolute. Annihilation. Liberation/salvation. Full consciousness.
 
-### **OBJ** — Object *(CA: Objectivisme)* · coords (x,y,z) = (100, 0, 0)
+### **OBJ** — Object *(CA: Objecte)* · coords (x,y,z) = (100, 0, 0)
 
-The permanent constant structures, material or immaterial. What remains constant and identical to itself. What is constructed. Structure. Extension. Gestalt. Complexity. Completeness. Network. Web. Texture. Text. Grid. Physical and social space. Where. Situation. Position. Location. Place. Identity. Field. Constant. Heteronomy. Alienation. Institution. Constitution. Heritage.
+The permanent constant structures, material or immaterial. What remains constant and identical to itself. What is constructed. Structure. Extension. Gestalt. Complexity. Completeness. Network. Web. Texture. Text. Grid. Physical and social space. Where. Situation. Position. Location. Place. Identity. Field. Constant. Heteronomy. Alienation. Institution. Constitution. Heritage. Body. Thing.
 
-### **PRA** — Practice *(CA: Vitalisme)* · coords (x,y,z) = (0, -100, 0)
+### **PRA** — Practice *(CA: Pràctica)* · coords (x,y,z) = (0, -100, 0)
 
 Force. Concrete, whole, and dynamic reality. Light. Energy and Matter. Authenticity. Anarchy. Intuition. Infancy/old age. Spontaneity. Wildness. Indiscernibility. Ingenuity. Naïve. Innocence of children and elders. Simplicity. Praxis (Marx). Pure pragmatics. Radicalism. Nirvana. People. Nation. Democracy. Demotics. The base. Radical simplicity of the human mind.
 
-### **SUB** — Subject *(CA: Subjectivisme)* · coords (x,y,z) = (-100, 0, 0)
+### **SUB** — Subject *(CA: Subjecte)* · coords (x,y,z) = (-100, 0, 0)
 
-I living attentively from my own center, stripped of all my identity signs. Made of deciding freely and facing the consequences. Person. Own experience. Fundamental experience. Life. Agent. I. Ego. One. Oneself. Hom. Unique. Atman (sanscr.). Subject. Solipsism. Concentration, dharana (Raja-Yoga). Lordship. Submission (oppression, repression). Emancipation. Domination.
+I living attentively from my own center, stripped of all my identity signs. Made of deciding freely and facing the consequences. Person. Own experience. Fundamental experience. Life. Agent. I. Ego. One. Oneself. Hom. Unique. Atman (sanscr.). Subject. Solipsism. Concentration, dharana (Raja-Yoga). Lordship. Submission (oppression, repression). Emancipation. Domination. Autonomy. (power).
 
-### **TEO** — Theory *(CA: Abstraccionisme)* · coords (x,y,z) = (0, 100, 0)
+### **TEO** — Theory *(CA: Teoria)* · coords (x,y,z) = (0, 100, 0)
 
 The abstract global view of reality. Speculative knowledge. Globality. Abstraction. Discernment. Pure mind. Universality. General magic. Philosophy. Ripening. Integration. Authority. Politics. Full representation. Pure understanding. Culture. Civilization. Universal language. Integral expression. Not grounded. Lives in the clouds.
 
@@ -197,11 +197,11 @@ Aesthetic rigorous treatment of changing reality (psychic, interior, and experie
 
 ### **CIE** — Science *(CA: Ciència)* · coords (x,y,z) = (70, 0, 70)
 
-Knowledge and treatment of physical reality formally and experimentally rigorous. Exact knowledge and prediction of the order of things. Objective treatment of changing reality (phenomena). Knowledge. Recognition. Expert. Enlightenment. Identification. Verification/falsification. Testing. Experimental science. Size. Measure. Metrics. Compass. Rhythm. Constants and variables.
+Knowledge and treatment of physical reality formally and experimentally rigorous. Exact knowledge and prediction of the order of things. Objective treatment of changing reality (phenomena). Knowledge. Recognition. Expert. Enlightenment. Identification. Verification/falsification. Testing. Experimental science. Size. Measure. Metrics. Compass. Rhythm. Constants and variables. Magnitude.
 
 ### **EST** — Aesthetics *(CA: Estètica)* · coords (x,y,z) = (-55, 60, 55)
 
-Figuration. Fantasy. Illusion. Imagination. Free formal expression of subjective affections. Games of sets of subjective images. Simulacrum. Prejudice. Mirage. Fallacy. Imitation. Fable. Confabulation. Configuration. Intrigue. Association. Copulation. Fiction. Sophism. Equivocation. Mistake. Dissonance. Comedy. Metaphor. Hallucination. Dreams. Lie. Deception. Mental games.
+Figuration. Fantasy. Illusion. Imagination. Free formal expression of subjective affections. Games of sets of subjective images. Simulacrum. Prejudice. Mirage. Fallacy. Imitation. Fable. Confabulation. Configuration. Intrigue. Association. Copulation. Fiction. Sophism. Equivocation. Mistake. Dissonance. Comedy. Metaphor. Hallucination. Dreams. Lie. Deception. Mental games. Jokes. Riddles.
 
 ### **ETI** — Ethics *(CA: Ètica)* · coords (x,y,z) = (55, -60, -55)
 
@@ -209,7 +209,7 @@ Common good. Transcendence that challenges the vital attitude. Objective love. R
 
 ### **IDE** — Idea *(CA: Idèica)* · coords (x,y,z) = (55, 60, -55)
 
-Structured wisdom in ideas. Categorization to understand and guide reality. Values. Concept. Being. Idea. Notion. Thought. General. Genre. Group. Dogma. Thesis / hypothesis (assumption). Conjecture. Opinion - doxa. Theme. Name. Term. Representation. Predicate. Predicable (Porphyry). Postulate. Category. Importance. Relevance. Condition. Futurible. Possibility. Question.
+Structured wisdom in ideas. Categorization to understand and guide reality. Values. Concept. Being. Idea. Notion. Thought. General. Genre. Group. Dogma. Thesis / hypothesis (assumption). Conjecture. Opinion - doxa. Theme. Name. Term. Representation. Predicate. Predicable (Porphyry). Postulate. Category. Importance. Relevance. Condition. Futurible. Possibility. Question. Purpose. Reason.
 
 ### **LOG** — Logic *(CA: Lògica)* · coords (x,y,z) = (55, 60, 55)
 
@@ -225,11 +225,11 @@ Expression or free spiritual delirium. Transcendent narrative. Voice of the soul
 
 ### **MTF** — Metaphysics *(CA: Metafísica)* · coords (x,y,z) = (70, 0, -70)
 
-Deep cause and essence of everything. What we believe beings are. The plus that the whole adds to the sum of the parts. Essence. Faith in the reality of things. Believing that things are. Ontology. The being of beings. Particular, singular reality. Individual substance. The quid of things. Species. Individual. Totalization of a complex. Thing in itself. Realism.
+Deep cause and essence of everything. What we believe beings are. The plus that the whole adds to the sum of the parts. Essence. Faith in the reality of things. Believing that things are. Ontology. The being of beings. Particular, singular reality. Individual substance. The quid of things. Species. Individual. Totalization of a complex. Thing in itself. Realism. Cybernetic balance. Resting mass.
 
 ### **MTP** — Metapsychics *(CA: Metapsíquica)* · coords (x,y,z) = (-70, 0, -70)
 
-The mysterious world of the Spirit and spirits. Fecundation between spirits. Spirit. Soul. Animism. Consciousness. Subconscious. Superconscious. Transconscious. Ecstasy. Meditation. Dhyana (Raja-Yoga). Enlightenment. Proper name. Freedom of spirit. Holistic (Ken Wilber). Immortality. My (our) soul. Twin souls. My (our) spirit. Concord. My (our) conscience. Hope. Charisma.
+The mysterious world of the Spirit and spirits. Fecundation between spirits. Spirit. Soul. Animism. Consciousness. Subconscious. Superconscious. Transconscious. Ecstasy. Meditation. Dhyana (Raja-Yoga). Enlightenment. Proper name. Freedom of spirit. Holistic (Ken Wilber). Immortality. My (our) soul. Twin souls. My (our) spirit. Concord. My (our) conscience. Hope. Charisma. Vocation. Call.
 
 ### **PSI** — Psychic *(CA: Psíquica)* · coords (x,y,z) = (-55, -60, 55)
 
@@ -269,7 +269,7 @@ Attitude and adequate treatment of mood states. Sharpness of the senses. Acuity 
 
 ### **ARQ** — Archetype *(CA: Arquetip)* · coords (x,y,z) = (85, 95, -85)
 
-Systems of categories, civilization systems. Models of reality. Ancestral schemes. Systems. Theories. Cosmologies. Rules. Constitutions. Cross. Triangle. Trimurti. Circle, circularity. Mandala (Hinduism). Sphere. Hypersphere. I-Ching. Horoscope. Kabbalah. Organon (Aristotle). Ars (R. Llull). Mathesis (Descartes, Leibniz). Novum organon (F. Bacon). Tarot figures.
+Systems of categories, civilization systems. Models of reality. Ancestral schemes. Systems. Theories. Cosmologies. Rules. Constitutions. Cross. Triangle. Trimurti. Circle, circularity. Mandala (Hinduism). Sphere. Hypersphere. I-Ching. Horoscope. Kabbalah. Organon (Aristotle). Ars (R. Llull). Mathesis (Descartes, Leibniz). Novum organon (F. Bacon). Tarot figures. Architectonics.
 
 ### **AST** — Cunning *(CA: Astúcia)* · coords (x,y,z) = (-120, 90, 0)
 
@@ -279,11 +279,11 @@ Seeing or making see what suits. Skill and wit to deceive or avoid deception. Pr
 
 Cosmetics or design added to being by human inventiveness, to please. Development of the striking aspect in a person or thing. Ornament. Elegance. Style. Aesthetic distinction. Proportion. Ornament. Presumption. Decoration.
 
-### **CMN** — Communion *(CA: Universalisme)* · coords (x,y,z) = (0, 0, -155)
+### **CMN** — Communion *(CA: Comunió)* · coords (x,y,z) = (0, 0, -155)
 
 Perfect and direct communication between spirits. Participation in what is common. Mutual participation in the spiritual and material goods of a set. Openness. Surrender, self-giving. Magnanimity. Explosion. Sharing. Giving/receiving. Reception. Fraternity. Companionship. Friendship. Love. No secrets.
 
-### **CNV** — Convention *(CA: Intel·lectualisme)* · coords (x,y,z) = (120, 90, 0)
+### **CNV** — Convention *(CA: Convenció)* · coords (x,y,z) = (120, 90, 0)
 
 The pact of acceptance of the definition of objects. Agreement or meeting between people with a common interest. Convenience. Demeanor. Normality. Sobriety. Do ut des. Concordat. Pact. Agreement. Syndication. Congress. Agreement. Deal. Concert. Conviction. Persuasion. Transaction. Conjunction. Syntagma. Negotiation. Commitment. Alliance. Created interests. Conventionalism.
 
@@ -295,19 +295,19 @@ The intimate, flexible, and coordinated experience of everyday reality. Group of
 
 Beautiful and harmonious order (cosmetic). Completely unfolded concrete universe. The set of all existing things: Macrocosm. Creation.
 
-### **COV** — Cosmovision *(CA: Constructivisme)* · coords (x,y,z) = (0, 155, 0)
+### **COV** — Cosmovision *(CA: Cosmovisió)* · coords (x,y,z) = (0, 155, 0)
 
 The global abstract view of reality unfolded in the universe. Theoretical world. Worldview. Global model. General pattern. Universal paradigm. World conception.
 
 ### **DET** — Determination *(CA: Determinació)* · coords (x,y,z) = (85, 95, 85)
 
-Scientific macrophysical precision. Fixing the limits of a thing or clear order. Clarity. Logical distinction. Certainty. Tautology. Principles of identity, non-contradiction, and excluded third. Exact sciences. Security. Computability. Numerability. Order. Automation. Implication. Predictability. Prediction. Predetermination. Epiphenomenon. Self-control. Reductionism.
+Scientific macrophysical precision. Fixing the limits of a thing or clear order. Clarity. Logical distinction. Certainty. Tautology. Principles of identity, non-contradiction, and excluded third. Exact sciences. Security. Computability. Numerability. Order. Automation. Implication. Predictability. Prediction. Predetermination. Epiphenomenon. Self-control. Reductionism. Cybernetics. Scientism.
 
 ### **DIV** — Divinity *(CA: Divinitat)* · coords (x,y,z) = (-85, 95, -85)
 
 Civilized expressions of transcendence. Expression in images of mystical experiences. Myths. Myths of different peoples and civilizations. Theurgy. Demiurgy. Holiness. Numen. Superman. Supernatural life. Grace of God. Man of God. Theogony. Theophany. Revelation. Charisma. Diva. Hero. Deism. Spiritual worldview. Mundane myth.
 
-### **DSG** — Desire *(CA: Hedonisme)* · coords (x,y,z) = (-120, -90, 0)
+### **DSG** — Desire *(CA: Desig)* · coords (x,y,z) = (-120, -90, 0)
 
 Anguish and desire for what is not had. Movement of the soul towards the knowledge, possession, or enjoyment of something or someone. Affection. Worldly feeling. Desire. Appetite. Longing. Itch. Whim. Surprise. Illusion. Fancy. Mania. Distraction. Alienation. Hobby. Philosophy of Buddha's desire.
 
@@ -315,9 +315,9 @@ Anguish and desire for what is not had. Movement of the soul towards the knowled
 
 Inexorable order of concrete reality. Sustainability of physical and social nature balances. Solidarity. Co-responsibility. Conjoined universe. Justness. Radical order. Responsibility. Recycling. Feedback. Fermionic impenetrability. Mundane ethics.
 
-### **ECN** — Economy *(CA: Materialisme)* · coords (x,y,z) = (85, -95, 85)
+### **ECN** — Economy *(CA: Economia)* · coords (x,y,z) = (85, -95, 85)
 
-Flexible and useful order of concrete reality. Good order of the house. Good creation and fair distribution of the common good. Business. Minimum effort. Maximum result. Production. Social contract. Common social body. Trade. Mechanics. Manufacturing. Earning a living. Progress engine. Creation of surplus value or added value. For-profit / non-profit. Gains. Pragmatism.
+Flexible and useful order of concrete reality. Good order of the house. Good creation and fair distribution of the common good. Business. Minimum effort. Maximum result. Production. Social contract. Common social body. Trade. Mechanics. Manufacturing. Earning a living. Progress engine. Creation of surplus value or added value. For-profit / non-profit. Gains. Pragmatism. Efficiency. Exploitation.
 
 ### **ECU** — Ecumene *(CA: Ecumene)* · coords (x,y,z) = (-85, -95, -85)
 
@@ -327,7 +327,7 @@ The concrete experience of reality and the community of spirits. Concrete conjun
 
 Inevitable rigor of the facts here and now. Fidelity in fulfilling a duty or its execution. Verification. Occasion. Negentropy. Information. Conformity. Confirmation. Validation. Contrast. Accreditation. Justification. Punctuality. Document. Monument.
 
-### **FUN** — Function *(CA: Utilitarisme)* · coords (x,y,z) = (110, 0, 110)
+### **FUN** — Function *(CA: Funció)* · coords (x,y,z) = (110, 0, 110)
 
 Exercise and activity of organs or apparatuses of living or constructed beings, assembled. Classical mechanics. Physics. Biology. Prediction. Official. Functionality. Operation. Physiology. Macrophysical or deterministic law. Sanction.
 
@@ -335,15 +335,15 @@ Exercise and activity of organs or apparatuses of living or constructed beings, 
 
 Fecund spiritual possession. Great ingenuity with extraordinary spiritual strength capable of inventing or doing admirable things. Spiritual possession. Talent. Personality. Generativity. Creativity. Singularity. Personality. Evil angel. Enthusiasm. Efficiency. Inspiration.
 
-### **HAR** — Harmony *(CA: Taoisme)* · coords (x,y,z) = (0, 93, -123)
+### **HAR** — Harmony *(CA: Harmonia)* · coords (x,y,z) = (0, 93, -123)
 
 Ideal utopia of how reality should be. Suitable proportion and correspondence of things with others. Perfection. Heaven. Empyrean. Celestial paradise. Balance. Ideal utopia. Uranus. Exoteric doctrine.
 
-### **INT** — Intention *(CA: Voluntarisme)* · coords (x,y,z) = (-155, 0, 0)
+### **INT** — Intention *(CA: Intenció)* · coords (x,y,z) = (-155, 0, 0)
 
-My will. What I want. Determination of the will towards an end. Care. Concern. Heart restlessness. Purpose. Interest. Motivation. Suggestion. Hope. Examination of conscience. Intentionality. Eclecticism. Selection. Art of living or aesthetics of existence. Attention. Observation. Vigilance. Solicitations. Reflection. Willpower. Constancy. My resistance. Patience.
+My will. What I want. Determination of the will towards an end. Care. Concern. Heart restlessness. Purpose. Interest. Motivation. Suggestion. Hope. Examination of conscience. Intentionality. Eclecticism. Selection. Art of living or aesthetics of existence. Attention. Observation. Vigilance. Solicitations. Reflection. Willpower. Constancy. My resistance. Patience. Non-resignation. Design.
 
-### **OBL** — Obligation *(CA: Estoicisme)* · coords (x,y,z) = (120, -90, 0)
+### **OBL** — Obligation *(CA: Obligació)* · coords (x,y,z) = (120, -90, 0)
 
 The inevitable stubbornness of concrete reality. Ethical requirement that governs or limits free will. Bond that subjects to do or abstain from doing something. Coercion. Coercion. Imposition. Religion. Requirement. Karma (Hindu). Determined necessity.
 

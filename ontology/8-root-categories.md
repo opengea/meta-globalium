@@ -17,39 +17,39 @@ See [`4-axes.md`](4-axes.md) for the full account of the axes.
 
 ### D1 — Objective ↔ Subjective
 
-### **OBJ** — Object *(CA: Objectivisme)* · coords (x,y,z) = (100, 0, 0)
+### **OBJ** — Object *(CA: Objecte)* · coords (x,y,z) = (100, 0, 0)
 
-The permanent constant structures, material or immaterial. What remains constant and identical to itself. What is constructed. Structure. Extension. Gestalt. Complexity. Completeness. Network. Web. Texture. Text. Grid. Physical and social space. Where. Situation. Position. Location. Place. Identity. Field. Constant. Heteronomy. Alienation. Institution. Constitution. Heritage.
+The permanent constant structures, material or immaterial. What remains constant and identical to itself. What is constructed. Structure. Extension. Gestalt. Complexity. Completeness. Network. Web. Texture. Text. Grid. Physical and social space. Where. Situation. Position. Location. Place. Identity. Field. Constant. Heteronomy. Alienation. Institution. Constitution. Heritage. Body. Thing.
 
-### **SUB** — Subject *(CA: Subjectivisme)* · coords (x,y,z) = (-100, 0, 0)
+### **SUB** — Subject *(CA: Subjecte)* · coords (x,y,z) = (-100, 0, 0)
 
-I living attentively from my own center, stripped of all my identity signs. Made of deciding freely and facing the consequences. Person. Own experience. Fundamental experience. Life. Agent. I. Ego. One. Oneself. Hom. Unique. Atman (sanscr.). Subject. Solipsism. Concentration, dharana (Raja-Yoga). Lordship. Submission (oppression, repression). Emancipation. Domination.
+I living attentively from my own center, stripped of all my identity signs. Made of deciding freely and facing the consequences. Person. Own experience. Fundamental experience. Life. Agent. I. Ego. One. Oneself. Hom. Unique. Atman (sanscr.). Subject. Solipsism. Concentration, dharana (Raja-Yoga). Lordship. Submission (oppression, repression). Emancipation. Domination. Autonomy. (power).
 
 ### D2 — Theory ↔ Practice
 
-### **TEO** — Theory *(CA: Abstraccionisme)* · coords (x,y,z) = (0, 100, 0)
+### **TEO** — Theory *(CA: Teoria)* · coords (x,y,z) = (0, 100, 0)
 
 The abstract global view of reality. Speculative knowledge. Globality. Abstraction. Discernment. Pure mind. Universality. General magic. Philosophy. Ripening. Integration. Authority. Politics. Full representation. Pure understanding. Culture. Civilization. Universal language. Integral expression. Not grounded. Lives in the clouds.
 
-### **PRA** — Practice *(CA: Vitalisme)* · coords (x,y,z) = (0, -100, 0)
+### **PRA** — Practice *(CA: Pràctica)* · coords (x,y,z) = (0, -100, 0)
 
 Force. Concrete, whole, and dynamic reality. Light. Energy and Matter. Authenticity. Anarchy. Intuition. Infancy/old age. Spontaneity. Wildness. Indiscernibility. Ingenuity. Naïve. Innocence of children and elders. Simplicity. Praxis (Marx). Pure pragmatics. Radicalism. Nirvana. People. Nation. Democracy. Demotics. The base. Radical simplicity of the human mind.
 
 ### D3 — Noumenon ↔ Phenomenon
 
-### **NOU** — Noumenon *(CA: Essencialisme)* · coords (x,y,z) = (0, 0, -100)
+### **NOU** — Noumenon *(CA: Noümen)* · coords (x,y,z) = (0, 0, -100)
 
-Transcendence. Union of all. The transcendent reality, the beyond, the soul of the world. Deep and mysterious unity of the entire universe. The One. Being. Fullness. The Nothing. The foundation. Disappearance. Absence. God. Timelessness. Eternity. Synchronicity. Immutability. Mystery of life. Monism. Advaita. Tao. Contemplation. Absolute. Annihilation. Liberation/salvation.
+Transcendence. Union of all. The transcendent reality, the beyond, the soul of the world. Deep and mysterious unity of the entire universe. The One. Being. Fullness. The Nothing. The foundation. Disappearance. Absence. God. Timelessness. Eternity. Synchronicity. Immutability. Mystery of life. Monism. Advaita. Tao. Contemplation. Absolute. Annihilation. Liberation/salvation. Full consciousness.
 
-### **FEN** — Phenomenon *(CA: Fenomenalisme)* · coords (x,y,z) = (0, 0, 100)
+### **FEN** — Phenomenon *(CA: Fenomen)* · coords (x,y,z) = (0, 0, 100)
 
-Appearance. Event. Presence. Physical time. Here and now. Manifestation. Evidence. Competence. Competitiveness. Conflict. War. Multiplicity. Facts. Movement. Duality. Becoming. History. Anecdote. Leap. Change. Dialogue. Exchange. Market. Relation. Interaction. Intersubjectivity. “This – here – now – for me”. Communication. Information. Transaction. Distinction. Dissection.
+Appearance. Event. Presence. Physical time. Here and now. Manifestation. Evidence. Competence. Competitiveness. Conflict. War. Multiplicity. Facts. Movement. Duality. Becoming. History. Anecdote. Leap. Change. Dialogue. Exchange. Market. Relation. Interaction. Intersubjectivity. “This – here – now – for me”. Communication. Information. Transaction. Distinction. Dissection. Impression.
 
 ### D4 — Plasma ↔ World *(radial)*
 
 ### **PLA** — Plasma *(CA: Plasma)* · coords (x,y,z) = (0, 0, 0)
 
-Seed. The radical and absolute retraction of reality. Initial and final singularity. The universe withdrawn to its origin and its end. Birth of the universe, cooling it down, and death of the universe, heating it up. Contains all essence, all consciousness, and all happiness. Radicalism. Genesis. Alpha and omega. Beginning and end. Big-bang. / ¿Big-Crunsh? Virtual reality.
+Seed. The radical and absolute retraction of reality. Initial and final singularity. The universe withdrawn to its origin and its end. Birth of the universe, cooling it down, and death of the universe, heating it up. Contains all essence, all consciousness, and all happiness. Radicalism. Genesis. Alpha and omega. Beginning and end. Big-bang. / ¿Big-Crunsh? Virtual reality. Involution. Opacity.
 
 ### **MON** — World *(CA: Món)*
 
@@ -59,8 +59,8 @@ MON is the *positive pole of the radial axis D4*. Unlike the other 7 axis poles,
 
 The 8 axis poles generate, by combination and projection, the rest of the Meta-Globàlium structure:
 
-- **8 secondary mediator categories** (Neutral, gen 1.5) — sit between cardinal poles on the trajectories of the *voltes* (turns) of the Mètode Global. See below or [`metode-global.md`](../methodology/metode-global.md).
-- **12 discipline categories** (Neutral, gen 1.75) — the academic disciplines, located at the ridges between cardinal poles.
+- **8 secondary mediator categories** (Neutral, gen 1.5) — sit between cardinal poles on the trajectories of the *voltes* of the Mètode Global.
+- **12 discipline categories** (Neutral, gen 1.75) — academic disciplines, located at ridges between cardinal poles.
 - **80 canonical categories** total — see [`80-categories.md`](80-categories.md).
 - **Fractal expansion** to thousands of derived metacategories — see [`fractal-N1-N2.md`](fractal-N1-N2.md).
 
